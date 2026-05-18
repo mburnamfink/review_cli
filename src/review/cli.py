@@ -293,12 +293,13 @@ def new(query: tuple[str, ...], manual: bool, review_type: str | None):
 
     if isbn:
         console.print("\n[dim]Downloading cover art…[/]")
-        raw = fetch_cover_bytes(isbn)
+        cover_i = ol_result.get("cover_i") if ol_result else None
+        raw = fetch_cover_bytes(isbn, cover_i=cover_i)
         if raw:
             cover, og_cover = process_cover(raw, review_dir)
             console.print("[green]Cover saved.[/]")
         else:
-            console.print("[yellow]No cover found on Open Library.[/]")
+            console.print("[yellow]No cover found.[/]")
 
     # --- Write index.md ---
     fm = _build_frontmatter(

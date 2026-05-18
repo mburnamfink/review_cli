@@ -2,12 +2,15 @@ from __future__ import annotations
 
 import hashlib
 import json
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 import httpx
 
 SEARCH_URL = "https://openlibrary.org/search.json"
 COVER_URL = "https://covers.openlibrary.org/b/isbn/{isbn}-L.jpg"
+WORLDCAT_COVER_URL = "https://covers.worldcat.org/isbn/{isbn}-L.jpg"
+LIBRARYTHING_REST_URL = "https://www.librarything.com/services/rest/1.1/"
 FIELDS = "title,author_name,isbn,first_publish_year,cover_i,subject,key,number_of_pages_median"
 CACHE_DIR = Path.home() / ".review" / "cache"
 
@@ -66,25 +69,66 @@ def cover_url(isbn: str) -> str:
     return COVER_URL.format(isbn=isbn)
 
 
-def fetch_cover_bytes(isbn: str) -> bytes | None:
-    url = cover_url(isbn)
+def fetch_cover_bytes(isbn: str, cover_i: int | None = None) -> bytes | None:
+    # 1. Open Library by ISBN
+    try:
+        resp = httpx.get(cover_url(isbn), timeout=15, follow_redirects=True)
+        resp.raise_for_status()
+        content = resp.content
+        # Open Library returns a tiny GIF placeholder when no cover exists
+        if len(content) >= 2000:
+            return content
+    except Exception:
+        pass
+
+    # 2. Open Library by cover_i (different index, higher hit rate than ISBN lookup)
+    if cover_i:
+        result = fetch_cover_by_ol_id(cover_i)
+        if result:
+            return result
+
+    # 3. WorldCat
+    result = _fetch_cover_worldcat(isbn)
+    if result:
+        return result
+
+    # Google Books disabled — API returns 429 (rate-limited without a key)
+    # LibraryThing disabled — API blocked by Cloudflare JS challenge
+
+    return None
+
+
+def fetch_cover_by_ol_id(cover_i: int) -> bytes | None:
+    url = f"https://covers.openlibrary.org/b/id/{cover_i}-L.jpg"
     try:
         resp = httpx.get(url, timeout=15, follow_redirects=True)
         resp.raise_for_status()
         content = resp.content
-        # Open Library returns a tiny GIF placeholder when no cover exists
         if len(content) < 2000:
             return None
         return content
     except Exception:
-        pass
-
-    return _fetch_cover_google_books(isbn)
+        return None
 
 
 GOOGLE_BOOKS_URL = "https://www.googleapis.com/books/v1/volumes"
 
 
+def _fetch_cover_worldcat(isbn: str) -> bytes | None:
+    try:
+        url = WORLDCAT_COVER_URL.format(isbn=isbn)
+        resp = httpx.get(url, timeout=15, follow_redirects=True)
+        resp.raise_for_status()
+        content = resp.content
+        if len(content) < 2000:
+            return None
+        return content
+    except Exception:
+        return None
+
+
+# Google Books: disabled — returns 429 without an API key; re-enable by passing
+# ?key=... once a Google Books API key is added to config.
 def _fetch_cover_google_books(isbn: str) -> bytes | None:
     try:
         resp = httpx.get(GOOGLE_BOOKS_URL, params={"q": f"isbn:{isbn}"}, timeout=10)
@@ -106,6 +150,31 @@ def _fetch_cover_google_books(isbn: str) -> bytes | None:
         # Google Books serves http; force https and strip zoom for full size
         img_url = img_url.replace("http://", "https://").replace("&zoom=1", "&zoom=0")
         img_resp = httpx.get(img_url, timeout=15, follow_redirects=True)
+        img_resp.raise_for_status()
+        content = img_resp.content
+        if len(content) < 2000:
+            return None
+        return content
+    except Exception:
+        return None
+
+
+# LibraryThing: disabled — REST API blocked by Cloudflare JS challenge.
+def _fetch_cover_librarything(isbn: str, api_key: str) -> bytes | None:
+    try:
+        resp = httpx.get(
+            LIBRARYTHING_REST_URL,
+            params={"method": "librarything.ck.getwork", "isbn": isbn, "apikey": api_key},
+            timeout=10,
+        )
+        resp.raise_for_status()
+        root = ET.fromstring(resp.text)
+        if root.get("stat") != "ok":
+            return None
+        src = root.findtext(".//covers/cover/src")
+        if not src:
+            return None
+        img_resp = httpx.get(src, timeout=15, follow_redirects=True)
         img_resp.raise_for_status()
         content = img_resp.content
         if len(content) < 2000:

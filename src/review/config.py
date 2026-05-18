@@ -13,6 +13,7 @@ CACHE_DIR = Path.home() / ".review" / "cache"
 class Config:
     content_dir: Path = field(default_factory=lambda: Path.home() / "content" / "reviews")
     canonical_tags: list[str] = field(default_factory=list)
+    librarything_api_key: str | None = None
 
     @classmethod
     def load(cls) -> "Config":
@@ -22,7 +23,8 @@ class Config:
             data = tomllib.load(f)
         content_dir = Path(data.get("content_dir", str(Path.home() / "content" / "reviews")))
         canonical_tags = data.get("tags", {}).get("canonical", [])
-        return cls(content_dir=content_dir, canonical_tags=canonical_tags)
+        librarything_api_key = data.get("librarything_api_key") or None
+        return cls(content_dir=content_dir, canonical_tags=canonical_tags, librarything_api_key=librarything_api_key)
 
     def save(self) -> None:
         CONFIG_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -30,5 +32,7 @@ class Config:
             "content_dir": str(self.content_dir),
             "tags": {"canonical": sorted(self.canonical_tags)},
         }
+        if self.librarything_api_key:
+            data["librarything_api_key"] = self.librarything_api_key
         with open(CONFIG_PATH, "wb") as f:
             tomli_w.dump(data, f)
