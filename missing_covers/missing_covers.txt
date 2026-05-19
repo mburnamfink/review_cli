@@ -1,2906 +1,1172 @@
-Reviews missing cover images (484 total)
+Reviews missing cover images (195 total)
 ============================================================
 
 Title:   13 True Ways
 Authors: Rob Heinsoo, Jonathan Tweet, Robin D. Laws, Lee Moyer, Aaron McConnell
 Type:    rpg
 ISBN:    9781908983626
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/13-true-ways-heinsoo-jonathan-tweet/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\13-true-ways-heinsoo-jonathan-tweet\index.md
 
 Title:   13th Age Core Book
 Authors: Rob Heinsoo, Jonathan Tweet
 Type:    rpg
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/13th-age-core-book-heinsoo-jonathan-tweet/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\13th-age-core-book-heinsoo-jonathan-tweet\index.md
 
 Title:   1914: These Are Our Masters (The First World War Day-by-Day Book 1)
 Authors: Matt Kersley
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/1914-these-are-our-masters-the-first-world-war-day-by-day-book-1-kersley/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\1914-these-are-our-masters-the-first-world-war-day-by-day-book-1-kersley\index.md
 
 Title:   2021 on Goodreads
 Authors: Various Various
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/2021-on-goodreads-various/index.md
-
-Title:   36 Streets
-Authors: T.R. Napper
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/36-streets-napper/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\2021-on-goodreads-various\index.md
 
 Title:   3:16 Carnage Amongst the Stars
 Authors: Gregor Hutton
 Type:    rpg
 ISBN:    9781907204104
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/316-carnage-amongst-the-stars-hutton/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\316-carnage-amongst-the-stars-hutton\index.md
 
 Title:   A Brief History of Vice: How Bad Behavior Built Civilization
 Authors: Robert Evans
 Type:    book
 ISBN:    9780147517609
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/a-brief-history-of-vice-how-bad-behavior-built-civilization-evans/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\a-brief-history-of-vice-how-bad-behavior-built-civilization-evans\index.md
 
 Title:   A Circus of Hells (Flandry)
 Authors: Poul Anderson
 Type:    book
 ISBN:    9780451042507
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/a-circus-of-hells-flandry-anderson/index.md
-
-Title:   A Civil Campaign
-Authors: Lois McMaster Bujold
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/a-civil-campaign-bujold/index.md
-
-Title:   A Dance with Dragons
-Authors: George R.R. Martin
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/a-dance-with-dragons-martin/index.md
-
-Title:   A Fall of Moondust
-Authors: Arthur C. Clarke
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/a-fall-of-moondust-clarke/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\a-circus-of-hells-flandry-anderson\index.md
 
 Title:   A Haunt for Jackals
 Authors: J.L. Odom
 Type:    book
 ISBN:    9798990024458
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/a-haunt-for-jackals-odom/index.md
-
-Title:   A Job to Love (The School of Life Library)
-Authors: The School of Life
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/a-job-to-love-the-school-of-life-library-life/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\a-haunt-for-jackals-odom\index.md
 
 Title:   A Journey Through Oligarch Valley
 Authors: Yasha Levine
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/a-journey-through-oligarch-valley-levine/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\a-journey-through-oligarch-valley-levine\index.md
 
 Title:   A Masterpiece in Disarray: David Lynch’s Dune—An Oral History
 Authors: Max Evry
 Type:    book
 ISBN:    9781948221290
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/a-masterpiece-in-disarray-david-lynchs-dunean-oral-history-evry/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\a-masterpiece-in-disarray-david-lynchs-dunean-oral-history-evry\index.md
 
 Title:   A Mist of Grit and Splinters
 Authors: Graydon Saunders
 Type:    book
 ISBN:    9780993712654
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/a-mist-of-grit-and-splinters-saunders/index.md
-
-Title:   A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas
-Authors: Warren Berger
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/a-more-beautiful-question-the-power-of-inquiry-to-spark-breakthrough-ideas-berger/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\a-mist-of-grit-and-splinters-saunders\index.md
 
 Title:   A Succession of Bad Days
 Authors: Graydon Saunders
 Type:    book
 ISBN:    9780993712616
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/a-succession-of-bad-days-saunders/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\a-succession-of-bad-days-saunders\index.md
 
 Title:   A Sword Into Darkness (The Patron Cycle Book 1)
 Authors: Thomas A. Mays
 Type:    book
 ISBN:    9781939398130
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/a-sword-into-darkness-the-patron-cycle-book-1-mays/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\a-sword-into-darkness-the-patron-cycle-book-1-mays\index.md
 
 Title:   A Vision So Noble: John Boyd, the OODA Loop, and America's War on Terror
 Authors: Daniel Ford
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/a-vision-so-noble-john-boyd-the-ooda-loop-and-americas-war-on-terror-ford/index.md
-
-Title:   A Wizard of Earthsea
-Authors: Ursula K. Le Guin
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/a-wizard-of-earthsea-guin/index.md
-
-Title:   Abaddon’s Gate
-Authors: James S.A. Corey
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/abaddons-gate-corey/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\a-vision-so-noble-john-boyd-the-ooda-loop-and-americas-war-on-terror-ford\index.md
 
 Title:   Across The Fence: The Secret War in Vietnam (Expanded Edition)
 Authors: John Stryker Meyer
 Type:    book
 ISBN:    9780983256717
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/across-the-fence-the-secret-war-in-vietnam-expanded-edition-meyer/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\across-the-fence-the-secret-war-in-vietnam-expanded-edition-meyer\index.md
 
 Title:   After The Fall (Eclipse Phase)
 Authors: Jaym Gates, Ken Liu, Tiffany Trent, Jack Graham, Fran Wilde, Georgina Kamsika, Andrew Penn Romine, Steve Mohan, Wes Schneider, Karin Lowachee, Madeline Ashby, Nathaniel Dean, Davidson Cole, Rob Boyle, Kim May
 Type:    book
 ISBN:    9780984583591
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/after-the-fall-eclipse-phase-gates-ken-liu/index.md
-
-Title:   Agency
-Authors: William Gibson
-Type:    book
-ISBN:    9781101986950
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/agency-gibson/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\after-the-fall-eclipse-phase-gates-ken-liu\index.md
 
 Title:   Agon
 Authors: John Harper, Sean Nittner
 Type:    rpg
 ISBN:    9781613171752
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/agon-harper-sean-nittner/index.md
-
-Title:   All Systems Red
-Authors: Martha Wells
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/all-systems-red-wells/index.md
-
-Title:   All the Pieces Matter: The Inside Story of The Wire
-Authors: Jonathan Abrams
-Type:    book
-ISBN:    9780451498144
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/all-the-pieces-matter-the-inside-story-of-the-wire-abrams/index.md
-
-Title:   Always A Warrior:  The Memoir Of A Six-War Soldier
-Authors: Charles W. Sasser
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/always-a-warrior-the-memoir-of-a-six-war-soldier-sasser/index.md
-
-Title:   American Gods
-Authors: Neil Gaiman
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/american-gods-gaiman/index.md
-
-Title:   Ancillary Justice
-Authors: Ann Leckie
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/ancillary-justice-leckie/index.md
-
-Title:   Ancillary Mercy
-Authors: Ann Leckie
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/ancillary-mercy-leckie/index.md
-
-Title:   Angles of Attack
-Authors: Marko Kloos
-Type:    book
-ISBN:    9781477878316
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/angles-of-attack-kloos/index.md
-
-Title:   Apocalypse World
-Authors: D. Vincent Baker
-Type:    rpg
-ISBN:    9780976904212
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/apocalypse-world-baker/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\agon-harper-sean-nittner\index.md
 
 Title:   Appendix N: The Eldritch Roots of Dungeons and Dragons
 Authors: Peter Bebergal, Ann VanderMeer
 Type:    book
 ISBN:    9781907222740
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/appendix-n-the-eldritch-roots-of-dungeons-and-dragons-bebergal-ann-vandermeer/index.md
-
-Title:   Armor
-Authors: John Steakley
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/armor-steakley/index.md
-
-Title:   Artificial Condition
-Authors: Martha Wells
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/artificial-condition-wells/index.md
-
-Title:   Artillery
-Authors: John Batchelor, Ian V. Hogg
-Type:    book
-ISBN:    9780394234991
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/artillery-batchelor-ian-v-hogg/index.md
-
-Title:   Aspects
-Authors: John M. Ford
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/aspects-ford/index.md
-
-Title:   Astounding: John W. Campbell, Isaac Asimov, Robert A. Heinlein, L. Ron Hubbard, and the Golden Age of Science Fiction
-Authors: Alec Nevala-Lee
-Type:    book
-ISBN:    9780062571960
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/astounding-john-w-campbell-isaac-asimov-robert-a-heinlein-l-ron-hubbard-and-the-golden-age-of-science-fiction-nevala-lee/index.md
-
-Title:   At Close Quarters: PT Boats in the United States Navy
-Authors: Robert J. Bulkley, John F. Kennedy, Ernest McNeill Eller
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/at-close-quarters-pt-boats-in-the-united-states-navy-bulkley-john-f-kennedy/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\appendix-n-the-eldritch-roots-of-dungeons-and-dragons-bebergal-ann-vandermeer\index.md
 
 Title:   Atlantic Nightmare: The longest military campaign in World War II
 Authors: Richard Freeman
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/atlantic-nightmare-the-longest-military-campaign-in-world-war-ii-freeman/index.md
-
-Title:   Bad Blood: Secrets and Lies in a Silicon Valley Startup
-Authors: John Carreyrou
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/bad-blood-secrets-and-lies-in-a-silicon-valley-startup-carreyrou/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\atlantic-nightmare-the-longest-military-campaign-in-world-war-ii-freeman\index.md
 
 Title:   Band of Blades
 Authors: Stras Acimovic, John LeBoeuf-Little
 Type:    rpg
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/band-of-blades-acimovic-john-leboeuf-little/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\band-of-blades-acimovic-john-leboeuf-little\index.md
 
 Title:   Bang Bang Bodhisattva
 Authors: Aubrey Wood
 Type:    book
 ISBN:    9781786187017
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/bang-bang-bodhisattva-wood/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\bang-bang-bodhisattva-wood\index.md
 
 Title:   Battle of Surigao Strait (Twentieth-Century Battles)
 Authors: Anthony P. Tully
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/battle-of-surigao-strait-twentieth-century-battles-tully/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\battle-of-surigao-strait-twentieth-century-battles-tully\index.md
 
 Title:   Beam Saber
 Authors: Avalyn Ramsay
 Type:    rpg
 ISBN:    9781777314606
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/beam-saber-ramsay/index.md
-
-Title:   Becoming Attached: First Relationships and How They Shape Our Capacity to Love
-Authors: Robert Karen
-Type:    book
-ISBN:    9780199398799
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/becoming-attached-first-relationships-and-how-they-shape-our-capacity-to-love-karen/index.md
-
-Title:   Behind Japanese Lines: With the OSS in Burma
-Authors: Richard Dunlop
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/behind-japanese-lines-with-the-oss-in-burma-dunlop/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\beam-saber-ramsay\index.md
 
 Title:   Best SF Stories from New Worlds, Vol. 2
 Authors: Michael Moorcock
 Type:    book
 ISBN:    9780586023693
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/best-sf-stories-from-new-worlds-vol-2-moorcock/index.md
-
-Title:   Better Small Talk: Talk to Anyone, Avoid Awkwardness, Generate Deep Conversations, and Make Real Friends
-Authors: Patrick King
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/better-small-talk-talk-to-anyone-avoid-awkwardness-generate-deep-conversations-and-make-real-friends-king/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\best-sf-stories-from-new-worlds-vol-2-moorcock\index.md
 
 Title:   BEYOND HUMANITY?:ETHICS OF BIOMEDICAL ENHANCEMENT: The Ethics Of Biomedical Enhancement (Uehiro Series In Practical Ethics)
 Authors: Allen Buchanan
 Type:    book
 ISBN:    9780199671496
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/beyond-humanityethics-of-biomedical-enhancement-the-ethics-of-biomedical-enhancement-uehiro-series-in-practical-ethics-buchanan/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\beyond-humanityethics-of-biomedical-enhancement-the-ethics-of-biomedical-enhancement-uehiro-series-in-practical-ethics-buchanan\index.md
 
 Title:   Beyond the Stones of Machu Picchu: Folk Tales and Stories of Inca Life
 Authors: Elizabeth Conrad VanBuskirk, Angel L. Callanaupa Alvarez
 Type:    book
 ISBN:    9780983886051
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/beyond-the-stones-of-machu-picchu-folk-tales-and-stories-of-inca-life-vanbuskirk-angel-l-callanaupa-alvarez/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\beyond-the-stones-of-machu-picchu-folk-tales-and-stories-of-inca-life-vanbuskirk-angel-l-callanaupa-alvarez\index.md
 
 Title:   Biocapital: The Constitution of Postgenomic Life
 Authors: Kaushik Sunder Rajan
 Type:    book
 ISBN:    9780822337201
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/biocapital-the-constitution-of-postgenomic-life-rajan/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\biocapital-the-constitution-of-postgenomic-life-rajan\index.md
 
 Title:   Biomedicalization: Technoscience, Health, and Illness in the U.S.
 Authors: Adele E. Clarke, Laura Mamo, Jennifer Ruth Fosket, Jennifer R. Fishman, Janet K. Shim
 Type:    book
 ISBN:    9780822345701
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/biomedicalization-technoscience-health-and-illness-in-the-us-clarke-laura-mamo/index.md
-
-Title:   Black May: The Epic Story of the Allies' Defeat of the German U-Boats in May 1943
-Authors: Michael Gannon
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/black-may-the-epic-story-of-the-allies-defeat-of-the-german-u-boats-in-may-1943-gannon/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\biomedicalization-technoscience-health-and-illness-in-the-us-clarke-laura-mamo\index.md
 
 Title:   Blades in the Dark - Deep Cuts
 Authors: John Harper
 Type:    rpg
 ISBN:    9781613172148
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/blades-in-the-dark-deep-cuts-harper/index.md
-
-Title:   Blood and Sand: Suez, Hungary, and Eisenhower's Campaign for Peace
-Authors: Alex von Tunzelmann
-Type:    book
-ISBN:    9780062249241
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/blood-and-sand-suez-hungary-and-eisenhowers-campaign-for-peace-tunzelmann/index.md
-
-Title:   Blowout
-Authors: Rachel Maddow
-Type:    book
-ISBN:    9780525575498
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/blowout-maddow/index.md
-
-Title:   Bossypants
-Authors: Tina Fey
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/bossypants-fey/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\blades-in-the-dark-deep-cuts-harper\index.md
 
 Title:   Brigador
 Authors: Bradley Buckmaster, Benjamin Glover
 Type:    book
 ISBN:    9780997616606
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/brigador-buckmaster-benjamin-glover/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\brigador-buckmaster-benjamin-glover\index.md
 
 Title:   Building Better Humans?: Refocusing the Debate on Transhumanism (Beyond Humanism: Trans- And Posthumanism / Jenseits Des Huma)
 Authors: Hava Tirosh-Samuelson, Kenneth L. Mossman
 Type:    book
 ISBN:    9783653018240
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/building-better-humans-refocusing-the-debate-on-transhumanism-beyond-humanism-trans-and-posthumanism-jenseits-des-huma-tirosh-samuelson-kenneth-l-mossman/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\building-better-humans-refocusing-the-debate-on-transhumanism-beyond-humanism-trans-and-posthumanism-jenseits-des-huma-tirosh-samuelson-kenneth-l-mossman\index.md
 
 Title:   Bureaucracy Does Its Thing: Institutional Constraints on U.S.-GVN Performance in Vietnam (RAND Report R-967)
 Authors: Robert W. Komer
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/bureaucracy-does-its-thing-institutional-constraints-on-us-gvn-performance-in-vietnam-rand-report-r-967-komer/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\bureaucracy-does-its-thing-institutional-constraints-on-us-gvn-performance-in-vietnam-rand-report-r-967-komer\index.md
 
 Title:   Butterick's Practical Typography
 Authors: Matthew Butterick, Erik Spiekermann
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/buttericks-practical-typography-butterick-erik-spiekermann/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\buttericks-practical-typography-butterick-erik-spiekermann\index.md
 
 Title:   By Blood, by Salt
 Authors: J.L. Odom
 Type:    book
 ISBN:    9798990024427
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/by-blood-by-salt-odom/index.md
-
-Title:   Call to Arms
-Authors: Jay Allan
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/call-to-arms-allan/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\by-blood-by-salt-odom\index.md
 
 Title:   Carrying Coca: 1,500 Years of Andean Chuspas (Bard Graduate Center)
 Authors: Nicola Sharratt, Bard Graduate Center
 Type:    book
 ISBN:    9780300200720
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/carrying-coca-1500-years-of-andean-chuspas-bard-graduate-center-sharratt-bard-graduate-center/index.md
-
-Title:   Cetaganda
-Authors: Lois McMaster Bujold
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/cetaganda-bujold/index.md
-
-Title:   Chapterhouse: Dune
-Authors: Frank Patrick Herbert
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/chapterhouse-dune-herbert/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\carrying-coca-1500-years-of-andean-chuspas-bard-graduate-center-sharratt-bard-graduate-center\index.md
 
 Title:   Children of Memory
 Authors: Adrian Tchaikovsky
 Type:    book
 ISBN:    9781529087208
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/children-of-memory-tchaikovsky/index.md
-
-Title:   Children of Ruin
-Authors: Adrian Tchaikovsky, Mel Hudson
-Type:    audiobook
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/audiobook/children-of-ruin-tchaikovsky/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\children-of-memory-tchaikovsky\index.md
 
 Title:   Churchill's Ministry of Ungentlemanly Warfare: The Mavericks Who Plotted Hitler's Defeat
 Authors: Giles Milton
 Type:    book
 ISBN:    9781250119049
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/churchills-ministry-of-ungentlemanly-warfare-the-mavericks-who-plotted-hitlers-defeat-milton/index.md
-
-Title:   City of Gold
-Authors: Len Deighton
-Type:    book
-ISBN:    9780099918905
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/city-of-gold-deighton/index.md
-
-Title:   City of Illusions
-Authors: Ursula K. Le Guin
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/city-of-illusions-guin/index.md
-
-Title:   Coming Together: Embracing your Core Desires for Sexual Fulfillment and Long-Term Compatibility
-Authors: Danielle Harel, Celeste Hirschman
-Type:    book
-ISBN:    9780983240310
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/coming-together-embracing-your-core-desires-for-sexual-fulfillment-and-long-term-compatibility-harel-celeste-hirschman/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\churchills-ministry-of-ungentlemanly-warfare-the-mavericks-who-plotted-hitlers-defeat-milton\index.md
 
 Title:   Computing Taste: Algorithms and the Makers of Music Recommendation
 Authors: Nick Seaver
 Type:    book
 ISBN:    9780226702261
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/computing-taste-algorithms-and-the-makers-of-music-recommendation-seaver/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\computing-taste-algorithms-and-the-makers-of-music-recommendation-seaver\index.md
 
 Title:   Comrades: A Revolutionary RPG
 Authors: W.M. Akers
 Type:    rpg
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/comrades-a-revolutionary-rpg-akers/index.md
-
-Title:   Concentration: Staying Focused in Times of Distraction
-Authors: Stefan van der Stigchel
-Type:    book
-ISBN:    9780262538565
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/concentration-staying-focused-in-times-of-distraction-stigchel/index.md
-
-Title:   Condition Red: Destroyer Action in the South Pacific
-Authors: Frederick J. Bell
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/condition-red-destroyer-action-in-the-south-pacific-bell/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\comrades-a-revolutionary-rpg-akers\index.md
 
 Title:   Consulting Start-Up and Management: A Guide for Evaluators and Applied Researchers
 Authors: Gail V. Barrington
 Type:    book
 ISBN:    9781412987097
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/consulting-start-up-and-management-a-guide-for-evaluators-and-applied-researchers-barrington/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\consulting-start-up-and-management-a-guide-for-evaluators-and-applied-researchers-barrington\index.md
 
 Title:   Cortex Prime Game Handbook
 Authors: Cam Banks, Amanda Valentine
 Type:    rpg
 ISBN:    9781648530012
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/cortex-prime-game-handbook-banks-amanda-valentine/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\cortex-prime-game-handbook-banks-amanda-valentine\index.md
 
 Title:   Counterfeit Dreams : One Man's Journey into and Out of the World of Scientology
 Authors: Jefferson Hawkins
 Type:    book
 ISBN:    9780615375649
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/counterfeit-dreams-one-mans-journey-into-and-out-of-the-world-of-scientology-hawkins/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\counterfeit-dreams-one-mans-journey-into-and-out-of-the-world-of-scientology-hawkins\index.md
 
 Title:   Court of Blades
 Authors: Shawn G Drake, Navi C Drake
 Type:    rpg
 ISBN:    9798985113402
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/court-of-blades-drake-navi-c-drake/index.md
-
-Title:   Cracking the Coding Interview: 189 Programming Questions and Solutions
-Authors: Gayle Laakmann McDowell
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/cracking-the-coding-interview-189-programming-questions-and-solutions-mcdowell/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\court-of-blades-drake-navi-c-drake\index.md
 
 Title:   Crossing the Bar: The Adventures of a San Francisco Bay Bar Pilot
 Authors: Paul Lobo
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/crossing-the-bar-the-adventures-of-a-san-francisco-bay-bar-pilot-lobo/index.md
-
-Title:   Crosswinds: The Air Force's Setup in Vietnam
-Authors: Earl H. Tilford
-Type:    book
-ISBN:    9781603441261
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/crosswinds-the-air-forces-setup-in-vietnam-tilford/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\crossing-the-bar-the-adventures-of-a-san-francisco-bay-bar-pilot-lobo\index.md
 
 Title:   Dam Busters: The True Story of the Legendary Raid on the Ruhr
 Authors: James Holland
 Type:    book
 ISBN:    9780593066768
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/dam-busters-the-true-story-of-the-legendary-raid-on-the-ruhr-holland/index.md
-
-Title:   Dance Between Flames: Berlin Between the Wars
-Authors: Anton Gill
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/dance-between-flames-berlin-between-the-wars-gill/index.md
-
-Title:   Data Science in Production: Building Scalable Model Pipelines with Python
-Authors: Ben Weber
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/data-science-in-production-building-scalable-model-pipelines-with-python-weber/index.md
-
-Title:   Days of Shattered Faith
-Authors: Adrian Tchaikovsky
-Type:    book
-ISBN:    9781035901524
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/days-of-shattered-faith-tchaikovsky/index.md
-
-Title:   Deathbird Stories
-Authors: Harlan Ellison
-Type:    book
-ISBN:    9780739462287
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/deathbird-stories-ellison/index.md
-
-Title:   Debt: The First 5,000 Years
-Authors: David Graeber
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/debt-the-first-5000-years-graeber/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\dam-busters-the-true-story-of-the-legendary-raid-on-the-ruhr-holland\index.md
 
 Title:   Defector (Phantom Air Combat Book 1)
 Authors: David Gledhill
 Type:    book
 ISBN:    9781913267087
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/defector-phantom-air-combat-book-1-gledhill/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\defector-phantom-air-combat-book-1-gledhill\index.md
 
 Title:   Defiant Role Playing Game
 Authors: Katarzyna Kuczyńska, Marcin Kuczyński
 Type:    rpg
 ISBN:    9788389765161
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/defiant-role-playing-game-kuczynska-marcin-kuczynski/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\defiant-role-playing-game-kuczynska-marcin-kuczynski\index.md
 
 Title:   Descendant of War
 Authors: G.J. Ogden
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/descendant-of-war-ogden/index.md
-
-Title:   Deschooling Society
-Authors: Ivan Illich
-Type:    book
-ISBN:    8898473133
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/deschooling-society-illich/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\descendant-of-war-ogden\index.md
 
 Title:   Design, Analysis and Optimization of Supply Chains: A System Dynamics Approach (Supply and Operations Management Collection)
 Authors: William R. Killingsworth
 Type:    book
 ISBN:    9781283892933
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/design-analysis-and-optimization-of-supply-chains-a-system-dynamics-approach-supply-and-operations-management-collection-killingsworth/index.md
-
-Title:   Designing Data-Intensive Applications
-Authors: Martin Kleppmann
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/designing-data-intensive-applications-kleppmann/index.md
-
-Title:   Designing the New American University
-Authors: Michael M. Crow
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/designing-the-new-american-university-crow/index.md
-
-Title:   Desolation Island
-Authors: Patrick O'Brian
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/desolation-island-obrian/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\design-analysis-and-optimization-of-supply-chains-a-system-dynamics-approach-supply-and-operations-management-collection-killingsworth\index.md
 
 Title:   Disaster Nationalism: The Downfall of Liberal Civilization
 Authors: Richard Seymour
 Type:    book
 ISBN:    9781804294253
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/disaster-nationalism-the-downfall-of-liberal-civilization-seymour/index.md
-
-Title:   Divorce Without Court: A Guide to Mediation and Collaborative Divorce
-Authors: Katherine E. Stoner
-Type:    book
-ISBN:    9781413325287
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/divorce-without-court-a-guide-to-mediation-and-collaborative-divorce-stoner/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\disaster-nationalism-the-downfall-of-liberal-civilization-seymour\index.md
 
 Title:   Dog Eat Dog RPG
 Authors: Liam Liwanag Burke
 Type:    rpg
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/dog-eat-dog-rpg-burke/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\dog-eat-dog-rpg-burke\index.md
 
 Title:   Don't Panic: Douglas Adams & The Hitchhiker's Guide to the Galaxy
 Authors: Neil Gaiman, David K. Dickson, M.J. Simpson, Guy Adams
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/dont-panic-douglas-adams-the-hitchhikers-guide-to-the-galaxy-gaiman-david-k-dickson/index.md
-
-Title:   Dream of Reason: A History of Western Philosophy from the Greeks to the Renaissance
-Authors: Anthony Gottlieb
-Type:    book
-ISBN:    9780393352986
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/dream-of-reason-a-history-of-western-philosophy-from-the-greeks-to-the-renaissance-gottlieb/index.md
-
-Title:   Duel in the Dark
-Authors: Jay Allan
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/duel-in-the-dark-allan/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\dont-panic-douglas-adams-the-hitchhikers-guide-to-the-galaxy-gaiman-david-k-dickson\index.md
 
 Title:   Duel of Eagles: The Classic Pilot's Account of the Battle of Britain (Peter Townsend's Air War Collection Book 1)
 Authors: Peter Townsend
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/duel-of-eagles-the-classic-pilots-account-of-the-battle-of-britain-peter-townsends-air-war-collection-book-1-townsend/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\duel-of-eagles-the-classic-pilots-account-of-the-battle-of-britain-peter-townsends-air-war-collection-book-1-townsend\index.md
 
 Title:   Dune: Adventures in the Imperium
 Authors: Nathan Dowdell
 Type:    rpg
 ISBN:    9781912743599
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/dune-adventures-in-the-imperium-dowdell/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\dune-adventures-in-the-imperium-dowdell\index.md
 
 Title:   Dungeon World
 Authors: Sage LaTorra, Adam Koebel
 Type:    rpg
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/dungeon-world-latorra-adam-koebel/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\dungeon-world-latorra-adam-koebel\index.md
 
 Title:   Eat More Comics: The Best of the Nib
 Authors: Matt Bors, Eleri Harris, Matt Lubchansky
 Type:    book
 ISBN:    9780988927124
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/eat-more-comics-the-best-of-the-nib-bors-eleri-harris/index.md
-
-Title:   Education in the Age of Biocapitalism: Optimizing Educational Life for a Flat World
-Authors: Clayton Pierce
-Type:    book
-ISBN:    9781299262263
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/education-in-the-age-of-biocapitalism-optimizing-educational-life-for-a-flat-world-pierce/index.md
-
-Title:   Eichmann in Jerusalem: A Report on the Banality of Evil
-Authors: Hannah Arendt
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/eichmann-in-jerusalem-a-report-on-the-banality-of-evil-arendt/index.md
-
-Title:   Embers Of War: The Fall of an Empire and the Making of America's Vietnam
-Authors: Fredrik Logevall
-Type:    book
-ISBN:    9780375504426
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/embers-of-war-the-fall-of-an-empire-and-the-making-of-americas-vietnam-logevall/index.md
-
-Title:   Engineering the Revolution: Arms and Enlightenment in France, 1763-1815
-Authors: Ken Alder
-Type:    book
-ISBN:    9780226012643
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/engineering-the-revolution-arms-and-enlightenment-in-france-1763-1815-alder/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\eat-more-comics-the-best-of-the-nib-bors-eleri-harris\index.md
 
 Title:   Equoid (Laundry Files, #2.9)
 Authors: Charles Stross
 Type:    book
 ISBN:    9781466855472
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/equoid-laundry-files-29-stross/index.md
-
-Title:   Ernie's War: The Best of Ernie Pyle's World War II Dispatches
-Authors: Ernie Pyle, David Nichols, Studs Terkel
-Type:    book
-ISBN:    9780671644529
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/ernies-war-the-best-of-ernie-pyles-world-war-ii-dispatches-pyle-david-nichols/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\equoid-laundry-files-29-stross\index.md
 
 Title:   Ethics and Data Science
 Authors: Mike Loukides, Hilary Mason, DJ Patil
 Type:    book
 ISBN:    9781492045366
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/ethics-and-data-science-loukides-hilary-mason/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\ethics-and-data-science-loukides-hilary-mason\index.md
 
 Title:   Everything Change: An Anthology of Climate Fiction
 Authors: Manjana Milkoreit, Meredith Martinez, Joey Eschrich, Kim Stanley Robinson, Adam Flynn, Andrew Dana Hudson, Kell Cowley, Matthew S. Henry, Ashley Anglin, Daniel Thron, Kathryn Blume, Stirling Davenport, Diana Rose Harper, Henrietta Hartl, Shauna O'Meara, Lindsay Redifer, Yakos Spiliotopoulos, Ed Finn, Paolo Bacigalupi
 Type:    book
 ISBN:    9781536577143
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/everything-change-an-anthology-of-climate-fiction-milkoreit-meredith-martinez/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\everything-change-an-anthology-of-climate-fiction-milkoreit-meredith-martinez\index.md
 
 Title:   Everything Must Go: The Stories We Tell About the End of the World
 Authors: Dorian Lynskey
 Type:    book
 ISBN:    9781529095968
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/everything-must-go-the-stories-we-tell-about-the-end-of-the-world-lynskey/index.md
-
-Title:   Exhalation
-Authors: Ted Chiang
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/exhalation-chiang/index.md
-
-Title:   Exit Strategy
-Authors: Martha Wells
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/exit-strategy-wells/index.md
-
-Title:   Eyes of the Void
-Authors: Adrian Tchaikovsky
-Type:    book
-ISBN:    9781668604908
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/eyes-of-the-void-tchaikovsky/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\everything-must-go-the-stories-we-tell-about-the-end-of-the-world-lynskey\index.md
 
 Title:   Fate Accelerated
 Authors: Clark Valentine, Leonard Balsera, Fred Hicks, Mike Olson, Amanda Valentine
 Type:    rpg
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/fate-accelerated-valentine-leonard-balsera/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\fate-accelerated-valentine-leonard-balsera\index.md
 
 Title:   Fathering Your Toddler: A Dad's Guide To The Second And Third Years (New Father Series)
 Authors: Armin A. Brott
 Type:    book
 ISBN:    9780789210852
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/fathering-your-toddler-a-dads-guide-to-the-second-and-third-years-new-father-series-brott/index.md
-
-Title:   Fiasco
-Authors: Jason Morningstar
-Type:    rpg
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/fiasco-morningstar/index.md
-
-Title:   Fighter: A history of fighter aircraft
-Authors: Bryan Cooper
-Type:    book
-ISBN:    9780356045757
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/fighter-a-history-of-fighter-aircraft-cooper/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\fathering-your-toddler-a-dads-guide-to-the-second-and-third-years-new-father-series-brott\index.md
 
 Title:   Films from the Future: The Technology and Morality of Sci-Fi Movies (Analyzing the Future)
 Authors: Andrew Maynard
 Type:    book
 ISBN:    9781633539068
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/films-from-the-future-the-technology-and-morality-of-sci-fi-movies-analyzing-the-future-maynard/index.md
-
-Title:   Final Incal
-Authors: Alejandro Jodorowsky, José Ladrönn
-Type:    book
-ISBN:    9781594651076
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/final-incal-jodorowsky-jose-ladronn/index.md
-
-Title:   Fire Ant
-Authors: Jonathan P. Brazee
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/fire-ant-brazee/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\films-from-the-future-the-technology-and-morality-of-sci-fi-movies-analyzing-the-future-maynard\index.md
 
 Title:   Fire in the Hole (Raylan Givens, #2.5)
 Authors: Elmore Leonard
 Type:    book
 ISBN:    5551096602
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/fire-in-the-hole-raylan-givens-25-leonard/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\fire-in-the-hole-raylan-givens-25-leonard\index.md
 
 Title:   Firefly Role-Playing Game: Gaming in the 'Verse
 Authors: Monica Valentinelli, Margaret Weis, Dave Chalker, Rob Wieland, Philippe-Antoine Ménard, Cam Banks, Amanda Valentine, Mark Diaz Truman, Daniel Soliz, Robert Wilson IV, Andrew Peregrine, Sally Christensen, Kurt Komoda, Jennifer Rodger
 Type:    rpg
 ISBN:    9781936685318
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/firefly-role-playing-game-gaming-in-the-verse-valentinelli-margaret-weis/index.md
-
-Title:   First Person Peculiar
-Authors: Mike Resnick
-Type:    book
-ISBN:    9781614751519
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/first-person-peculiar-resnick/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\firefly-role-playing-game-gaming-in-the-verse-valentinelli-margaret-weis\index.md
 
 Title:   Fitting In Is Overrated: The Survival Guide for Anyone Who Has Ever Felt Like an Outsider
 Authors: Leonard Felder
 Type:    book
 ISBN:    9781402748844
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/fitting-in-is-overrated-the-survival-guide-for-anyone-who-has-ever-felt-like-an-outsider-felder/index.md
-
-Title:   Flame and Fortune in the American West: Urban Development, Environmental Change, and the Great Oakland Hills Fire
-Authors: Gregory L. Simon
-Type:    book
-ISBN:    9780520966161
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/flame-and-fortune-in-the-american-west-urban-development-environmental-change-and-the-great-oakland-hills-fire-simon/index.md
-
-Title:   Flashman
-Authors: George MacDonald Fraser
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/flashman-fraser/index.md
-
-Title:   Flatlander
-Authors: Larry Niven
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/flatlander-niven/index.md
-
-Title:   Fluency
-Authors: Jennifer Foehner Wells
-Type:    book
-ISBN:    9780990479802
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/fluency-wells/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\fitting-in-is-overrated-the-survival-guide-for-anyone-who-has-ever-felt-like-an-outsider-felder\index.md
 
 Title:   Flying Camelot: The F-15, the F-16, and the Weaponization of Fighter Pilot Nostalgia (Battlegrounds: Cornell Studies in Military History)
 Authors: Michael W. Hankins
 Type:    book
 ISBN:    9781501760679
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/flying-camelot-the-f-15-the-f-16-and-the-weaponization-of-fighter-pilot-nostalgia-battlegrounds-cornell-studies-in-military-history-hankins/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\flying-camelot-the-f-15-the-f-16-and-the-weaponization-of-fighter-pilot-nostalgia-battlegrounds-cornell-studies-in-military-history-hankins\index.md
 
 Title:   Flying Circus: The High-Flying Adventure Game
 Authors: Erika Chappell
 Type:    rpg
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/flying-circus-the-high-flying-adventure-game-chappell/index.md
-
-Title:   Fortress : A History of Military Defense
-Authors: Ian V. Hogg
-Type:    book
-ISBN:    9780312299774
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/fortress-a-history-of-military-defense-hogg/index.md
-
-Title:   Foundryside
-Authors: Robert Jackson Bennett
-Type:    book
-ISBN:    9781524760373
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/foundryside-bennett/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\flying-circus-the-high-flying-adventure-game-chappell\index.md
 
 Title:   Four Roads Cross
 Authors: Max Gladstone
 Type:    book
 ISBN:    9780765379429
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/four-roads-cross-gladstone/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\four-roads-cross-gladstone\index.md
 
 Title:   Foxtrot in Kandahar: A Memoir of a CIA Officer in Afghanistan at the Inception of America’s Longest War
 Authors: Duane Evans
 Type:    book
 ISBN:    9781611213577
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/foxtrot-in-kandahar-a-memoir-of-a-cia-officer-in-afghanistan-at-the-inception-of-americas-longest-war-evans/index.md
-
-Title:   Frankenstein
-Authors: Mary Wollstonecraft Shelley
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/frankenstein-shelley/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\foxtrot-in-kandahar-a-memoir-of-a-cia-officer-in-afghanistan-at-the-inception-of-americas-longest-war-evans\index.md
 
 Title:   Future Daddy The Ultimate Guide For First Time Dads
 Authors: Andres Mooring
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/future-daddy-the-ultimate-guide-for-first-time-dads-mooring/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\future-daddy-the-ultimate-guide-for-first-time-dads-mooring\index.md
 
 Title:   Future Scouting: How to design future inventions to change today by combining speculative design, design fiction, design thinking, life-centred design, and science fiction
 Authors: Damien Lutz
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/future-scouting-how-to-design-future-inventions-to-change-today-by-combining-speculative-design-design-fiction-design-thinking-life-centred-design-and-science-fiction-lutz/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\future-scouting-how-to-design-future-inventions-to-change-today-by-combining-speculative-design-design-fiction-design-thinking-life-centred-design-and-science-fiction-lutz\index.md
 
 Title:   Future Visions: Original Science Fiction Inspired by Microsoft
 Authors: Jennifer Henshaw, Allison Linn, Elizabeth Bear, Greg Bear, David Brin, Blue Delliquanti, Nancy Kress, Ann Leckie, Jack McDevitt, Seanan McGuire, Michele  Rosenthal, Robert J. Sawyer
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/future-visions-original-science-fiction-inspired-by-microsoft-henshaw-allison-linn/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\future-visions-original-science-fiction-inspired-by-microsoft-henshaw-allison-linn\index.md
 
 Title:   Gangsters vs. Nazis: How Jewish Mobsters Battled Nazis in Wartime America
 Authors: Michael Benson
 Type:    book
 ISBN:    9780806541792
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/gangsters-vs-nazis-how-jewish-mobsters-battled-nazis-in-wartime-america-benson/index.md
-
-Title:   Genesis
-Authors: Bernard Beckett
-Type:    book
-ISBN:    9780547335926
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/genesis-beckett/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\gangsters-vs-nazis-how-jewish-mobsters-battled-nazis-in-wartime-america-benson\index.md
 
 Title:   Genesis and Development of a Scientific Fact
 Authors: Ludwik Fleck, Robert K. Merton, Thaddeus J. Trenn, Frederick Bradley, Thomas S. Kuhn
 Type:    book
 ISBN:    9780226253251
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/genesis-and-development-of-a-scientific-fact-fleck-robert-k-merton/index.md
-
-Title:   Ghost Fleet: A Novel of the Next World War
-Authors: P.W. Singer, August Cole
-Type:    book
-ISBN:    9780544142848
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/ghost-fleet-a-novel-of-the-next-world-war-singer-august-cole/index.md
-
-Title:   God Emperor of Dune
-Authors: Frank Patrick Herbert
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/god-emperor-of-dune-herbert/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\genesis-and-development-of-a-scientific-fact-fleck-robert-k-merton\index.md
 
 Title:   Going Dark
 Authors: Linda Nagata
 Type:    book
 ISBN:    9781481440981
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/going-dark-nagata/index.md
-
-Title:   Golden Son
-Authors: Pierce Brown
-Type:    book
-ISBN:    9780345539823
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/golden-son-brown/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\going-dark-nagata\index.md
 
 Title:   Gubat Banwa
 Authors: Joaquin Kyle Saavedra
 Type:    rpg
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/gubat-banwa-saavedra/index.md
-
-Title:   Guerillas
-Authors: Jon Lee Anderson
-Type:    book
-ISBN:    9783471770436
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/guerillas-anderson/index.md
-
-Title:   Guerrilla
-Authors: Charles W. Thayer
-Type:    book
-ISBN:    9780451050601
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/guerrilla-thayer/index.md
-
-Title:   Guillotine
-Authors: Robert Frederick Opie
-Type:    book
-ISBN:    9780750944038
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/guillotine-opie/index.md
-
-Title:   Gunpowder Moon
-Authors: David Pedreira
-Type:    book
-ISBN:    9780062676085
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/gunpowder-moon-pedreira/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\gubat-banwa-saavedra\index.md
 
 Title:   Hanoi's War: An International History of the War for Peace in Vietnam (New Cold War History)
 Authors: Lien-Hang T. Nguyen
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/hanois-war-an-international-history-of-the-war-for-peace-in-vietnam-new-cold-war-history-nguyen/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\hanois-war-an-international-history-of-the-war-for-peace-in-vietnam-new-cold-war-history-nguyen\index.md
 
 Title:   Hard Wired Island
 Authors: Paul Matijevic, Freyja Erlingsdottir, Minerva McJanda
 Type:    rpg
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/hard-wired-island-matijevic-freyja-erlingsdottir/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\hard-wired-island-matijevic-freyja-erlingsdottir\index.md
 
 Title:   Hieroglyph: Stories and Visions for a Better Future
 Authors: Ed Finn, Kathryn Cramer, Neal Stephenson, Lawrence M. Krauss, Elizabeth Bear, Cory Doctorow, Karl Schroeder, Bruce Sterling, Brenda Cooper, Madeline Ashby, Annalee Newitz, Vandana Singh, Gregory Benford, Charlie Jane Anders, David Brin, Paul C.W. Davies, Kathleen Ann Goonan, Lee Konstantinou, Rudy Rucker, James L. Cambias, Geoffrey A. Landis
 Type:    book
 ISBN:    9780062204707
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/hieroglyph-stories-and-visions-for-a-better-future-finn-kathryn-cramer/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\hieroglyph-stories-and-visions-for-a-better-future-finn-kathryn-cramer\index.md
 
 Title:   Hiring Data Scientists and Machine Learning Engineers
 Authors: Roy Keyes
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/hiring-data-scientists-and-machine-learning-engineers-keyes/index.md
-
-Title:   Hope Never Dies
-Authors: Andrew Shaffer
-Type:    book
-ISBN:    9781683690405
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/hope-never-dies-shaffer/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\hiring-data-scientists-and-machine-learning-engineers-keyes\index.md
 
 Title:   Hot Singles in Your Area
 Authors: Jordan Shiveley
 Type:    book
 ISBN:    9781800183414
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/hot-singles-in-your-area-shiveley/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\hot-singles-in-your-area-shiveley\index.md
 
 Title:   House of the Rain King
 Authors: Will Greatwich
 Type:    book
 ISBN:    9781763878709
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/house-of-the-rain-king-greatwich/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\house-of-the-rain-king-greatwich\index.md
 
 Title:   How To Destroy A Tech Startup In Three Easy Steps
 Authors: Lawrence Krubner, Natalie Sidner
 Type:    book
 ISBN:    9780998997605
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/how-to-destroy-a-tech-startup-in-three-easy-steps-krubner-natalie-sidner/index.md
-
-Title:   How to Lead: Wisdom from the World's Greatest CEOs, Founders, and Game Changers
-Authors: David M. Rubenstein
-Type:    book
-ISBN:    9781982132187
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/how-to-lead-wisdom-from-the-worlds-greatest-ceos-founders-and-game-changers-rubenstein/index.md
-
-Title:   How to Win Friends & Influence People
-Authors: Dale Carnegie
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/how-to-win-friends-influence-people-carnegie/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\how-to-destroy-a-tech-startup-in-three-easy-steps-krubner-natalie-sidner\index.md
 
 Title:   Hybrid Rule and State Formation: Public-Private Power in the 21st Century (RIPE Series in Global Political Economy)
 Authors: Shelley Hurt, Ronnie Lipschutz
 Type:    book
 ISBN:    9781138799110
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/hybrid-rule-and-state-formation-public-private-power-in-the-21st-century-ripe-series-in-global-political-economy-hurt-ronnie-lipschutz/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\hybrid-rule-and-state-formation-public-private-power-in-the-21st-century-ripe-series-in-global-political-economy-hurt-ronnie-lipschutz\index.md
 
 Title:   I Am Legend / The Omega Man (Medallion S2041)
 Authors: Richard Matheson
 Type:    book
 ISBN:    9780425020418
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/i-am-legend-the-omega-man-medallion-s2041-matheson/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\i-am-legend-the-omega-man-medallion-s2041-matheson\index.md
 
 Title:   I Have No Mouth & I Must Scream
 Authors: Harlan Ellison, Theodore Sturgeon
 Type:    book
 ISBN:    9780441363957
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/i-have-no-mouth-i-must-scream-ellison-theodore-sturgeon/index.md
-
-Title:   I Just Want This Done: How Smart, Successful People Get Divorced Without Losing Their Kids, Money, and Minds
-Authors: Raiford Dalton Palmer
-Type:    book
-ISBN:    9781737208921
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/i-just-want-this-done-how-smart-successful-people-get-divorced-without-losing-their-kids-money-and-minds-palmer/index.md
-
-Title:   I Sing the Body Electric! and Other Stories
-Authors: Ray Bradbury
-Type:    book
-ISBN:    9780062242280
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/i-sing-the-body-electric-and-other-stories-bradbury/index.md
-
-Title:   I Want to Believe: Posadism, UFOs and Apocalypse Communism
-Authors: A.M. Gittlitz
-Type:    book
-ISBN:    9780745340760
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/i-want-to-believe-posadism-ufos-and-apocalypse-communism-gittlitz/index.md
-
-Title:   Ice Station Zebra
-Authors: Alistair MacLean
-Type:    book
-ISBN:    9780007252893
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/ice-station-zebra-maclean/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\i-have-no-mouth-i-must-scream-ellison-theodore-sturgeon\index.md
 
 Title:   Ill Met in Lankhmar and Ship of Shadows: Two Novellas
 Authors: Fritz Leiber
 Type:    book
 ISBN:    9781504034449
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/ill-met-in-lankhmar-and-ship-of-shadows-two-novellas-leiber/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\ill-met-in-lankhmar-and-ship-of-shadows-two-novellas-leiber\index.md
 
 Title:   In the Stacks
 Authors: Scott Lynch
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/in-the-stacks-lynch/index.md
-
-Title:   In the Vanishers’ Palace
-Authors: Aliette de Bodard
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/in-the-vanishers-palace-bodard/index.md
-
-Title:   Indigenous Voices in Digital Spaces
-Authors: Cindy Tekobbe
-Type:    book
-ISBN:    9781646426461
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/indigenous-voices-in-digital-spaces-tekobbe/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\in-the-stacks-lynch\index.md
 
 Title:   Infinitesimal: How a Dangerous Mathematical Theory Shaped the Modern World
 Authors: Amir Alexander
 Type:    book
 ISBN:    9781429953924
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/infinitesimal-how-a-dangerous-mathematical-theory-shaped-the-modern-world-alexander/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\infinitesimal-how-a-dangerous-mathematical-theory-shaped-the-modern-world-alexander\index.md
 
 Title:   Innovation Thinking Methods for the Modern Entrepreneur: Disciplines of thought that can help you rethink industries and unlock 10x better solutions
 Authors: Osama A. Hashmi
 Type:    book
 ISBN:    9780997358711
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/innovation-thinking-methods-for-the-modern-entrepreneur-disciplines-of-thought-that-can-help-you-rethink-industries-and-unlock-10x-better-solutions-hashmi/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\innovation-thinking-methods-for-the-modern-entrepreneur-disciplines-of-thought-that-can-help-you-rethink-industries-and-unlock-10x-better-solutions-hashmi\index.md
 
 Title:   Into Enemy Waters: A World War II Story of the Demolition Divers Who Became the Navy SEALS
 Authors: Andrew Dubbins
 Type:    book
 ISBN:    9781635767759
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/into-enemy-waters-a-world-war-ii-story-of-the-demolition-divers-who-became-the-navy-seals-dubbins/index.md
-
-Title:   Introduction to Sociology
-Authors: OpenStax College, Heather Griffiths, Nathan Keirns, Eric Strayer, Susan Cody-Rydzewski, Gail Scaramuzzo, Tommy Sadler, Sally Vyain, Jeff Bry, Faye Jones
-Type:    book
-ISBN:    9781938168413
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/introduction-to-sociology-college-heather-griffiths/index.md
-
-Title:   Invincible
-Authors: Jack Campbell
-Type:    book
-ISBN:    9781937007454
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/invincible-campbell/index.md
-
-Title:   Involution Ocean
-Authors: Bruce Sterling
-Type:    book
-ISBN:    9780441372065
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/involution-ocean-sterling/index.md
-
-Title:   Jonathan Strange & Mr Norrell
-Authors: Susanna Clarke
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/jonathan-strange-mr-norrell-clarke/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\into-enemy-waters-a-world-war-ii-story-of-the-demolition-divers-who-became-the-navy-seals-dubbins\index.md
 
 Title:   Killing Without Heart: Limits on Robotic Warfare in an Age of Persistent Conflict
 Authors: M. Shane Riza
 Type:    book
 ISBN:    9781612346137
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/killing-without-heart-limits-on-robotic-warfare-in-an-age-of-persistent-conflict-riza/index.md
-
-Title:   L.A. Confidential
-Authors: James Ellroy
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/la-confidential-ellroy/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\killing-without-heart-limits-on-robotic-warfare-in-an-age-of-persistent-conflict-riza\index.md
 
 Title:   Lancer: Field Guide to Suldan
 Authors: Kai Tave
 Type:    rpg
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/lancer-field-guide-to-suldan-tave/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\lancer-field-guide-to-suldan-tave\index.md
 
 Title:   Lancer: The Mech RPG Core Rulebook
 Authors: Miguel Lopez, Tom Parkinson-Morgan
 Type:    rpg
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/lancer-the-mech-rpg-core-rulebook-lopez-tom-parkinson-morgan/index.md
-
-Title:   Last Stand at Khe Sanh: The U.S. Marines' Finest Hour in Vietnam
-Authors: Gregg Jones
-Type:    book
-ISBN:    9780306821394
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/last-stand-at-khe-sanh-the-us-marines-finest-hour-in-vietnam-jones/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\lancer-the-mech-rpg-core-rulebook-lopez-tom-parkinson-morgan\index.md
 
 Title:   LBJ and McNamara: The Vietnam Partnership Destined to Fail
 Authors: Peter L.W. Osnos
 Type:    book
 ISBN:    9781953943576
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/lbj-and-mcnamara-the-vietnam-partnership-destined-to-fail-osnos/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\lbj-and-mcnamara-the-vietnam-partnership-destined-to-fail-osnos\index.md
 
 Title:   Learning War: The Evolution of Fighting Doctrine in the U.S. Navy, 1898-1945 (Studies in Naval History and Sea Power)
 Authors: Trent Hone
 Type:    book
 ISBN:    9781682472934
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/learning-war-the-evolution-of-fighting-doctrine-in-the-us-navy-1898-1945-studies-in-naval-history-and-sea-power-hone/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\learning-war-the-evolution-of-fighting-doctrine-in-the-us-navy-1898-1945-studies-in-naval-history-and-sea-power-hone\index.md
 
 Title:   Leverage RPG: Grifters and Masterminds
 Authors: Margaret Weis Productions, Cam Banks, Bill Bodden, Maurice Broaddus, Jenna McMichael, Ryan Macklin, Andrew Peregrine, Fred Hicks
 Type:    rpg
 ISBN:    9781931567862
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/leverage-rpg-grifters-and-masterminds-productions-cam-banks/index.md
-
-Title:   Leviathan
-Authors: Jack Campbell
-Type:    book
-ISBN:    9780425260548
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/leviathan-campbell/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\leverage-rpg-grifters-and-masterminds-productions-cam-banks\index.md
 
 Title:   Lieutenant Fusilier in the Farthest Reaches
 Authors: Erika Chappell, Molly Skyfire
 Type:    book
 ISBN:    9781738312412
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/lieutenant-fusilier-in-the-farthest-reaches-chappell-molly-skyfire/index.md
-
-Title:   Lightning Joe: An Autobiography
-Authors: J. Lawton Collins
-Type:    book
-ISBN:    9780891415305
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/lightning-joe-an-autobiography-collins/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\lieutenant-fusilier-in-the-farthest-reaches-chappell-molly-skyfire\index.md
 
 Title:   Lightspeed Magazine, Issue 61, June 2015: Queers Destroy Science Fiction!
 Authors: Seanan McGuire, John Chu, Bonnie Jo Stufflebeam, Chaz Brenchley, R.B. Lemberg, Geoff Ryman, Amal El-Mohtar, Susan Jane Bigelow, Nalo Hopkinson, Nicasio Andres Reed, RJ Edwards
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/lightspeed-magazine-issue-61-june-2015-queers-destroy-science-fiction-mcguire-john-chu/index.md
-
-Title:   Like a Mother: A Feminist Journey Through the Science and Culture of Pregnancy
-Authors: Angela Garbes
-Type:    book
-ISBN:    9780062662965
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/like-a-mother-a-feminist-journey-through-the-science-and-culture-of-pregnancy-garbes/index.md
-
-Title:   LikeWar: The Weaponization of Social Media
-Authors: P.W. Singer, Emerson T. Brooking
-Type:    book
-ISBN:    9781328695741
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/likewar-the-weaponization-of-social-media-singer-emerson-t-brooking/index.md
-
-Title:   Lonely Vigil: Coastwatchers of the Solomons
-Authors: Walter Lord
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/lonely-vigil-coastwatchers-of-the-solomons-lord/index.md
-
-Title:   Lords of Uncreation
-Authors: Adrian Tchaikovsky
-Type:    book
-ISBN:    9781668628102
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/lords-of-uncreation-tchaikovsky/index.md
-
-Title:   Love and Sex with Robots
-Authors: David N.L. Levy
-Type:    book
-ISBN:    9780715637777
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/love-and-sex-with-robots-levy/index.md
-
-Title:   Love is Strange
-Authors: Bruce Sterling
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/love-is-strange-sterling/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\lightspeed-magazine-issue-61-june-2015-queers-destroy-science-fiction-mcguire-john-chu\index.md
 
 Title:   Love Your Monsters: Postenvironmentalism and the Anthropocene
 Authors: Michael Shellenberger, Ted Nordhaus, Bruno Latour, Daniel Sarewitz, Mark Sagoff, Peter Kareiva, Siddhartha Shome, Erle Ellis
 Type:    book
 ISBN:    9780615572208
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/love-your-monsters-postenvironmentalism-and-the-anthropocene-shellenberger-ted-nordhaus/index.md
-
-Title:   Lovecraft Country
-Authors: Matt Ruff
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/lovecraft-country-ruff/index.md
-
-Title:   Magic Bites
-Authors: Ilona Andrews
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/magic-bites-andrews/index.md
-
-Title:   Mammoths at the Gates
-Authors: Nghi Vo
-Type:    book
-ISBN:    9781250838001
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/mammoths-at-the-gates-vo/index.md
-
-Title:   Mao Tse-Tung on Guerrilla Warfare
-Authors: Mao Zedong, Samuel B. Griffith II
-Type:    book
-ISBN:    9781568650524
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/mao-tse-tung-on-guerrilla-warfare-zedong-samuel-b-griffith-ii/index.md
-
-Title:   McNamara's Folly: The Use of Low-IQ Troops in the Vietnam War
-Authors: Hamilton Gregory
-Type:    book
-ISBN:    9781495805493
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/mcnamaras-folly-the-use-of-low-iq-troops-in-the-vietnam-war-gregory/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\love-your-monsters-postenvironmentalism-and-the-anthropocene-shellenberger-ted-nordhaus\index.md
 
 Title:   Meeples Together: How and Why Cooperative Board Games Work
 Authors: Christopher Allen, Shannon Appelcline, Keith Curtis, Matt Leacock
 Type:    book
 ISBN:    9780981884080
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/meeples-together-how-and-why-cooperative-board-games-work-allen-shannon-appelcline/index.md
-
-Title:   Mercenaries and their Masters: Warfare in Renaissance Italy
-Authors: Michael Edward Mallett
-Type:    book
-ISBN:    9781848840317
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/mercenaries-and-their-masters-warfare-in-renaissance-italy-mallett/index.md
-
-Title:   Mind Map Mastery: The Complete Guide to Learning and Using the Most Powerful Thinking Tool in the Universe
-Authors: Tony Buzan
-Type:    book
-ISBN:    9781786781413
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/mind-map-mastery-the-complete-guide-to-learning-and-using-the-most-powerful-thinking-tool-in-the-universe-buzan/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\meeples-together-how-and-why-cooperative-board-games-work-allen-shannon-appelcline\index.md
 
 Title:   Modern Perspectives on Game Design (Studies in Game Design Book 2)
 Authors: George D.J. Phillies, Tom Vasel
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/modern-perspectives-on-game-design-studies-in-game-design-book-2-phillies-tom-vasel/index.md
-
-Title:   Mostly Harmless
-Authors: Douglas Adams
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/mostly-harmless-adams/index.md
-
-Title:   Murder by the Book
-Authors: Rex Stout
-Type:    book
-ISBN:    9780553763119
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/murder-by-the-book-stout/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\modern-perspectives-on-game-design-studies-in-game-design-book-2-phillies-tom-vasel\index.md
 
 Title:   Neon Black
 Authors: Michael Elliot
 Type:    rpg
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/neon-black-elliot/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\neon-black-elliot\index.md
 
 Title:   Neon City Overdrive
 Authors: Nathan Russell
 Type:    rpg
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/neon-city-overdrive-russell/index.md
-
-Title:   Neuromancer
-Authors: William Gibson
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/neuromancer-gibson/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\neon-city-overdrive-russell\index.md
 
 Title:   Night Witches
 Authors: Jason Morningstar
 Type:    rpg
 ISBN:    9780988390928
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/night-witches-morningstar/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\night-witches-morningstar\index.md
 
 Title:   Night's Black Agents
 Authors: Kenneth Hite
 Type:    rpg
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/nights-black-agents-hite/index.md
-
-Title:   Ninefox Gambit
-Authors: Yoon Ha Lee
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/ninefox-gambit-lee/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\nights-black-agents-hite\index.md
 
 Title:   No Banners, No Bugles
 Authors: Edward Ellsberg
 Type:    book
 ISBN:    9781480493773
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/no-banners-no-bugles-ellsberg/index.md
-
-Title:   Noli Me Tangere (Touch Me Not)
-Authors: José Rizal, Charles Derbyshire
-Type:    book
-ISBN:    9781420950359
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/noli-me-tangere-touch-me-not-rizal-charles-derbyshire/index.md
-
-Title:   Norse Mythology
-Authors: Neil Gaiman
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/norse-mythology-gaiman/index.md
-
-Title:   Norstrilia
-Authors: Cordwainer Smith
-Type:    book
-ISBN:    9780345323002
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/norstrilia-smith/index.md
-
-Title:   Notes from a Small Island
-Authors: Bill Bryson
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/notes-from-a-small-island-bryson/index.md
-
-Title:   Nova
-Authors: Spencer Campbell
-Type:    rpg
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/nova-campbell/index.md
-
-Title:   Of Boys and Men: Why the Modern Male Is Struggling, Why It Matters, and What to Do About It
-Authors: Richard V. Reeves
-Type:    book
-ISBN:    9781800750548
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/of-boys-and-men-why-the-modern-male-is-struggling-why-it-matters-and-what-to-do-about-it-reeves/index.md
-
-Title:   One Man
-Authors: Harry Connolly
-Type:    book
-ISBN:    9781951617004
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/one-man-connolly/index.md
-
-Title:   One Very Hot Day
-Authors: David Halberstam
-Type:    book
-ISBN:    9780446321112
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/one-very-hot-day-halberstam/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\no-banners-no-bugles-ellsberg\index.md
 
 Title:   Orde Wingate: A Man of Genius, 1903–1944
 Authors: Trevor Royle, Andrew Roberts
 Type:    book
 ISBN:    9781473807327
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/orde-wingate-a-man-of-genius-19031944-royle-andrew-roberts/index.md
-
-Title:   Pagans: The End of Traditional Religion and the Rise of Christianity
-Authors: James J. O'Donnell
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/pagans-the-end-of-traditional-religion-and-the-rise-of-christianity-odonnell/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\orde-wingate-a-man-of-genius-19031944-royle-andrew-roberts\index.md
 
 Title:   Paintwork
 Authors: Tim Maughan
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/paintwork-maughan/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\paintwork-maughan\index.md
 
 Title:   Patrol: Military Roleplay in the 20th Century
 Authors: Erika Chappell
 Type:    rpg
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/patrol-military-roleplay-in-the-20th-century-chappell/index.md
-
-Title:   PAVN: People's Army of Vietnam
-Authors: Douglas Pike
-Type:    book
-ISBN:    9780306804328
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/pavn-peoples-army-of-vietnam-pike/index.md
-
-Title:   Payments Systems in the U.S.
-Authors: Carol Coye Benson, Scott Loftesness
-Type:    book
-ISBN:    9780982789735
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/payments-systems-in-the-us-benson-scott-loftesness/index.md
-
-Title:   Personnel of Fairyland: A Short Account of the Fairy People of Great Britain for Those Who Tell Stories to Children
-Authors: Katharine M. Briggs
-Type:    book
-ISBN:    9780900040078
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/personnel-of-fairyland-a-short-account-of-the-fairy-people-of-great-britain-for-those-who-tell-stories-to-children-briggs/index.md
-
-Title:   Phantom over Vietnam: Fighter Pilot, USMC
-Authors: John Trotti
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/phantom-over-vietnam-fighter-pilot-usmc-trotti/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\patrol-military-roleplay-in-the-20th-century-chappell\index.md
 
 Title:   Piano Burning and Other Fighter Pilot Traditions
 Authors: Rob Burgon
 Type:    book
 ISBN:    9780998413204
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/piano-burning-and-other-fighter-pilot-traditions-burgon/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\piano-burning-and-other-fighter-pilot-traditions-burgon\index.md
 
 Title:   Pilgrim Machines
 Authors: Yudhanjaya Wijeratne
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/pilgrim-machines-wijeratne/index.md
-
-Title:   Pirate Utopia
-Authors: Bruce Sterling, John Coulthart, Warren Ellis
-Type:    book
-ISBN:    9781616962364
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/pirate-utopia-sterling-john-coulthart/index.md
-
-Title:   Planet of Exile
-Authors: Ursula K. Le Guin
-Type:    book
-ISBN:    9780441669516
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/planet-of-exile-guin/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\pilgrim-machines-wijeratne\index.md
 
 Title:   Post-Soviet Social: Neoliberalism, Social Modernity, Biopolitics
 Authors: Stephen J. Collier
 Type:    book
 ISBN:    9780691148311
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/post-soviet-social-neoliberalism-social-modernity-biopolitics-collier/index.md
-
-Title:   Predator: The Remote-Control Air War Over Iraq and Afghanistan: A Pilot's Story
-Authors: Matthew J. Martin, Charles Sasser
-Type:    book
-ISBN:    9781616739867
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/predator-the-remote-control-air-war-over-iraq-and-afghanistan-a-pilots-story-martin-charles-sasser/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\post-soviet-social-neoliberalism-social-modernity-biopolitics-collier\index.md
 
 Title:   Preparing for the Possibility of a North Korean Collapse
 Authors: Bruce W. Bennett
 Type:    book
 ISBN:    9780833081728
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/preparing-for-the-possibility-of-a-north-korean-collapse-bennett/index.md
-
-Title:   Prevail: The Inspiring Story of Ethiopia's Victory over Mussolini's Invasion, 1935-1941
-Authors: Jeff Pearce
-Type:    book
-ISBN:    9781629145280
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/prevail-the-inspiring-story-of-ethiopias-victory-over-mussolinis-invasion-1935-1941-pearce/index.md
-
-Title:   Printer's Error: Irreverent Stories from Book History
-Authors: Rebecca Romney, J.P. Romney
-Type:    book
-ISBN:    9780062412317
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/printers-error-irreverent-stories-from-book-history-romney-jp-romney/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\preparing-for-the-possibility-of-a-north-korean-collapse-bennett\index.md
 
 Title:   Provenance (Imperial Radch)
 Authors: Ann Leckie
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/provenance-imperial-radch-leckie/index.md
-
-Title:   Quartered Safe Out Here: A Harrowing Tale of World War II
-Authors: George MacDonald Fraser
-Type:    book
-ISBN:    9781628731934
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/quartered-safe-out-here-a-harrowing-tale-of-world-war-ii-fraser/index.md
-
-Title:   Race Against The Machine
-Authors: Erik Brynjolfsson, Andrew McAfee
-Type:    book
-ISBN:    9780984725106
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/race-against-the-machine-brynjolfsson-andrew-mcafee/index.md
-
-Title:   Radiant
-Authors: James Alan Gardner
-Type:    book
-ISBN:    9780380813322
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/radiant-gardner/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\provenance-imperial-radch-leckie\index.md
 
 Title:   Rational Action: The Sciences of Policy in Britain and America, 1940-1960 (Transformations: Studies in the History of Science and Technology)
 Authors: William Thomas
 Type:    book
 ISBN:    9780262028509
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/rational-action-the-sciences-of-policy-in-britain-and-america-1940-1960-transformations-studies-in-the-history-of-science-and-technology-thomas/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\rational-action-the-sciences-of-policy-in-britain-and-america-1940-1960-transformations-studies-in-the-history-of-science-and-technology-thomas\index.md
 
 Title:   Ready, Set, Go!: A Gentle Parenting Guide to Calmer, Quicker Potty Training
 Authors: Sarah Ockwell-Smith
 Type:    book
 ISBN:    9780143131908
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/ready-set-go-a-gentle-parenting-guide-to-calmer-quicker-potty-training-ockwell-smith/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\ready-set-go-a-gentle-parenting-guide-to-calmer-quicker-potty-training-ockwell-smith\index.md
 
 Title:   Rebooting the Academy
 Authors: Tim McCormick, Jeffrey Young
 Type:    book
 ISBN:    9780985818302
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/rebooting-the-academy-mccormick-jeffrey-young/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\rebooting-the-academy-mccormick-jeffrey-young\index.md
 
 Title:   Reckless: Henry Kissinger and The Tragedy of Vietnam
 Authors: Robert K. Brigham
 Type:    book
 ISBN:    9781610397025
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/reckless-henry-kissinger-and-the-tragedy-of-vietnam-brigham/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\reckless-henry-kissinger-and-the-tragedy-of-vietnam-brigham\index.md
 
 Title:   Red Blood, Yellow Skin: A Young Girl's Survival in War-Torn Vietnam
 Authors: Linda L.T. Baer
 Type:    book
 ISBN:    9781632990280
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/red-blood-yellow-skin-a-young-girls-survival-in-war-torn-vietnam-baer/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\red-blood-yellow-skin-a-young-girls-survival-in-war-torn-vietnam-baer\index.md
 
 Title:   Red Eagles: America's Secret MiGs
 Authors: Steve Davies, J. Jumper
 Type:    book
 ISBN:    9781846033780
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/red-eagles-americas-secret-migs-davies-j-jumper/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\red-eagles-americas-secret-migs-davies-j-jumper\index.md
 
 Title:   Red Smoking Mirror
 Authors: Nick Hunt
 Type:    book
 ISBN:    9781800753228
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/red-smoking-mirror-hunt/index.md
-
-Title:   Rejection
-Authors: Tony Tulathimutte
-Type:    book
-ISBN:    9780063337879
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/rejection-tulathimutte/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\red-smoking-mirror-hunt\index.md
 
 Title:   Remembering Heaven's Face: A Story of Rescue in Wartime Vietnam
 Authors: John Balaban
 Type:    book
 ISBN:    9780820324159
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/remembering-heavens-face-a-story-of-rescue-in-wartime-vietnam-balaban/index.md
-
-Title:   Rewriting the Soul: Multiple Personality and the Sciences of Memory
-Authors: Ian Hacking
-Type:    book
-ISBN:    9780756752897
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/rewriting-the-soul-multiple-personality-and-the-sciences-of-memory-hacking/index.md
-
-Title:   River of Teeth
-Authors: Sarah Gailey
-Type:    book
-ISBN:    9780765395221
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/river-of-teeth-gailey/index.md
-
-Title:   Rivers in the Desert: William Mulholland and the Inventing of Los Angeles
-Authors: Margaret Leslie Davis
-Type:    book
-ISBN:    9781497613768
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/rivers-in-the-desert-william-mulholland-and-the-inventing-of-los-angeles-davis/index.md
-
-Title:   Running on Empty No More: Transform Your Relationships with Your Partner, Your Parents & Your Children
-Authors: Jonice Webb
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/running-on-empty-no-more-transform-your-relationships-with-your-partner-your-parents-your-children-webb/index.md
-
-Title:   Russian Roulette: The Inside Story of Putin's War on America and the Election of Donald Trump
-Authors: Michael Isikoff, David Corn
-Type:    book
-ISBN:    9781538728758
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/russian-roulette-the-inside-story-of-putins-war-on-america-and-the-election-of-donald-trump-isikoff-david-corn/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\remembering-heavens-face-a-story-of-rescue-in-wartime-vietnam-balaban\index.md
 
 Title:   Safely You Deliver
 Authors: Graydon Saunders
 Type:    book
 ISBN:    9780993712623
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/safely-you-deliver-saunders/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\safely-you-deliver-saunders\index.md
 
 Title:   Saigon for a Song : The True Story of a Vietnam Gig to Remember
 Authors: Reuben Noel
 Type:    book
 ISBN:    9780943247021
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/saigon-for-a-song-the-true-story-of-a-vietnam-gig-to-remember-noel/index.md
-
-Title:   Sailing True North: Ten Admirals and the Voyage of Character
-Authors: James G. Stavridis
-Type:    book
-ISBN:    9780525559948
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/sailing-true-north-ten-admirals-and-the-voyage-of-character-stavridis/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\saigon-for-a-song-the-true-story-of-a-vietnam-gig-to-remember-noel\index.md
 
 Title:   Samurai: The Unforgettable Saga of Japan's Greatest Fighter Pilot
 Authors: Saburō Sakai, Fred Saito, Martin Caidin
 Type:    book
 ISBN:    9780553246643
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/samurai-the-unforgettable-saga-of-japans-greatest-fighter-pilot-sakai-fred-saito/index.md
-
-Title:   Sapiens: A Brief History of Humankind
-Authors: Yuval Noah Harari
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/sapiens-a-brief-history-of-humankind-harari/index.md
-
-Title:   Savage Continent: Europe in the Aftermath of World War II
-Authors: Keith Lowe
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/savage-continent-europe-in-the-aftermath-of-world-war-ii-lowe/index.md
-
-Title:   Science in Action: How to Follow Scientists and Engineers Through Society
-Authors: Bruno Latour
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/science-in-action-how-to-follow-scientists-and-engineers-through-society-latour/index.md
-
-Title:   Science, Strategy and War (Strategy and History)
-Authors: Frans P.B. Osinga
-Type:    book
-ISBN:    9780415459525
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/science-strategy-and-war-strategy-and-history-osinga/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\samurai-the-unforgettable-saga-of-japans-greatest-fighter-pilot-sakai-fred-saito\index.md
 
 Title:   Scum and Villainy
 Authors: Stras Acimovic, John LeBoeuf-Little
 Type:    rpg
 ISBN:    9781613171530
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/scum-and-villainy-acimovic-john-leboeuf-little/index.md
-
-Title:   Scythe
-Authors: Neal Shusterman
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/scythe-shusterman/index.md
-
-Title:   Second Variety
-Authors: Philip K. Dick
-Type:    audiobook
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/audiobook/second-variety-dick/index.md
-
-Title:   Serenade to the Big Bird
-Authors: Bert Stiles
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/serenade-to-the-big-bird-stiles/index.md
-
-Title:   Seveneves
-Authors: Neal Stephenson
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/seveneves-stephenson/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\scum-and-villainy-acimovic-john-leboeuf-little\index.md
 
 Title:   Sextant: The Elegant Instrument That Guided the Great Explorers, and a Young Man's First Journey Across the Atlantic
 Authors: David Barrie
 Type:    book
 ISBN:    9780062279361
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/sextant-the-elegant-instrument-that-guided-the-great-explorers-and-a-young-mans-first-journey-across-the-atlantic-barrie/index.md
-
-Title:   Shift
-Authors: Hugh Howey
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/shift-howey/index.md
-
-Title:   Shootdown: The Verdict on KAL007
-Authors: R.W. Johnson
-Type:    book
-ISBN:    9780701129842
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/shootdown-the-verdict-on-kal007-johnson/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\sextant-the-elegant-instrument-that-guided-the-great-explorers-and-a-young-mans-first-journey-across-the-atlantic-barrie\index.md
 
 Title:   Sinister Extremity: A Love Story
 Authors: Hugh Neill
 Type:    book
 ISBN:    9781968319007
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/sinister-extremity-a-love-story-neill/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\sinister-extremity-a-love-story-neill\index.md
 
 Title:   Sinless: Chrome & Sorcery Table Top Role Playing Game
 Authors: Courtney C Campbell, James Shields, anthony grasso
 Type:    rpg
 ISBN:    9798883197696
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/sinless-chrome-sorcery-table-top-role-playing-game-campbell-james-shields/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\sinless-chrome-sorcery-table-top-role-playing-game-campbell-james-shields\index.md
 
 Title:   Sketches of a Black Cat - Full Color Collector's Edition: Story of a night flying WWII pilot and artist
 Authors: Ron Miner
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/sketches-of-a-black-cat-full-color-collectors-edition-story-of-a-night-flying-wwii-pilot-and-artist-miner/index.md
-
-Title:   Skunk Works: A Personal Memoir of My Years at Lockheed
-Authors: Ben R. Rich, Leo Janos
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/skunk-works-a-personal-memoir-of-my-years-at-lockheed-rich-leo-janos/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\sketches-of-a-black-cat-full-color-collectors-edition-story-of-a-night-flying-wwii-pilot-and-artist-miner\index.md
 
 Title:   Sleeping Worlds Have No Memory
 Authors: Yaroslav Barsukov
 Type:    book
 ISBN:    9781647101367
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/sleeping-worlds-have-no-memory-barsukov/index.md
-
-Title:   Smokejumper: A Memoir by One of America's Most Select Airborne Firefighters
-Authors: Jason A. Ramos
-Type:    book
-ISBN:    9780062319647
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/smokejumper-a-memoir-by-one-of-americas-most-select-airborne-firefighters-ramos/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\sleeping-worlds-have-no-memory-barsukov\index.md
 
 Title:   SOG Medic: Stories from Vietnam and Over the Fence
 Authors: Joe Parnar, Robert Dumont
 Type:    book
 ISBN:    9781612006345
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/sog-medic-stories-from-vietnam-and-over-the-fence-parnar-robert-dumont/index.md
-
-Title:   Solip:System
-Authors: Walter Jon Williams
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/solipsystem-williams/index.md
-
-Title:   Song of Time
-Authors: Ian R. MacLeod
-Type:    book
-ISBN:    9781906301217
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/song-of-time-macleod/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\sog-medic-stories-from-vietnam-and-over-the-fence-parnar-robert-dumont\index.md
 
 Title:   Soul on Ice
 Authors: Eldridge Cleaver, Maxwell Geismar
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/soul-on-ice-cleaver-maxwell-geismar/index.md
-
-Title:   Space Team
-Authors: Barry J. Hutchison
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/space-team-hutchison/index.md
-
-Title:   Spies in the Family: An American Spymaster, His Russian Crown Jewel, and the Friendship That Helped End the Cold War
-Authors: Eva Dillon
-Type:    book
-ISBN:    9780062385888
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/spies-in-the-family-an-american-spymaster-his-russian-crown-jewel-and-the-friendship-that-helped-end-the-cold-war-dillon/index.md
-
-Title:   Spin Control
-Authors: Chris Moriarty
-Type:    book
-ISBN:    9780553586251
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/spin-control-moriarty/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\soul-on-ice-cleaver-maxwell-geismar\index.md
 
 Title:   Spire: The City Must Fall
 Authors: Grant Howitt, Christopher     Taylor
 Type:    rpg
 ISBN:    9780996376563
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/spire-the-city-must-fall-howitt-christopher-taylor/index.md
-
-Title:   Stalking the Atomic City: Life Among the Decadent and the Depraved of Chornobyl
-Authors: Markiyan Kamysh
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/stalking-the-atomic-city-life-among-the-decadent-and-the-depraved-of-chornobyl-kamysh/index.md
-
-Title:   Star Maker
-Authors: Olaf Stapledon
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/star-maker-stapledon/index.md
-
-Title:   Starship Troopers
-Authors: Robert A. Heinlein
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/starship-troopers-heinlein/index.md
-
-Title:   Startide Rising (Uplift Trilogy Book 2)
-Authors: David Brin
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/startide-rising-uplift-trilogy-book-2-brin/index.md
-
-Title:   Steadfast
-Authors: Jack Campbell
-Type:    book
-ISBN:    9780425260524
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/steadfast-campbell/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\spire-the-city-must-fall-howitt-christopher-taylor\index.md
 
 Title:   Stealing for the Sky
 Authors: Adam Roberts
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/stealing-for-the-sky-roberts/index.md
-
-Title:   Steel Frame
-Authors: Andrew Skinner
-Type:    book
-ISBN:    9781781087046
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/steel-frame-skinner/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\stealing-for-the-sky-roberts\index.md
 
 Title:   Strange California
 Authors: Jaym Gates, J. Daniel Batt, Elise Tobler, Juliette Wade, James Van Pelt, Meg Elison, Patricia Lundy, Lance Shoeman, Armel Dagorn, Loren Rhoads, Laura  Blackwell, S. Qiouyi Lu, K.A. Rochnik, D. Morgenstern, Marion Deeds, Suzanne Willis, Ezzy G. Languzzi, Melissa Monks, Spencer Ellsworth, Laura Anne Gilman, Tim Pratt, Nick Mamatas, Chaz Brenchley, Natania Barron, Christie Yant, Richard Dansky
 Type:    book
 ISBN:    9780990638575
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/strange-california-gates-j-daniel-batt/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\strange-california-gates-j-daniel-batt\index.md
 
 Title:   Stranger in a Strange Land
 Authors: Robert A. Heinlein, James Warhola
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/stranger-in-a-strange-land-heinlein-james-warhola/index.md
-
-Title:   Stratofortress: The Story of the B-52
-Authors: Martin W. Bowman
-Type:    book
-ISBN:    9781844681310
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/stratofortress-the-story-of-the-b-52-bowman/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\stranger-in-a-strange-land-heinlein-james-warhola\index.md
 
 Title:   Streams of Wisdom
 Authors: Dustin DiPerna, Ken Wilber
 Type:    book
 ISBN:    9780989228930
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/streams-of-wisdom-diperna-ken-wilber/index.md
-
-Title:   Submarine Warriors
-Authors: Edwyn Gray
-Type:    book
-ISBN:    9780553285451
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/submarine-warriors-gray/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\streams-of-wisdom-diperna-ken-wilber\index.md
 
 Title:   Such Great Heights: The Complete Cultural History of the Indie Rock Explosion
 Authors: Chris DeVille
 Type:    book
 ISBN:    9781250363381
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/such-great-heights-the-complete-cultural-history-of-the-indie-rock-explosion-deville/index.md
-
-Title:   Summer of Love: The Inside Story of LSD, Rock & Roll, Free Love and High Times in the Wild
-Authors: Joel Selvin
-Type:    book
-ISBN:    9780525936756
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/summer-of-love-the-inside-story-of-lsd-rock-roll-free-love-and-high-times-in-the-wild-selvin/index.md
-
-Title:   Summerland
-Authors: Hannu Rajaniemi
-Type:    book
-ISBN:    1473203309
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/summerland-rajaniemi/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\such-great-heights-the-complete-cultural-history-of-the-indie-rock-explosion-deville\index.md
 
 Title:   Sun's Strong Immortality: Book One of The Elven Lands
 Authors: William Illsey Atkinson
 Type:    book
 ISBN:    9781449546601
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/suns-strong-immortality-book-one-of-the-elven-lands-atkinson/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\suns-strong-immortality-book-one-of-the-elven-lands-atkinson\index.md
 
 Title:   Supercarriers
 Authors: Tony Holmes, Jean-Pierre Montbazet
 Type:    book
 ISBN:    9780850459791
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/supercarriers-holmes-jean-pierre-montbazet/index.md
-
-Title:   System Design Interview – An insider's guide
-Authors: Alex Xu
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/system-design-interview-an-insiders-guide-xu/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\supercarriers-holmes-jean-pierre-montbazet\index.md
 
 Title:   System Design Interview: Zero to Hero. Learn How to Pass Your System Design Interview Following Modern Case Studies.
 Authors: Liam Taylor
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/system-design-interview-zero-to-hero-learn-how-to-pass-your-system-design-interview-following-modern-case-studies-taylor/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\system-design-interview-zero-to-hero-learn-how-to-pass-your-system-design-interview-following-modern-case-studies-taylor\index.md
 
 Title:   Tablets Shattered: The End of an American Jewish Century and the Future of Jewish Life
 Authors: Joshua Leifer
 Type:    book
 ISBN:    9780593187180
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/tablets-shattered-the-end-of-an-american-jewish-century-and-the-future-of-jewish-life-leifer/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\tablets-shattered-the-end-of-an-american-jewish-century-and-the-future-of-jewish-life-leifer\index.md
 
 Title:   Take the High Road: Divorce with Compassion for Yourself and Your Family
 Authors: Andy H Heller
 Type:    book
 ISBN:    9798387121296
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/take-the-high-road-divorce-with-compassion-for-yourself-and-your-family-heller/index.md
-
-Title:   Tank Warfare on the Eastern Front, 1941–1942: Schwerpunkt
-Authors: Robert Forczyk
-Type:    book
-ISBN:    9781473835313
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/tank-warfare-on-the-eastern-front-19411942-schwerpunkt-forczyk/index.md
-
-Title:   Tank: The Progress of Monstrous War Machine
-Authors: Patrick Wright
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/tank-the-progress-of-monstrous-war-machine-wright/index.md
-
-Title:   Tao Te Ching: A New English Version (Perennial Classics)
-Authors: Lao Tzu, Stephen Mitchell
-Type:    book
-ISBN:    9789895621484
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/tao-te-ching-a-new-english-version-perennial-classics-tzu-stephen-mitchell/index.md
-
-Title:   Team of Rivals: The Political Genius of Abraham Lincoln
-Authors: Doris Kearns Goodwin
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/team-of-rivals-the-political-genius-of-abraham-lincoln-goodwin/index.md
-
-Title:   Teller's War: The Top-Secret Story Behind the Star Wars Deception
-Authors: William J. Broad
-Type:    book
-ISBN:    9780671867386
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/tellers-war-the-top-secret-story-behind-the-star-wars-deception-broad/index.md
-
-Title:   Terms of Enlistment
-Authors: Marko Kloos
-Type:    book
-ISBN:    9781477859780
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/terms-of-enlistment-kloos/index.md
-
-Title:   The Algorithm Design Manual
-Authors: Steven S. Skiena
-Type:    book
-ISBN:    9781848821972
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-algorithm-design-manual-skiena/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\take-the-high-road-divorce-with-compassion-for-yourself-and-your-family-heller\index.md
 
 Title:   The American Way of Irregular War: An Analytical Memoir
 Authors: Charles T. Cleveland, Daniel Egel
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-american-way-of-irregular-war-an-analytical-memoir-cleveland-daniel-egel/index.md
-
-Title:   The Annihilation Score
-Authors: Charles Stross
-Type:    book
-ISBN:    9780698195257
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-annihilation-score-stross/index.md
-
-Title:   The Apocalypse Codex
-Authors: Charles Stross
-Type:    book
-ISBN:    9781101581131
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-apocalypse-codex-stross/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-american-way-of-irregular-war-an-analytical-memoir-cleveland-daniel-egel\index.md
 
 Title:   The Arsenal of Democracy: FDR, Ford Motor Company, and Their Epic Quest to Arm an America at War
 Authors: A.J. Baime
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-arsenal-of-democracy-fdr-ford-motor-company-and-their-epic-quest-to-arm-an-america-at-war-baime/index.md
-
-Title:   The Art & Craft of College Teaching: A Guide for New Professors and Graduate Students
-Authors: Robert Rotenberg
-Type:    book
-ISBN:    9781611324372
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-art-craft-of-college-teaching-a-guide-for-new-professors-and-graduate-students-rotenberg/index.md
-
-Title:   The Art and Soul of Dune
-Authors: Tanya Lapointe
-Type:    book
-ISBN:    9781647221553
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-art-and-soul-of-dune-lapointe/index.md
-
-Title:   The Art of Community: Seven Principles for Belonging
-Authors: Charles H. Vogl
-Type:    book
-ISBN:    9781626568419
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-art-of-community-seven-principles-for-belonging-vogl/index.md
-
-Title:   The Art of Making Memories: How to Create and Remember Happy Moments
-Authors: Meik Wiking
-Type:    book
-ISBN:    9780062943392
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-art-of-making-memories-how-to-create-and-remember-happy-moments-wiking/index.md
-
-Title:   The Best of Cordwainer Smith
-Authors: Cordwainer Smith, J.J. Pierce
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-best-of-cordwainer-smith-smith-jj-pierce/index.md
-
-Title:   The Big Short: Inside the Doomsday Machine
-Authors: Michael Lewis
-Type:    book
-ISBN:    9780393353150
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-big-short-inside-the-doomsday-machine-lewis/index.md
-
-Title:   The Big Sleep
-Authors: Raymond Chandler
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-big-sleep-chandler/index.md
-
-Title:   The Black Company
-Authors: Glen Cook
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-black-company-cook/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-arsenal-of-democracy-fdr-ford-motor-company-and-their-epic-quest-to-arm-an-america-at-war-baime\index.md
 
 Title:   The Borders of Infinity
 Authors: Lois McMaster Bujold
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-borders-of-infinity-bujold/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-borders-of-infinity-bujold\index.md
 
 Title:   The Borders of Infinity (Vorkosigan Saga, #5.3)
 Authors: Lois McMaster Bujold
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-borders-of-infinity-vorkosigan-saga-53-bujold/index.md
-
-Title:   The Broken Sword
-Authors: Poul Anderson
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-broken-sword-anderson/index.md
-
-Title:   The Calculating Stars
-Authors: Mary Robinette Kowal
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-calculating-stars-kowal/index.md
-
-Title:   The Canterbury Tales
-Authors: Geoffrey Chaucer, Burton Raffel
-Type:    book
-ISBN:    9781588367648
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-canterbury-tales-chaucer-burton-raffel/index.md
-
-Title:   The Caves of Steel
-Authors: Isaac Asimov
-Type:    book
-ISBN:    9780307792419
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-caves-of-steel-asimov/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-borders-of-infinity-vorkosigan-saga-53-bujold\index.md
 
 Title:   The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974
 Authors: Gregory W. Pedlow, Donald E. Welzenbach, Cia History Office
 Type:    book
 ISBN:    9781782664581
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-central-intelligence-agency-and-overhead-reconnaissance-the-u-2-and-oxcart-programs-1954-1974-pedlow-donald-e-welzenbach/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-central-intelligence-agency-and-overhead-reconnaissance-the-u-2-and-oxcart-programs-1954-1974-pedlow-donald-e-welzenbach\index.md
 
 Title:   The Children’s Illustrated Clausewitz, Volume 1
 Authors: Caitlin Fitz Gerald, N.R. Jenzen-Jones
 Type:    book
 ISBN:    9781911683001
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-childrens-illustrated-clausewitz-volume-1-gerald-nr-jenzen-jones/index.md
-
-Title:   The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever
-Authors: Michael Bungay Stanier
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-coaching-habit-say-less-ask-more-change-the-way-you-lead-forever-stanier/index.md
-
-Title:   The Cold War's Killing Fields: Rethinking the Long Peace
-Authors: Paul Thomas Chamberlin
-Type:    book
-ISBN:    9780062367228
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-cold-wars-killing-fields-rethinking-the-long-peace-chamberlin/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-childrens-illustrated-clausewitz-volume-1-gerald-nr-jenzen-jones\index.md
 
 Title:   The Command: Deep Inside The President's Secret Army
 Authors: Marc Ambinder
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-command-deep-inside-the-presidents-secret-army-ambinder/index.md
-
-Title:   The Cybernetics Moment: Or Why We Call Our Age the Information Age
-Authors: Ronald R. Kline
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-cybernetics-moment-or-why-we-call-our-age-the-information-age-kline/index.md
-
-Title:   The Dark Forest
-Authors: Liu Cixin, Joel Martinsen
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-dark-forest-cixin-joel-martinsen/index.md
-
-Title:   The Dawnhounds
-Authors: Sascha Stronach
-Type:    book
-ISBN:    9781982187057
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-dawnhounds-stronach/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-command-deep-inside-the-presidents-secret-army-ambinder\index.md
 
 Title:   The Dead Girl in the Bathtub
 Authors: Lisa DePaulo
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-dead-girl-in-the-bathtub-depaulo/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-dead-girl-in-the-bathtub-depaulo\index.md
 
 Title:   The Deadly Life of Logistics: Mapping Violence in Global Trade
 Authors: Deborah Cowen
 Type:    book
 ISBN:    9780816680887
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-deadly-life-of-logistics-mapping-violence-in-global-trade-cowen/index.md
-
-Title:   The Delirium Brief
-Authors: Charles Stross
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-delirium-brief-stross/index.md
-
-Title:   The Dispossessed: An Ambiguous Utopia
-Authors: Ursula K. Le Guin
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-dispossessed-an-ambiguous-utopia-guin/index.md
-
-Title:   The Doors of His Face, the Lamps of His Mouth
-Authors: Roger Zelazny
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-doors-of-his-face-the-lamps-of-his-mouth-zelazny/index.md
-
-Title:   The Empress of Salt and Fortune
-Authors: Nghi Vo
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-empress-of-salt-and-fortune-vo/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-deadly-life-of-logistics-mapping-violence-in-global-trade-cowen\index.md
 
 Title:   The Encyclopedia of Sea Warfare: From the First Ironclads to the Present Day
 Authors: Capt Donald MacIntyre D.S.O D.S.C. &Antony Preston
 Type:    book
 ISBN:    9780600331117
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-encyclopedia-of-sea-warfare-from-the-first-ironclads-to-the-present-day-preston/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-encyclopedia-of-sea-warfare-from-the-first-ironclads-to-the-present-day-preston\index.md
 
 Title:   The Escher Man
 Authors: T.R. Napper
 Type:    book
 ISBN:    9781803368153
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-escher-man-napper/index.md
-
-Title:   The Far Shore
-Authors: Edward Ellsberg
-Type:    book
-ISBN:    9781387956388
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-far-shore-ellsberg/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-escher-man-napper\index.md
 
 Title:   The Fiasco Companion
 Authors: Jason Morningstar, Steve Segedy
 Type:    rpg
 ISBN:    9781934859407
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/the-fiasco-companion-morningstar-steve-segedy/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\the-fiasco-companion-morningstar-steve-segedy\index.md
 
 Title:   The Fiction Writer's Guide to Dialogue: A Fresh Look at an Essential Ingredient of the Craft
 Authors: John Hough Jr.
 Type:    book
 ISBN:    9781621534495
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-fiction-writers-guide-to-dialogue-a-fresh-look-at-an-essential-ingredient-of-the-craft-jr/index.md
-
-Title:   The Fifth Season
-Authors: N.K. Jemisin
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-fifth-season-jemisin/index.md
-
-Title:   The First Fifteen Lives of Harry August
-Authors: Claire North
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-first-fifteen-lives-of-harry-august-north/index.md
-
-Title:   The Fleet at Flood Tide: America at Total War in the Pacific, 1944-1945
-Authors: James D. Hornfischer
-Type:    book
-ISBN:    9780345548719
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-fleet-at-flood-tide-america-at-total-war-in-the-pacific-1944-1945-hornfischer/index.md
-
-Title:   The Fractal Prince
-Authors: Hannu Rajaniemi
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-fractal-prince-rajaniemi/index.md
-
-Title:   The Future Is History: How Totalitarianism Reclaimed Russia
-Authors: Masha Gessen
-Type:    book
-ISBN:    9781594634536
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-future-is-history-how-totalitarianism-reclaimed-russia-gessen/index.md
-
-Title:   The Future of War: A History
-Authors: Lawrence Freedman
-Type:    book
-ISBN:    9781610393058
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-future-of-war-a-history-freedman/index.md
-
-Title:   The Golden Road: How Ancient India Transformed the World
-Authors: William Dalrymple
-Type:    book
-ISBN:    9781639734146
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-golden-road-how-ancient-india-transformed-the-world-dalrymple/index.md
-
-Title:   The Good Shepherd
-Authors: C.S. Forester
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-good-shepherd-forester/index.md
-
-Title:   The Great Betrayal: The Great Siege of Constantinople
-Authors: Ernle Bradford
-Type:    book
-ISBN:    9781617568008
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-great-betrayal-the-great-siege-of-constantinople-bradford/index.md
-
-Title:   The Great Ship: How Battleships Changed the History of War
-Authors: Ernle Bradford
-Type:    book
-ISBN:    9781617568206
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-great-ship-how-battleships-changed-the-history-of-war-bradford/index.md
-
-Title:   The Gunslinger
-Authors: Stephen King
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-gunslinger-king/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-fiction-writers-guide-to-dialogue-a-fresh-look-at-an-essential-ingredient-of-the-craft-jr\index.md
 
 Title:   The Hangman's Daughter
 Authors: Oliver Pötzsch, Lee Chadeayne, Sabine Marić
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-hangmans-daughter-potzsch-lee-chadeayne/index.md
-
-Title:   The Heap
-Authors: Sean Adams
-Type:    book
-ISBN:    9780062957733
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-heap-adams/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-hangmans-daughter-potzsch-lee-chadeayne\index.md
 
 Title:   The Hidden Threat: Mines and Minesweeping Reserve in WWI
 Authors: Jim Crossley
 Type:    book
 ISBN:    9781781597910
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-hidden-threat-mines-and-minesweeping-reserve-in-wwi-crossley/index.md
-
-Title:   The Hitchhiker’s Guide to the Galaxy
-Authors: Douglas Adams
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-hitchhikers-guide-to-the-galaxy-adams/index.md
-
-Title:   The Hobbit, or There and Back Again
-Authors: J.R.R. Tolkien, Douglas A. Anderson, Michael Hague, Jemima Catlin
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-hobbit-or-there-and-back-again-tolkien-douglas-a-anderson/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-hidden-threat-mines-and-minesweeping-reserve-in-wwi-crossley\index.md
 
 Title:   The Hunger Habit: Why We Eat When We're Not Hungry and How to Stop
 Authors: Judson Brewer
 Type:    book
 ISBN:    9780593543276
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-hunger-habit-why-we-eat-when-were-not-hungry-and-how-to-stop-brewer/index.md
-
-Title:   The Icarus Hunt
-Authors: Timothy Zahn
-Type:    book
-ISBN:    9780553573916
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-icarus-hunt-zahn/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-hunger-habit-why-we-eat-when-were-not-hungry-and-how-to-stop-brewer\index.md
 
 Title:   The Incal
 Authors: Alejandro Jodorowsky, Mœbius, Sasha Watson, Vanessa Molina Clémet, Justin Kelly, Brian Michael Bendis
 Type:    book
 ISBN:    9781594650154
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-incal-jodorowsky-mbius/index.md
-
-Title:   The Inheritance of Rome: Illuminating the Dark Ages, 400-1000
-Authors: Chris Wickham
-Type:    book
-ISBN:    9780670020980
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-inheritance-of-rome-illuminating-the-dark-ages-400-1000-wickham/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-incal-jodorowsky-mbius\index.md
 
 Title:   The John Boyd Roundtable: Debating Science, Strategy, and War
 Authors: Mark Safranski
 Type:    book
 ISBN:    9781934840467
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-john-boyd-roundtable-debating-science-strategy-and-war-safranski/index.md
-
-Title:   The Labyrinth Index
-Authors: Charles Stross
-Type:    book
-ISBN:    9781250196071
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-labyrinth-index-stross/index.md
-
-Title:   The Last Hero
-Authors: Linden A. Lewis
-Type:    book
-ISBN:    9781982127060
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-last-hero-lewis/index.md
-
-Title:   The Left Hand of Darkness
-Authors: Ursula K. Le Guin
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-left-hand-of-darkness-guin/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-john-boyd-roundtable-debating-science-strategy-and-war-safranski\index.md
 
 Title:   The Lost Child of Lychford
 Authors: Paul Cornell
 Type:    book
 ISBN:    9780765389763
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-lost-child-of-lychford-cornell/index.md
-
-Title:   The Making of the Atomic Bomb: 25th Anniversary Edition
-Authors: Richard Rhodes
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-making-of-the-atomic-bomb-25th-anniversary-edition-rhodes/index.md
-
-Title:   The Mirage Factory: Illusion, Imagination, and the Invention of Los Angeles
-Authors: Gary Krist
-Type:    book
-ISBN:    9780451496409
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-mirage-factory-illusion-imagination-and-the-invention-of-los-angeles-krist/index.md
-
-Title:   The Mongoliad: Book One
-Authors: Neal Stephenson, Greg Bear, Mark Teppo, E.D. deBirmingham, Erik Bear, Joseph Brassey, Cooper Moo
-Type:    book
-ISBN:    9781612187440
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-mongoliad-book-one-stephenson-greg-bear/index.md
-
-Title:   The Mote in God's Eye
-Authors: Larry Niven, Jerry Pournelle
-Type:    book
-ISBN:    9781568650548
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-mote-in-gods-eye-niven-jerry-pournelle/index.md
-
-Title:   The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery
-Authors: Brianna Wiest
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-mountain-is-you-transforming-self-sabotage-into-self-mastery-wiest/index.md
-
-Title:   The Mountains Sing
-Authors: Nguyễn Phan Quế Mai
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-mountains-sing-mai/index.md
-
-Title:   The Name of the Wind
-Authors: Patrick Rothfuss
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-name-of-the-wind-rothfuss/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-lost-child-of-lychford-cornell\index.md
 
 Title:   The NASAGA Training Activity Book
 Authors: Judith M. Blohm
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-nasaga-training-activity-book-blohm/index.md
-
-Title:   The Net Delusion: The Dark Side of Internet Freedom
-Authors: Evgeny Morozov
-Type:    book
-ISBN:    9781586488758
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-net-delusion-the-dark-side-of-internet-freedom-morozov/index.md
-
-Title:   The Obelisk Gate
-Authors: N.K. Jemisin
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-obelisk-gate-jemisin/index.md
-
-Title:   The Opium War
-Authors: Brian Inglis
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-opium-war-inglis/index.md
-
-Title:   The Other Side of the Mountain: Mujahideen Tactics in the Soviet Afghan War
-Authors: Ali Ahmad Jalali, Lester W. Grau
-Type:    book
-ISBN:    9780714682495
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-other-side-of-the-mountain-mujahideen-tactics-in-the-soviet-afghan-war-jalali-lester-w-grau/index.md
-
-Title:   The Pentagon's Brain: An Uncensored History of DARPA, America's Top-Secret Military Research Agency
-Authors: Annie Jacobsen
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-pentagons-brain-an-uncensored-history-of-darpa-americas-top-secret-military-research-agency-jacobsen/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-nasaga-training-activity-book-blohm\index.md
 
 Title:   The People’s Republic of Everything
 Authors: Nick Mamatas, Jeffrey Ford
 Type:    book
 ISBN:    9781616963002
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-peoples-republic-of-everything-mamatas-jeffrey-ford/index.md
-
-Title:   The Perfect Storm: A True Story of Men Against the Sea
-Authors: Sebastian Junger
-Type:    book
-ISBN:    9780393337013
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-perfect-storm-a-true-story-of-men-against-the-sea-junger/index.md
-
-Title:   The Perfectionists: How Precision Engineers Created the Modern World
-Authors: Simon Winchester
-Type:    book
-ISBN:    9780062652577
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-perfectionists-how-precision-engineers-created-the-modern-world-winchester/index.md
-
-Title:   The Phoenix Program: America's Use of Terror in Vietnam
-Authors: Douglas Valentine, Mark Crispin Miller
-Type:    book
-ISBN:    9781497620209
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-phoenix-program-americas-use-of-terror-in-vietnam-valentine-mark-crispin-miller/index.md
-
-Title:   The Prefect
-Authors: Alastair Reynolds
-Type:    book
-ISBN:    0575096683
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-prefect-reynolds/index.md
-
-Title:   The Prince
-Authors: Niccolò Machiavelli, N.H. Thompson
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-prince-machiavelli-nh-thompson/index.md
-
-Title:   The Promise and the Dream: The Untold Story of Martin Luther King, Jr. And Robert F. Kennedy
-Authors: David Margolick, Douglas Brinkley
-Type:    book
-ISBN:    9781948122269
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-promise-and-the-dream-the-untold-story-of-martin-luther-king-jr-and-robert-f-kennedy-margolick-douglas-brinkley/index.md
-
-Title:   The Raven Scholar
-Authors: Antonia Hodgson
-Type:    book
-ISBN:    9781529339888
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-raven-scholar-hodgson/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-peoples-republic-of-everything-mamatas-jeffrey-ford\index.md
 
 Title:   The Rent Collectors: Exploitation, Murder, and Redemption in Immigrant LA
 Authors: Jesse Katz
 Type:    book
 ISBN:    9781662601736
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-rent-collectors-exploitation-murder-and-redemption-in-immigrant-la-katz/index.md
-
-Title:   The Restaurant at the End of the Universe
-Authors: Douglas Adams
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-restaurant-at-the-end-of-the-universe-adams/index.md
-
-Title:   The Righteous Mind: Why Good People Are Divided by Politics and Religion
-Authors: Jonathan Haidt
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-righteous-mind-why-good-people-are-divided-by-politics-and-religion-haidt/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-rent-collectors-exploitation-murder-and-redemption-in-immigrant-la-katz\index.md
 
 Title:   The Rightful Place of Science: Politics
 Authors: Michael Crow, David Guston, Daniel Sarewitz, Robert Frodeman, Carl Mitcham
 Type:    book
 ISBN:    9780615886701
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-rightful-place-of-science-politics-crow-david-guston/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-rightful-place-of-science-politics-crow-david-guston\index.md
 
 Title:   The Russian Way of War
 Authors: Lester W. Grau, Charles K. Bartles
 Type:    book
 ISBN:    9781940370194
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-russian-way-of-war-grau-charles-k-bartles/index.md
-
-Title:   The Saga of Pappy Gunn
-Authors: George C. Kenney
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-saga-of-pappy-gunn-kenney/index.md
-
-Title:   The Shadow of the Torturer
-Authors: Gene Wolfe
-Type:    book
-ISBN:    9780671540661
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-shadow-of-the-torturer-wolfe/index.md
-
-Title:   The Space Between Worlds
-Authors: Micaiah Johnson
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-space-between-worlds-johnson/index.md
-
-Title:   The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
-Authors: Erik Larson
-Type:    book
-ISBN:    9780385348720
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-splendid-and-the-vile-a-saga-of-churchill-family-and-defiance-during-the-blitz-larson/index.md
-
-Title:   The Stone Sky
-Authors: N.K. Jemisin
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-stone-sky-jemisin/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-russian-way-of-war-grau-charles-k-bartles\index.md
 
 Title:   The Storm Beneath a Midnight Sun
 Authors: Alexander Dan Vilhjálmsson
 Type:    book
 ISBN:    9781789098563
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-storm-beneath-a-midnight-sun-vilhjalmsson/index.md
-
-Title:   The Story of the Jews Volume Two: Belonging: 1492-1900
-Authors: Simon Schama
-Type:    book
-ISBN:    9780062339577
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-story-of-the-jews-volume-two-belonging-1492-1900-schama/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-storm-beneath-a-midnight-sun-vilhjalmsson\index.md
 
 Title:   The Stuff of Soldiers: A History of the Red Army in World War II Through Objects
 Authors: Brandon M. Schechter
 Type:    book
 ISBN:    9781501739804
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-stuff-of-soldiers-a-history-of-the-red-army-in-world-war-ii-through-objects-schechter/index.md
-
-Title:   The Tango War: The Struggle for the Hearts, Minds and Riches of Latin America During World War II
-Authors: Mary Jo McConahay
-Type:    book
-ISBN:    9781250091239
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-tango-war-the-struggle-for-the-hearts-minds-and-riches-of-latin-america-during-world-war-ii-mcconahay/index.md
-
-Title:   The TFX Decision: McNamara and the Military
-Authors: Robert J. Art
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-tfx-decision-mcnamara-and-the-military-art/index.md
-
-Title:   The Three-Body Problem
-Authors: Liu Cixin, Ken Liu
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-three-body-problem-cixin-ken-liu/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-stuff-of-soldiers-a-history-of-the-red-army-in-world-war-ii-through-objects-schechter\index.md
 
 Title:   The Tongue Trade
 Authors: Michael J. Martineck
 Type:    book
 ISBN:    9781770532397
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-tongue-trade-martineck/index.md
-
-Title:   The Tonkin Gulf Yacht Club: Naval Aviation in the Vietnam War
-Authors: Thomas McKelvey Cleaver
-Type:    book
-ISBN:    9781472845924
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-tonkin-gulf-yacht-club-naval-aviation-in-the-vietnam-war-cleaver/index.md
-
-Title:   The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind
-Authors: Dan Davies
-Type:    book
-ISBN:    9781782839255
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-unaccountability-machine-why-big-systems-make-terrible-decisions-and-how-the-world-lost-its-mind-davies/index.md
-
-Title:   The Untethered Soul: The Journey Beyond Yourself
-Authors: Michael A. Singer
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-untethered-soul-the-journey-beyond-yourself-singer/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-tongue-trade-martineck\index.md
 
 Title:   The Untouchables - Mission Accomplished - Twentieth Anniversary Commemorative Signed Edition
 Authors: Brian; Watson Jr. Shul, Walter Watson
 Type:    book
 ISBN:    9780972268219
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-untouchables-mission-accomplished-twentieth-anniversary-commemorative-signed-edition-shul-walter-watson/index.md
-
-Title:   The Unwomanly Face of War: An Oral History of Women in World War II
-Authors: Svetlana Alexievich, Richard Pevear, Larissa Volokhonsky
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-unwomanly-face-of-war-an-oral-history-of-women-in-world-war-ii-alexievich-richard-pevear/index.md
-
-Title:   The Vanishing Neighbor: The Transformation of American Community
-Authors: Marc J. Dunkelman
-Type:    book
-ISBN:    9780393243994
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-vanishing-neighbor-the-transformation-of-american-community-dunkelman/index.md
-
-Title:   The Visual Display of Quantitative Information
-Authors: Edward R. Tufte
-Type:    book
-ISBN:    9780318029924
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-visual-display-of-quantitative-information-tufte/index.md
-
-Title:   The War of Art
-Authors: Steven Pressfield, Robert McKee
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-war-of-art-pressfield-robert-mckee/index.md
-
-Title:   The Word for World Is Forest
-Authors: Ursula K. Le Guin
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-word-for-world-is-forest-guin/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-untouchables-mission-accomplished-twentieth-anniversary-commemorative-signed-edition-shul-walter-watson\index.md
 
 Title:   The Works of Vermin
 Authors: Hiron Ennes
 Type:    book
 ISBN:    9781250811219
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-works-of-vermin-ennes/index.md
-
-Title:   The Workshop and the World: What Ten Thinkers Can Teach Us About Science and Authority
-Authors: Robert P. Crease
-Type:    book
-ISBN:    9780393292442
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-workshop-and-the-world-what-ten-thinkers-can-teach-us-about-science-and-authority-crease/index.md
-
-Title:   The Wright Brothers
-Authors: David McCullough
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/the-wright-brothers-mccullough/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\the-works-of-vermin-ennes\index.md
 
 Title:   Thirty Seconds Over Tokyo (Aviation Classics)
 Authors: Ted W. Lawson, Peter B. Mersky
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/thirty-seconds-over-tokyo-aviation-classics-lawson-peter-b-mersky/index.md
-
-Title:   This Is How You Lose the Time War
-Authors: Amal El-Mohtar, Max Gladstone
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/this-is-how-you-lose-the-time-war-el-mohtar-max-gladstone/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\thirty-seconds-over-tokyo-aviation-classics-lawson-peter-b-mersky\index.md
 
 Title:   This Is Why We Can't Have Nice Things: Mapping the Relationship Between Online Trolling and Mainstream Culture (Information Society Series)
 Authors: Whitney Phillips
 Type:    book
 ISBN:    9780262028943
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/this-is-why-we-cant-have-nice-things-mapping-the-relationship-between-online-trolling-and-mainstream-culture-information-society-series-phillips/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\this-is-why-we-cant-have-nice-things-mapping-the-relationship-between-online-trolling-and-mainstream-culture-information-society-series-phillips\index.md
 
 Title:   Those Who Hold Bastogne: The True Story of the Soldiers and Civilians Who Fought in the Biggest Battle of the Bulge
 Authors: Peter Schrijvers
 Type:    book
 ISBN:    9780300179026
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/those-who-hold-bastogne-the-true-story-of-the-soldiers-and-civilians-who-fought-in-the-biggest-battle-of-the-bulge-schrijvers/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\those-who-hold-bastogne-the-true-story-of-the-soldiers-and-civilians-who-fought-in-the-biggest-battle-of-the-bulge-schrijvers\index.md
 
 Title:   Timeless Stories for Today and Tomorrow
 Authors: Ray Bradbury, John Cheever, Hortense Calisher, Ludwig Bemelmans, Shirley Jackson, John Keir Cross, Christine Noble Govan, E.B. White, John Steinbeck, Helen Eustis, Franz Kafka, Nigel Kneale, Josephine Winslow Johnson, Robert M. Coates, Roald Dahl, J.C. Furnas, Henry Kuttner, Walter Van Tilburg Clark, Christopher Isherwood, William Sansom, Jean Hrolda, Russell Maloney, John B.L. Goodwin, Wessel Hyatt Smitter, Sidney Carroll
 Type:    book
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/timeless-stories-for-today-and-tomorrow-bradbury-john-cheever/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\timeless-stories-for-today-and-tomorrow-bradbury-john-cheever\index.md
 
 Title:   Tongue Tied: Untangling Communication in Sex, Kink, and Relationships
 Authors: Stella Harris
 Type:    book
 ISBN:    9781627782661
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/tongue-tied-untangling-communication-in-sex-kink-and-relationships-harris/index.md
-
-Title:   Tower of Mud and Straw
-Authors: Yaroslav Barsukov
-Type:    book
-ISBN:    9781640761896
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/tower-of-mud-and-straw-barsukov/index.md
-
-Title:   Trace
-Authors: Ian M. Smith
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/trace-smith/index.md
-
-Title:   Trapped
-Authors: James Alan Gardner
-Type:    book
-ISBN:    9781497627390
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/trapped-gardner/index.md
-
-Title:   Turing's Vision: The Birth of Computer Science
-Authors: Chris Bernhardt
-Type:    book
-ISBN:    9780262034548
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/turings-vision-the-birth-of-computer-science-bernhardt/index.md
-
-Title:   Twelve Tomorrows 2014
-Authors: Bruce Sterling
-Type:    book
-ISBN:    9780991044412
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/twelve-tomorrows-2014-sterling/index.md
-
-Title:   Two Serpents Rise
-Authors: Max Gladstone
-Type:    book
-ISBN:    9780765333124
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/two-serpents-rise-gladstone/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\tongue-tied-untangling-communication-in-sex-kink-and-relationships-harris\index.md
 
 Title:   Ukraine:  Zbig's Grand Chessboard & How the West Was Checkmated
 Authors: Natylie Baldwin, Kermit
 Type:    book
 ISBN:    9780990661467
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/ukraine-zbigs-grand-chessboard-how-the-west-was-checkmated-baldwin-kermit/index.md
-
-Title:   Unconquerable Sun
-Authors: Kate Elliott
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/unconquerable-sun-elliott/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\ukraine-zbigs-grand-chessboard-how-the-west-was-checkmated-baldwin-kermit\index.md
 
 Title:   Under One Banner
 Authors: Graydon Saunders
 Type:    book
 ISBN:    9780993712647
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/under-one-banner-saunders/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\under-one-banner-saunders\index.md
 
 Title:   Unframed: The Art of Improvisation For Game Masters
 Authors: Martin Ralya, John Arcadian, D. Vincent Baker, Meguey Baker, Wolfgang Baur, Emily Care Boss, Walt Ciechanowksi, Stacy Dellorfano, Jess Hartley, Kenneth Hite, Jennell Jaquays, Eloy Lasanta, Robin D. Laws, Michelle Lyons McFarland, Don Mappin, Scott Martin, Alex Mayo, Jason Morningstar, Kurt Schneider, Ken St. Andre, Monica Valentinelli, Phil Vecchione, Filamena Young
 Type:    rpg
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/unframed-the-art-of-improvisation-for-game-masters-ralya-john-arcadian/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\unframed-the-art-of-improvisation-for-game-masters-ralya-john-arcadian\index.md
 
 Title:   Unplug and Play: The Ultimate Illustrated Guide to Roughhousing with Your Kids
 Authors: Anthony T. DeBenedet M.D., Lawrence J. Cohen Ph.D.
 Type:    book
 ISBN:    9781683693499
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/unplug-and-play-the-ultimate-illustrated-guide-to-roughhousing-with-your-kids-md-lawrence-j-cohen-phd/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\unplug-and-play-the-ultimate-illustrated-guide-to-roughhousing-with-your-kids-md-lawrence-j-cohen-phd\index.md
 
 Title:   Validation: The New Psychology of Influence
 Authors: Caroline Fleck
 Type:    book
 ISBN:    9781398713185
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/validation-the-new-psychology-of-influence-fleck/index.md
-
-Title:   Valuable Humans in Transit and Other Stories
-Authors: qntm qntm, Sam  Hughes
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/valuable-humans-in-transit-and-other-stories-qntm-sam-hughes/index.md
-
-Title:   Velocity Weapon
-Authors: Megan E. O'Keefe
-Type:    book
-ISBN:    9780316419604
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/velocity-weapon-okeefe/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\validation-the-new-psychology-of-influence-fleck\index.md
 
 Title:   Visions, Ventures, Escape Velocities: A Collection of Space Futures
 Authors: Ed Finn, Joey Eschrich, Juliet Ulman, Madeline Ashby, Steven Barnes, Eileen Gunn, Ramez Naam, Carter Scholz, Karl Schroeder, Vandana Singh, Jim Bell, Lawrence Dritsas, Linda T. Elkins-Tanton, Emma Frow, Roland Lehoucq, Andrew D. Maynard, Clark A. Miller, Deji Bryce Olukotun, Steve Ruff, William K. Storey, Sara Imari Walker, G. Pascal Zachary, Maciej Rebisz
 Type:    book
 ISBN:    9780999590218
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/visions-ventures-escape-velocities-a-collection-of-space-futures-finn-joey-eschrich/index.md
-
-Title:   Voice Lessons for Parents: What to Say, How to Say it, and When to Listen
-Authors: Wendy Mogel
-Type:    book
-ISBN:    9781501142390
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/voice-lessons-for-parents-what-to-say-how-to-say-it-and-when-to-listen-mogel/index.md
-
-Title:   Voice of the Whirlwind
-Authors: Walter Jon Williams
-Type:    book
-ISBN:    9780812519242
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/voice-of-the-whirlwind-williams/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\visions-ventures-escape-velocities-a-collection-of-space-futures-finn-joey-eschrich\index.md
 
 Title:   Walker, R.N.: The Greatest U-Boat Hunter of the Battle of the Atlantic (Submarine Warfare in World War Two)
 Authors: Terence Robertson
 Type:    book
 ISBN:    9781800558205
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/walker-rn-the-greatest-u-boat-hunter-of-the-battle-of-the-atlantic-submarine-warfare-in-world-war-two-robertson/index.md
-
-Title:   War Beneath The Sea
-Authors: Peter Padfield
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/war-beneath-the-sea-padfield/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\walker-rn-the-greatest-u-boat-hunter-of-the-battle-of-the-atlantic-submarine-warfare-in-world-war-two-robertson\index.md
 
 Title:   War Plan Red: The United States' Secret Plans to Invade Canada and Canada's Secret Plans to Invade the United States
 Authors: Kevin Lippert
 Type:    book
 ISBN:    9781616893521
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/war-plan-red-the-united-states-secret-plans-to-invade-canada-and-canadas-secret-plans-to-invade-the-united-states-lippert/index.md
-
-Title:   War Without guns
-Authors: George K. Tanham, W. Robert Warne, Earl J. Young, William A. Nighswonger
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/war-without-guns-tanham-w-robert-warne/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\war-plan-red-the-united-states-secret-plans-to-invade-canada-and-canadas-secret-plans-to-invade-the-united-states-lippert\index.md
 
 Title:   Warlords, Inc.: Black Markets, Broken States, and the Rise of the Warlord Entrepreneur
 Authors: Noah Raford
 Type:    book
 ISBN:    9781583949023
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/warlords-inc-black-markets-broken-states-and-the-rise-of-the-warlord-entrepreneur-raford/index.md
-
-Title:   Washington: The Indispensible Man
-Authors: James Thomas Flexner
-Type:    book
-ISBN:    9780002119351
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/washington-the-indispensible-man-flexner/index.md
-
-Title:   We Stand Divided: Competing Visions of Jewishness and the Rift Between American Jews and Israel
-Authors: Daniel Gordis
-Type:    book
-ISBN:    9780062873712
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/we-stand-divided-competing-visions-of-jewishness-and-the-rift-between-american-jews-and-israel-gordis/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\warlords-inc-black-markets-broken-states-and-the-rise-of-the-warlord-entrepreneur-raford\index.md
 
 Title:   Weapons of Mass Destruction: Specters of the Nuclear Age
 Authors: Martin Miller
 Type:    book
 ISBN:    9780764354403
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/weapons-of-mass-destruction-specters-of-the-nuclear-age-miller/index.md
-
-Title:   Welcome to Vietnam, Macho Man: Refelections of a Khe Sanh Vet
-Authors: Ernest Spencer
-Type:    book
-ISBN:    9780517072035
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/welcome-to-vietnam-macho-man-refelections-of-a-khe-sanh-vet-spencer/index.md
-
-Title:   Westside
-Authors: W.M. Akers
-Type:    book
-ISBN:    9780062854032
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/westside-akers/index.md
-
-Title:   When Churchill Slaughtered Sheep and Stalin Robbed a Bank: History's Unknown Chapters
-Authors: Giles Milton
-Type:    book
-ISBN:    9781250078766
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/when-churchill-slaughtered-sheep-and-stalin-robbed-a-bank-historys-unknown-chapters-milton/index.md
-
-Title:   When the Tiger Came Down the Mountain
-Authors: Nghi Vo
-Type:    book
-ISBN:    9781250786166
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/when-the-tiger-came-down-the-mountain-vo/index.md
-
-Title:   Whipping Star
-Authors: Frank Patrick Herbert
-Type:    book
-ISBN:    9780425099629
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/whipping-star-herbert/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\weapons-of-mass-destruction-specters-of-the-nuclear-age-miller\index.md
 
 Title:   White Water, Red Hot Lead: On Board U.S. Navy Swift Boats in Vietnam (New Edition)
 Authors: Dan Daly
 Type:    book
 ISBN:    9781612004785
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/white-water-red-hot-lead-on-board-us-navy-swift-boats-in-vietnam-new-edition-daly/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\white-water-red-hot-lead-on-board-us-navy-swift-boats-in-vietnam-new-edition-daly\index.md
 
 Title:   Wicked Ones
 Authors: Ben Nielson, Victor Costa
 Type:    rpg
 ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/wicked-ones-nielson-victor-costa/index.md
-
-Title:   Wilderness of Mirrors: Intrigue, Deception, and the Secrets that Destroyed Two of the Cold War's Most Important Agents
-Authors: David C. Martin
-Type:    book
-ISBN:    9781510722194
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/wilderness-of-mirrors-intrigue-deception-and-the-secrets-that-destroyed-two-of-the-cold-wars-most-important-agents-martin/index.md
-
-Title:   William Tecumseh Sherman: In the Service of My Country: A Life
-Authors: James Lee McDonough
-Type:    book
-ISBN:    9780393241570
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/william-tecumseh-sherman-in-the-service-of-my-country-a-life-mcdonough/index.md
-
-Title:   Winning a Future War: War Gaming and Victory in the Pacific War
-Authors: Norman Friedman, Naval History and Heritage Command
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/winning-a-future-war-war-gaming-and-victory-in-the-pacific-war-friedman-naval-history-and-heritage-command/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\wicked-ones-nielson-victor-costa\index.md
 
 Title:   Winterhorn
 Authors: Jason Morningstar
 Type:    rpg
 ISBN:    9781945633058
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/winterhorn-morningstar/index.md
-
-Title:   Wolf Hall
-Authors: Hilary Mantel
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/wolf-hall-mantel/index.md
-
-Title:   Wool Omnibus
-Authors: Hugh Howey
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/wool-omnibus-howey/index.md
-
-Title:   Working Futures: 14 Speculative Stories About The Future Of Work
-Authors: Mike Masnick, Keyan Bowes, Katharine Dow, Timothy Geigner, Liam Hogan, Christopher Alex Hooton, Andrew Dana Hudson, N.R.M. Roshak, Holly Schofield, James  Yu
-Type:    book
-ISBN:    —
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/working-futures-14-speculative-stories-about-the-future-of-work-masnick-keyan-bowes/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\winterhorn-morningstar\index.md
 
 Title:   Wraith Recon
 Authors: Pete Nash
 Type:    rpg
 ISBN:    9781907218958
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/rpg/wraith-recon-nash/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\rpg\wraith-recon-nash\index.md
 
 Title:   Your Move: What Board Games Teach Us about Life
 Authors: Jonathan Kay, Joan Moriarity
 Type:    book
 ISBN:    9781999439545
-Path:    /home/michael/dev/book_review_site/book-review-content/reviews/book/your-move-what-board-games-teach-us-about-life-kay-joan-moriarity/index.md
+Path:    C:\Users\michael\dev\book-review-site\content\reviews\book\your-move-what-board-games-teach-us-about-life-kay-joan-moriarity\index.md

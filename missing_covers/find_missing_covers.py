@@ -4,7 +4,7 @@
 from pathlib import Path
 import yaml
 
-CONTENT_DIR = Path(__file__).parent / "book-review-content" / "reviews"
+CONTENT_DIR = Path(__file__).parent.parent.parent / "content" / "reviews"
 OUTPUT_FILE = Path(__file__).parent / "missing_covers.txt"
 COVER_STEMS = {"cover", "og-cover", "og_cover"}
 COVER_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp", ".gif"}

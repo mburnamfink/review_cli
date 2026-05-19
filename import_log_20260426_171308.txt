@@ -1,0 +1,2637 @@
+=== Goodreads Import Log ===
+Generated: 2026-04-26T17:48:20
+
+Imported:          1762
+Skipped (not read):   0
+Skipped (duplicate):  1
+Image failures:    56
+Goodreads links:   64
+Multi-read stubs:  327
+No date_read:      284
+No cover found:    1762
+
+--- Duplicates skipped ---
+  [dune-herbert] CSV line 869 duplicates line 867
+
+--- Image download failures (manual review needed) ---
+  The Cat from Hue: A Vietnam War Story
+    https://upload.wikimedia.org/wikipedia/commons/e/e4/My_Tho%2C_Vietnam._A_Viet_Cong_base_camp_being._In_the_foreground_is_Private_First_Class_Raymond_Rumpa%2C_St_Paul%2C_Minnesota_-_NARA_-_530621_edit.jpg
+  Digital Apollo: Human and Machine in Spaceflight
+    https://upload.wikimedia.org/wikipedia/commons/d/d5/Apollo_11_Lunar_Module_Eagle_in_landing_configuration_in_lunar_orbit_from_the_Command_and_Service_Module_Columbia.jpg
+  War Plan Red: The United States' Secret Plans to Invade Canada and Canada's Secret Plans to Invade the United States
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/THIS_MAN_IS_YOUR_FRIEND._CANADIAN_-_NARA_-_515798.jpg/739px-THIS_MAN_IS_YOUR_FRIEND._CANADIAN_-_NARA_-_515798.jpg
+  The Far Shore
+    https://upload.wikimedia.org/wikipedia/commons/1/19/The_Mulberry_artificial_harbour_off_Arromanches_in_Normandy%2C_September_1944._BU1024.jpg
+  On the Bottom: The Raising of the U.S. Navy Submarine S-51
+    https://i.imgur.com/8CdCRRD.png
+  The Hunger Habit: Why We Eat When We're Not Hungry and How to Stop
+    https://i.imgur.com/vPPSWSy.jpg
+  Flying Camelot: The F-15, the F-16, and the Weaponization of Fighter Pilot Nostalgia (Battlegrounds: Cornell Studies in Military History)
+    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/1920px-F-16_June_2008.jpg
+  Condition Red: Destroyer Action in the South Pacific
+    https://upload.wikimedia.org/wikipedia/commons/3/33/Uss_grayson_0543503.jpg
+  Napoleon: A Life
+    https://upload.wikimedia.org/wikipedia/commons/f/fd/David_-_Napoleon_crossing_the_Alps_-_Malmaison2.jpg
+  Silent Knights: Blowing the Whistle on Military Accidents and Their Cover-Ups
+    https://j.gifs.com/BB2X5Q.gif
+  Going Infinite: The Rise and Fall of a New Tycoon
+    https://upload.wikimedia.org/wikipedia/en/9/90/HeathJoker.png
+  Fitting In Is Overrated: The Survival Guide for Anyone Who Has Ever Felt Like an Outsider
+    https://www.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2014/09/06/Style/Images/TAXIDERMY0091410042432.jpg
+  The Machine That Changed the World : The Story of Lean Production
+    https://media.makeameme.org/created/yeah-about-those-hf8r1b.jpg
+  Ice Station Zebra
+    https://upload.wikimedia.org/wikipedia/commons/2/20/USS_Skate_%28SSN-578%29_surfaced_in_Arctic_-_1959.jpg
+  Autopilot: The Art & Science of Doing Nothing
+    https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Sobo_1909_624.png/350px-Sobo_1909_624.png
+  Of Orcas and Men: Blend of science and activism arguing orcas reveal the cost of human exploitation.
+    https://pbs.twimg.com/media/FxtI5TLXgAAOwJY?format=jpg&name=medium
+  Data, A Love Story: How I Gamed Online Dating to Meet My Match
+    https://i.imgur.com/sgMevUn.png
+  With Wings Like Eagles: A History of the Battle of Britain
+    https://www.jornaltornado.pt/wp-content/uploads/2016/04/bunker-900x433.jpg
+  American Warlords: How Roosevelt's High Command Led America to Victory in World War II
+    https://www.afhistory.org/wp-content/uploads/b24-factory.jpg
+  Learning War: The Evolution of Fighting Doctrine in the U.S. Navy, 1898-1945 (Studies in Naval History and Sea Power)
+    http://www.navsource.org/archives/05/pix1/0544504.jpg
+  Mating in Captivity: Reconciling the Erotic and the Domestic
+    https://i.imgur.com/ftPvEyr.jpg
+  Two-Gun Cohen: A Biography
+    https://i.imgur.com/rp9X4eD.jpg
+  Piranesi
+    https://upload.wikimedia.org/wikipedia/commons/6/64/Giovanni_Battista_Piranesi_-_Le_Carceri_d%27Invenzione_-_First_Edition_-_1750_-_15_-_The_Pier_with_a_Lamp.jpg
+  Escape from Yokai Land (Laundry Files, #6.5)
+    https://www.sassymamasg.com/wp-content/uploads/2017/10/sanrio-puroland-hello-kitty-Miracle_Gift_Parade-hero-1024x796.jpg
+  Defiant Role Playing Game
+    https://cdn.fansshare.com/photograph/hdwallpaperstvshows/lost-girl-tv-show-hd-wallpaper-1602384407.jpg
+  Soldiers Of Reason: The RAND Corporation And The Rise Of The American Empire
+    https://upload.wikimedia.org/wikipedia/en/d/d3/Paul_Conrad%2C_Chain_Reaction.JPG
+  Gangsters vs. Nazis: How Jewish Mobsters Battled Nazis in Wartime America
+    https://gifimage.net/wp-content/uploads/2017/08/richard-spencer-punch-gif-1.gif
+  Because Our Fathers Lied: A Memoir of Truth and Family, from Vietnam to Today
+    https://i.imgur.com/2ZbZLwH.jpg
+  The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia (Yale Agrarian Studies Series)
+    https://upload.wikimedia.org/wikipedia/commons/2/2c/Anti-communists001.jpg
+  How Buildings Learn: What Happens After They're Built
+    https://i.imgur.com/YgxTdg4.jpeg
+  Arriving Today: From Factory to Front Door-Why Everything Has Changed About How and What We Buy
+    https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/MARSEILLE_MAERSK_%282018%29_%2826339401978%29.jpg/1920px-MARSEILLE_MAERSK_%282018%29_%2826339401978%29.jpg
+  The Invention of News: How the World Came to Know About Itself
+    https://www.wendemuseum.org/sites/default/files/Fact%20and%20Fiction.jpg
+  From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism
+    https://i.imgur.com/z6aomfx.jpg
+  Time for the Stars
+    https://pbs.twimg.com/media/FPyYrgPVsAIvx2u?format=png&name=small
+  BART: The Dramatic History of the Bay Area Rapid Transit System
+    https://pbs.twimg.com/media/E-aWlpvVIAIg7yM?format=jpg&name=4096x4096
+  Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones)
+    https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/IBM_3277_Model_2_terminal.jpg/1920px-IBM_3277_Model_2_terminal.jpg
+  Rational Action: The Sciences of Policy in Britain and America, 1940-1960 (Transformations: Studies in the History of Science and Technology)
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Survivorship-bias.png/800px-Survivorship-bias.png?20161112093111
+  I Want to Believe: Posadism, UFOs and Apocalypse Communism
+    https://i.imgur.com/yjv0MiU.jpg
+  The Charisma Machine: The Life, Death, and Legacy of One Laptop per Child (Infrastructures)
+    https://upload.wikimedia.org/wikipedia/commons/5/51/One_Laptop_per_Child_at_Kagugu_Primary_School%2C_Kigali%2C_Rwanda-19Sept2009.jpg
+  Piano Burning and Other Fighter Pilot Traditions
+    https://www.sandboxx.us/wp-content/uploads/2021/11/F-22-2-1024x558.jpg
+  Return of a King: The Battle for Afghanistan
+    https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Remnants_of_an_army2.jpg/450px-Remnants_of_an_army2.jpg
+  Prevail: The Inspiring Story of Ethiopia's Victory over Mussolini's Invasion, 1935-1941
+    https://upload.wikimedia.org/wikipedia/commons/5/5b/John_C_Robinson.jpg
+  Your Move: What Board Games Teach Us about Life
+    https://images.dailykos.com/images/574802/story_image/1350.png?1533664371
+  Ready Player One
+    https://pics.me.me/simulation-simulacrum-cards-buy-now-simulation-is-characterized-by-a-4225776.png
+  Unconquerable Sun
+    https://media.istockphoto.com/photos/blank-paper-cups-with-frozen-yogurt-picture-id498333212?k=6&m=498333212&s=612x612&w=0&h=BL72Le422gEi4nK6Gi7J1u7_-MGGYKs1gk3foWsW75M=
+  The Difference Engine
+    https://assets.vice.com/content-images/contentimage/no-slug/908f87bbce2ef883522d516e20715cff.jpg
+  Fighter Pilot: The Memoirs of Legendary Ace Robin Olds
+    https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Col_Robin_Olds_epic_mustache.jpg/1119px-Col_Robin_Olds_epic_mustache.jpg
+  Lovecraft Country
+    http://i.imgur.com/OJXhKgi.jpg
+  Snake Pilot: Flying the Cobra Attack Helicopter in Vietnam
+    https://militarymachine.com/wp-content/uploads/2016/11/ah1g-012.jpg
+  Scum and Villainy
+    https://i.ytimg.com/vi/Yh0Aeazm5y8/maxresdefault.jpg
+  Six Frigates: The Epic History of the Founding of the U. S. Navy
+    https://s3.amazonaws.com/media.wbur.org/wordpress/1/files/2014/10/1017_constitution04.jpg
+  The Perfectionists: How Precision Engineers Created the Modern World
+    http://image.my-day.com.tw/thumb/image-cHJvZHVjdA==--c153078845784869100.png
+  The Labyrinth Index
+    https://i.kym-cdn.com/entries/icons/facebook/000/001/619/Badenoughdude.jpg
+  LikeWar: The Weaponization of Social Media
+    http://ddees.com/wp-content/uploads/2018/03/Sheeple-43.jpg
+  Flame and Fortune in the American West: Urban Development, Environmental Change, and the Great Oakland Hills Fire
+    https://i.imgur.com/MwH9kWb.jpg
+  Red Star: The First Bolshevik Utopia
+    http://i.imgur.com/gIQBdjz.png
+
+--- Goodreads links to remap to local files ---
+  [recoding-america-why-government-is-failing-in-the-digital-age-and-how-we-can-do-better-pahlka] Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better
+    [Seeing Like a State.](https://www.goodreads.com/review/show/214840060)
+  [the-story-of-the-jews-volume-two-belonging-1492-1900-schama] The Story of the Jews Volume Two: Belonging: 1492-1900
+    [Vol 1](https://www.goodreads.com/book/show/16003595-the-story-of-the-jews)
+  [no-one-will-come-back-for-us-and-other-stories-mohamed] No One Will Come Back For Us and Other Stories
+    [The Complete Short Stories of J.G. Ballard](https://www.goodreads.com/review/show/4908404423)
+  [no-banners-no-bugles-ellsberg] No Banners, No Bugles
+    [Under the Red Sea Sun](https://www.goodreads.com/review/show/6913730918)
+  [flying-camelot-the-f-15-the-f-16-and-the-weaponization-of-fighter-pilot-nostalgia-battlegrounds-cornell-studies-in-military-history-hankins] Flying Camelot: The F-15, the F-16, and the Weaponization of Fighter Pilot Nostalgia (Battlegrounds: Cornell Studies in Military History)
+    [The Charisma Machine](https://www.goodreads.com/review/show/3040698985)
+  [the-mountain-is-you-transforming-self-sabotage-into-self-mastery-wiest] The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery
+    [The War of Art](https://www.goodreads.com/review/show/3163825235)
+  [nona-the-ninth-muir] Nona the Ninth
+    [Undercover](https://www.goodreads.com/review/show/5456630148)
+  [the-chosen-and-the-beautiful-vo] The Chosen and the Beautiful
+    [The Empress of Salt and Fortune](https://www.goodreads.com/review/show/3346353849)
+  [the-machine-that-changed-the-world-the-story-of-lean-production-womack-daniel-t-jones] The Machine That Changed the World : The Story of Lean Production
+    [Modern logistics systems](https://www.goodreads.com/review/show/5069219405)
+  [the-savage-wars-of-peace-small-wars-and-the-rise-of-american-power-boot] The Savage Wars Of Peace: Small Wars And The Rise Of American Power
+    [Six Frigates](https://www.goodreads.com/review/show/2794485710)
+  [system-design-interview-an-insiders-guide-xu] System Design Interview – An insider's guide
+    [Designing Data Intensive Systems](https://www.goodreads.com/review/show/4906927875)
+  [engineers-of-victory-the-problem-solvers-who-turned-the-tide-in-the-second-world-war-kennedy] Engineers of Victory: The Problem Solvers Who Turned The Tide in the Second World War
+    [radar-assisted naval gunfire](https://www.goodreads.com/review/show/1038114786)
+  [engineers-of-victory-the-problem-solvers-who-turned-the-tide-in-the-second-world-war-kennedy] Engineers of Victory: The Problem Solvers Who Turned The Tide in the Second World War
+    [logistics in distant theaters](https://www.goodreads.com/review/show/614255360)
+  [engineers-of-victory-the-problem-solvers-who-turned-the-tide-in-the-second-world-war-kennedy] Engineers of Victory: The Problem Solvers Who Turned The Tide in the Second World War
+    [special operations missions](https://www.goodreads.com/review/show/1059148932)
+  [the-arsenal-of-democracy-fdr-ford-motor-company-and-their-epic-quest-to-arm-an-america-at-war-baime] The Arsenal of Democracy: FDR, Ford Motor Company, and Their Epic Quest to Arm an America at War
+    [Freedom's Forge](https://www.goodreads.com/review/show/3964084625)
+  [duel-of-eagles-the-classic-pilots-account-of-the-battle-of-britain-peter-townsends-air-war-collection-book-1-townsend] Duel of Eagles: The Classic Pilot's Account of the Battle of Britain (Peter Townsend's Air War Collection Book 1)
+    [With Wings Like Eagles](https://www.goodreads.com/review/show/2909365928)
+  [the-art-of-gathering-how-we-meet-and-why-it-matters-parker] The Art of Gathering: How We Meet and Why It Matters
+    [Understanding by Design](https://www.goodreads.com/review/show/1438010681)
+  [of-boys-and-men-why-the-modern-male-is-struggling-why-it-matters-and-what-to-do-about-it-reeves] Of Boys and Men: Why the Modern Male Is Struggling, Why It Matters, and What to Do About It
+    [For the Love of Men](https://www.goodreads.com/review/show/5103891263)
+  [of-boys-and-men-why-the-modern-male-is-struggling-why-it-matters-and-what-to-do-about-it-reeves] Of Boys and Men: Why the Modern Male Is Struggling, Why It Matters, and What to Do About It
+    [Who Gets in and Why](https://www.goodreads.com/review/show/4045072739)
+  [of-boys-and-men-why-the-modern-male-is-struggling-why-it-matters-and-what-to-do-about-it-reeves] Of Boys and Men: Why the Modern Male Is Struggling, Why It Matters, and What to Do About It
+    [The Female Man](https://www.goodreads.com/review/show/2474753400)
+  [spetsnaz-the-story-behind-the-soviet-sas-suvorov] Spetsnaz: The story behind the Soviet SAS
+    [The Aquarium](https://www.goodreads.com/review/show/1843891967)
+  [gangsters-vs-nazis-how-jewish-mobsters-battled-nazis-in-wartime-america-benson] Gangsters vs. Nazis: How Jewish Mobsters Battled Nazis in Wartime America
+    [Hitler in Los Angeles](https://www.goodreads.com/review/show/2682132081)
+  [arriving-today-from-factory-to-front-door-why-everything-has-changed-about-how-and-what-we-buy-mims] Arriving Today: From Factory to Front Door-Why Everything Has Changed About How and What We Buy
+    [Ninety Percent of Everything](https://www.goodreads.com/review/show/2554245644)
+  [arriving-today-from-factory-to-front-door-why-everything-has-changed-about-how-and-what-we-buy-mims] Arriving Today: From Factory to Front Door-Why Everything Has Changed About How and What We Buy
+    [On the Clock](https://www.goodreads.com/review/show/3906820215)
+  [domain-driven-design-quickly-marinescu-abel-avram] Domain-Driven Design Quickly
+    [Architecture Patterns with Python](https://www.goodreads.com/review/show/4957956876)
+  [the-complete-stories-of-jg-ballard-ballard-martin-amis] The Complete Stories of J.G. Ballard
+    [The Best Short Stories of J.G. Ballard](https://www.goodreads.com/book/show/70239.The_Best_Short_Stories_of_J_G_Ballard)
+  [from-counterculture-to-cyberculture-stewart-brand-the-whole-earth-network-and-the-rise-of-digital-utopianism-turner] From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism
+    [Nobert Weiner's cybernetics](https://www.goodreads.com/review/show/2121399706)
+  [from-counterculture-to-cyberculture-stewart-brand-the-whole-earth-network-and-the-rise-of-digital-utopianism-turner] From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism
+    [Claude Shannon's  information theory](https://www.goodreads.com/review/show/2711725135)
+  [from-counterculture-to-cyberculture-stewart-brand-the-whole-earth-network-and-the-rise-of-digital-utopianism-turner] From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism
+    [What The Dormouse Said](https://www.goodreads.com/review/show/1442447024)
+  [the-quiet-americans-four-cia-spies-at-the-dawn-of-the-cold-wara-tragedy-in-three-acts-anderson] The Quiet Americans: Four CIA Spies at the Dawn of the Cold War—A Tragedy in Three Acts
+    [Kinzer](https://www.goodreads.com/review/show/2640179913)
+  [the-devil-never-sleeps-learning-to-live-in-an-age-of-disasters-kayyem] The Devil Never Sleeps: Learning to Live in an Age of Disasters
+    [The Ostrich Paradox](https://www.goodreads.com/review/show/2051537013)
+  [the-devil-never-sleeps-learning-to-live-in-an-age-of-disasters-kayyem] The Devil Never Sleeps: Learning to Live in an Age of Disasters
+    [Shock Doctrine](https://www.goodreads.com/book/show/1237300.The_Shock_Doctrine)
+  [fearless-campbell] Fearless
+    [Dauntless](https://www.goodreads.com/review/show/1386143377)
+  [the-psychology-of-computer-programming-weinberg] The Psychology of Computer Programming
+    [Valia's review](https://www.goodreads.com/review/show/746066243)
+  [the-art-and-soul-of-dune-lapointe] The Art and Soul of Dune
+    [The Making of Dune](https://www.goodreads.com/review/show/1567588270)
+  [lancer-field-guide-to-suldan-tave] Lancer: Field Guide to Suldan
+    [Lancer.](https://www.goodreads.com/review/show/3075531968)
+  [spies-in-the-family-an-american-spymaster-his-russian-crown-jewel-and-the-friendship-that-helped-end-the-cold-war-dillon] Spies in the Family: An American Spymaster, His Russian Crown Jewel, and the Friendship That Helped End the Cold War
+    [James Angleton](https://www.goodreads.com/review/show/2991486352)
+  [spies-in-the-family-an-american-spymaster-his-russian-crown-jewel-and-the-friendship-that-helped-end-the-cold-war-dillon] Spies in the Family: An American Spymaster, His Russian Crown Jewel, and the Friendship That Helped End the Cold War
+    [The Billion Dollar Spy](https://www.goodreads.com/review/show/3691424775)
+  [spies-in-the-family-an-american-spymaster-his-russian-crown-jewel-and-the-friendship-that-helped-end-the-cold-war-dillon] Spies in the Family: An American Spymaster, His Russian Crown Jewel, and the Friendship That Helped End the Cold War
+    [The Moscow Rules](goodreads.com/review/show/3186466490)
+  [a-fatal-thing-happened-on-the-way-to-the-forum-murder-in-ancient-rome-southon] A Fatal Thing Happened on the Way to the Forum: Murder in Ancient Rome
+    [The Inheritance of Rome](https://www.goodreads.com/review/show/4109998118)
+  [your-move-what-board-games-teach-us-about-life-kay-joan-moriarity] Your Move: What Board Games Teach Us about Life
+    [Freedom's Forge](https://www.goodreads.com/review/show/3964084625)
+  [the-jakarta-method-washingtons-anticommunist-crusade-and-the-mass-murder-program-that-shaped-our-world-bevins] The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program that Shaped Our World
+    [The Brothers: John Foster Dulles, Allen Dulles & Their Secret World War](https://www.goodreads.com/review/show/2640179913)
+  [the-jakarta-method-washingtons-anticommunist-crusade-and-the-mass-murder-program-that-shaped-our-world-bevins] The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program that Shaped Our World
+    [The Cold War's Killing Fields](https://www.goodreads.com/review/show/3704060071)
+  [the-jakarta-method-washingtons-anticommunist-crusade-and-the-mass-murder-program-that-shaped-our-world-bevins] The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program that Shaped Our World
+    [The Management of Savagery](https://www.goodreads.com/review/show/3443505530)
+  [spire-the-city-must-fall-howitt-christopher-taylor] Spire: The City Must Fall
+    [One Man](https://www.goodreads.com/review/show/3153624001)
+  [cortex-prime-game-handbook-banks-amanda-valentine] Cortex Prime Game Handbook
+    [Leverage](https://www.goodreads.com/review/show/1089504244)
+  [cortex-prime-game-handbook-banks-amanda-valentine] Cortex Prime Game Handbook
+    [Firefly](https://www.goodreads.com/review/show/1343392388)
+  [payments-systems-in-the-us-benson-scott-loftesness] Payments Systems in the U.S.
+    [Graeber, Debt: The First 5000 years](https://www.goodreads.com/review/show/642427586)
+  [the-new-economics-for-industry-government-education-deming] The New Economics for Industry, Government, Education
+    [Mitchell's Complexity: A Guided Tour](https://www.goodreads.com/review/show/1320085448)
+  [the-new-economics-for-industry-government-education-deming] The New Economics for Industry, Government, Education
+    [Richard's Certain to Win](https://www.goodreads.com/review/show/1764785568)
+  [scum-and-villainy-acimovic-john-leboeuf-little] Scum and Villainy
+    [Blades in the Dark](https://www.goodreads.com/review/show/1951249547)
+  [how-to-live-safely-in-a-science-fictional-universe-yu] How to Live Safely in a Science Fictional Universe
+    [Kemper](https://www.goodreads.com/review/show/135101539)
+  [blowing-my-cover-my-life-as-a-cia-spy-moran] Blowing My Cover: My Life as a CIA Spy
+    [The Way of the Knife](https://www.goodreads.com/book/show/16158491-the-way-of-the-knife)
+  [the-new-education-how-to-revolutionize-the-university-to-prepare-students-for-a-world-in-flux-davidson] The New Education: How to Revolutionize the University to Prepare Students for a World In Flux
+    [Academically Adrift](https://www.goodreads.com/book/show/9555284-academically-adrift)
+  [norstrilia-smith] Norstrilia
+    [left me cold](https://www.goodreads.com/review/show/1870878894?book_show_action=false&from_review_page=1)
+  [the-art-of-wargaming-a-guide-for-professionals-and-hobbyists-perla] The Art of Wargaming: A Guide for Professionals and Hobbyists
+    [War Games.](https://www.goodreads.com/review/show/1877247015)
+  [to-say-nothing-of-the-dog-willis] To Say Nothing of the Dog
+    [Distraction](https://www.goodreads.com/review/show/595282550)
+  [after-the-fall-eclipse-phase-gates-ken-liu] After The Fall (Eclipse Phase)
+    [Eclipse Phase the RPG.](https://www.goodreads.com/book/show/7041421-eclipse-phase?from_search=true&search_version=service)
+  [the-therapeutic-state-justifying-government-at-centurys-end-jr] The Therapeutic State: Justifying Government at Century's End
+    [Governing the Soul](https://www.goodreads.com/review/show/755763687)
+  [generation-kill-devil-dogs-iceman-captain-america-and-the-new-face-of-american-war-wright] Generation Kill: Devil Dogs, Iceman, Captain America, and the New Face of American War
+    [One Bullet Away](http://www.goodreads.com/review/show/185574035)
+  [love-is-strange-sterling] Love is Strange
+    [Gothic High Tech](http://www.goodreads.com/book/show/12409113-gothic-high-tech)
+  [a-vision-so-noble-john-boyd-the-ooda-loop-and-americas-war-on-terror-ford] A Vision So Noble: John Boyd, the OODA Loop, and America's War on Terror
+    [Osinga-Science, Strategy, and War](http://www.goodreads.com/review/show/320195478)
+  [the-john-boyd-roundtable-debating-science-strategy-and-war-safranski] The John Boyd Roundtable: Debating Science, Strategy, and War
+    [Science, Strategy, and War: The Strategic Theory of John Boyd.](http://www.goodreads.com/review/show/320195478)
+  [now-you-see-it-how-the-brain-science-of-attention-will-transform-the-way-we-live-work-and-learn-davidson] Now You See It: How the Brain Science of Attention Will Transform the Way We Live, Work, and Learn
+    [(Jane McGonigal *cough* *cough*)](http://www.goodreads.com/book/show/7821348-reality-is-broken)
+
+--- Multi-read stubs (earlier reads have no dates) ---
+  Lords of Uncreation  (2x)
+  Beam Saber  (2x)
+  Half a King  (2x)
+  Into Enemy Waters: A World War II Story of the Demolition Divers Who Became the Navy SEALS  (2x)
+  Bang Bang Bodhisattva  (2x)
+  Law of Attraction: The Science of Attracting More of What You Want and Less of What You Don't  (2x)
+  Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist  (2x)
+  Becoming Attached: First Relationships and How They Shape Our Capacity to Love  (2x)
+  No More Mr. Nice Guy  (2x)
+  The Fort Bragg Cartel: Drug Trafficking and Murder in the Special Forces  (2x)
+  The Works of Vermin  (2x)
+  Fast Movers: Jet Pilots and the Vietnam Experience  (2x)
+  Aurora  (3x)
+  Rejection  (2x)
+  By the Sword: A History of Gladiators, Musketeers, Samurai, Swashbucklers, and Olympic Champions  (2x)
+  Between the Strokes of Night  (2x)
+  The Art of Community: Seven Principles for Belonging  (2x)
+  Such Great Heights: The Complete Cultural History of the Indie Rock Explosion  (2x)
+  The Ionian Mission  (2x)
+  Esalen: America and the Religion of No Religion  (2x)
+  The Arsonists' City  (2x)
+  The Junior Officers' Reading Club: Killing Time And Fighting Wars  (2x)
+  Crossings: How Road Ecology Is Shaping the Future of Our Planet  (2x)
+  Planet of Exile  (2x)
+  Rocannon’s World  (2x)
+  Fighter: The True Story of the Battle of Britain  (2x)
+  Stalking the Atomic City: Life Among the Decadent and the Depraved of Chornobyl  (2x)
+  Validation: The New Psychology of Influence  (2x)
+  The Escher Man  (2x)
+  Streams of Wisdom  (2x)
+  Airport  (2x)
+  How Rome Fell: Death of a Superpower  (2x)
+  Breath: The New Science of a Lost Art  (2x)
+  Black May: The Epic Story of the Allies' Defeat of the German U-Boats in May 1943  (2x)
+  The Left Hand of Darkness  (2x)
+  Solenoid  (2x)
+  Sinless: Chrome & Sorcery Table Top Role Playing Game  (2x)
+  Wolf Hall  (2x)
+  Bad Company: Private Equity and the Death of the American Dream  (2x)
+  The Three Pillars of Zen: Teaching, Practice, and Enlightenment  (2x)
+  PAVN: People's Army of Vietnam  (2x)
+  Between Two Fires  (2x)
+  Making History: The Storytellers Who Shaped the Past  (2x)
+  The Untethered Soul: The Journey Beyond Yourself  (2x)
+  The Hidden Hand: A Brief History of the CIA  (2x)
+  All Quiet on the Western Front  (2x)
+  Why the Allies Won  (2x)
+  The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz  (2x)
+  Children of Time  (2x)
+  Schismatrix Plus  (3x)
+  The Mauritius Command  (2x)
+  LBJ and McNamara: The Vietnam Partnership Destined to Fail  (2x)
+  Desolation Island  (2x)
+  Tank: The Progress of Monstrous War Machine  (2x)
+  Raising a Secure Child: How Circle of Security Parenting Can Help You Nurture Your Child's Attachment, Emotional Resilience, and Freedom to Explore  (2x)
+  The Tongue Trade  (2x)
+  Black Snow: Curtis LeMay, the Firebombing of Tokyo, and the Road to the Atomic Bomb  (2x)
+  Under One Banner  (2x)
+  Connect: Building Exceptional Relationships with Family, Friends, and Colleagues  (2x)
+  Game Wizards: The Epic Battle for Dungeons & Dragons (Game Histories)  (2x)
+  Tower Dog: Life Inside the Deadliest Job in America  (2x)
+  The Mountain in the Sea  (2x)
+  The Phoenix Program: America's Use of Terror in Vietnam  (2x)
+  Permanence  (2x)
+  Platoon Leader: A Memoir of Command in Combat  (2x)
+  Safely You Deliver  (2x)
+  Unplug and Play: The Ultimate Illustrated Guide to Roughhousing with Your Kids  (2x)
+  Ready, Set, Go!: A Gentle Parenting Guide to Calmer, Quicker Potty Training  (2x)
+  Eyes of the Void  (2x)
+  Titanium Noir  (2x)
+  The March North  (2x)
+  The Daughters' War  (2x)
+  Orbital  (2x)
+  Signature Wounds: The Untold Story of the Military's Mental Health Crisis  (2x)
+  An Everlasting Meal: Cooking with Economy and Grace  (2x)
+  About Writing: Seven Essays, Four Letters, & Five Interviews  (2x)
+  When the Tiger Came Down the Mountain  (2x)
+  Understanding Applied Behavior Analysis: An Introduction to ABA for Parents, Teachers, and Other Professionals  (2x)
+  The Cat from Hue: A Vietnam War Story  (2x)
+  Mammoths at the Gates  (2x)
+  Into the Riverlands  (2x)
+  The Empress of Salt and Fortune  (2x)
+  War on Peace: The End of Diplomacy and the Decline of American Influence  (2x)
+  War Plan Red: The United States' Secret Plans to Invade Canada and Canada's Secret Plans to Invade the United States  (2x)
+  No One Will Come Back For Us and Other Stories  (2x)
+  No Banners, No Bugles  (2x)
+  The Far Shore  (2x)
+  Tales from Earthsea  (2x)
+  The Paper Men  (2x)
+  Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications  (2x)
+  Voice Lessons for Parents: What to Say, How to Say it, and When to Listen  (2x)
+  Tuf Voyaging  (2x)
+  Under the Red Sea sun  (2x)
+  The Heaven & Earth Grocery Store  (2x)
+  The Secret Life of Groceries: The Dark Miracle of the American Supermarket  (2x)
+  The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind  (2x)
+  The Fire Next Time (Vintage International)  (2x)
+  Walker, R.N.: The Greatest U-Boat Hunter of the Battle of the Atlantic (Submarine Warfare in World War Two)  (2x)
+  Provenance (Imperial Radch)  (2x)
+  Sleeping Worlds Have No Memory  (2x)
+  The Blacktongue Thief  (2x)
+  D-Day: The Battle for Normandy  (2x)
+  Attachment Theory: A Guide to Strengthening the Relationships in Your Life  (2x)
+  Divorce Without Court: A Guide to Mediation and Collaborative Divorce  (2x)
+  Neptune's Brood  (2x)
+  The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery  (2x)
+  Tehanu  (2x)
+  Condition Red: Destroyer Action in the South Pacific  (2x)
+  Nona the Ninth  (2x)
+  Blood and Sand: Suez, Hungary, and Eisenhower's Campaign for Peace  (2x)
+  Harrow the Ninth  (2x)
+  Gideon the Ninth  (2x)
+  NurtureShock: New Thinking About Children  (2x)
+  Strengths Finder 2.0  (2x)
+  How to Not Die Alone: The Surprising Science That Will Help You Find Love  (2x)
+  The Chosen and the Beautiful  (2x)
+  The Cybernetic Samurai  (2x)
+  The Poliquin Principles: Successful Methods for Strength and Mass Development  (2x)
+  Guerillas  (2x)
+  The Farthest Shore  (2x)
+  Silent Knights: Blowing the Whistle on Military Accidents and Their Cover-Ups  (2x)
+  A Wizard of Earthsea  (2x)
+  Inside the Cuban Revolution: Fidel Castro and the Urban Underground  (2x)
+  I and Thou  (2x)
+  Going Infinite: The Rise and Fall of a New Tycoon  (2x)
+  Pox Romana: The Plague That Shook the Roman World (Turning Points in Ancient History)  (2x)
+  In the Long Run: The Future as a Political Idea  (2x)
+  Coming Together: Embracing your Core Desires for Sexual Fulfillment and Long-Term Compatibility  (2x)
+  Those Who Hold Bastogne: The True Story of the Soldiers and Civilians Who Fought in the Biggest Battle of the Bulge  (2x)
+  Cockfidence: The Definitive Guide to Being The Man You Want To Be And Driving Women Wild  (2x)
+  The Gunslinger  (2x)
+  Exordia  (2x)
+  How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships  (2x)
+  It Takes Two to Talk: A Practical Guide For Parents of Children With Language Delays  (2x)
+  Translation State  (2x)
+  Fitting In Is Overrated: The Survival Guide for Anyone Who Has Ever Felt Like an Outsider  (2x)
+  Velocity Weapon  (2x)
+  Running on Empty No More: Transform Your Relationships with Your Partner, Your Parents & Your Children  (2x)
+  Guillotine  (2x)
+  Vietnam If Kennedy Had Lived: Virtual JFK  (2x)
+  Thinking In Systems: A Primer  (2x)
+  The Rebel Worlds  (2x)
+  Inspired : Understanding Creativity: A Journey Through Art, Science, and the Soul  (2x)
+  A Masterpiece in Disarray: David Lynch’s Dune—An Oral History  (2x)
+  The Devil's Broker: Seeking Gold, God, and Glory in Fourteenth- Century Italy  (3x)
+  Sailing True North: Ten Admirals and the Voyage of Character  (2x)
+  A Circus of Hells (Flandry)  (2x)
+  Weapons of Mass Destruction: Specters of the Nuclear Age  (2x)
+  The Way of the Superior Man: A Spiritual Guide to Mastering the Challenges of Women, Work, and Sexual Desire  (2x)
+  Games: Agency As Art (Thinking Art)  (2x)
+  Ensign Flandry  (2x)
+  A Job to Love (The School of Life Library)  (2x)
+  The Friends of Eddie Coyle  (2x)
+  The Prefect  (2x)
+  Ice Station Zebra  (2x)
+  Holy Fire  (2x)
+  Data, A Love Story: How I Gamed Online Dating to Meet My Match  (2x)
+  Take the High Road: Divorce with Compassion for Yourself and Your Family  (2x)
+  Witches of Lychford  (2x)
+  Mind Map Mastery: The Complete Guide to Learning and Using the Most Powerful Thinking Tool in the Universe  (2x)
+  The Fires: How a Computer Formula, Big Ideas, and the Best of Intentions Burned Down New York City-and Determined the Future of Cities  (2x)
+  Justice Warriors  (2x)
+  Undercover  (2x)
+  Churchill's Ministry of Ungentlemanly Warfare: The Mavericks Who Plotted Hitler's Defeat  (2x)
+  With Wings Like Eagles: A History of the Battle of Britain  (2x)
+  The Last Stand of the Tin Can Sailors: The Extraordinary World War II Story of the U.S. Navy's Finest Hour  (2x)
+  The Ultra Secret  (2x)
+  Serenade to the Big Bird  (2x)
+  Flags of Our Fathers (Movie Tie-in Edition)  (2x)
+  Lonely Vigil: Coastwatchers of the Solomons  (2x)
+  Midnight in the Pacific: Guadalcanal--The World War II Battle That Turned the Tide of War  (2x)
+  Dam Busters: The True Story of the Legendary Raid on the Ruhr  (2x)
+  Operation Pedestal: The Fleet That Battled to Malta, 1942 – A Definitive WWII History of the Royal Navy Convoy and Mediterranean Siege  (2x)
+  Battle of Surigao Strait (Twentieth-Century Battles)  (2x)
+  Big Week: The Biggest Air Battle of World War II  (2x)
+  Forgotten Ally: China's World War II, 1937-1945  (2x)
+  Learning War: The Evolution of Fighting Doctrine in the U.S. Navy, 1898-1945 (Studies in Naval History and Sea Power)  (2x)
+  Never Split the Difference: Negotiating As If Your Life Depended On It  (2x)
+  Sustainable Minimalism: Embrace Zero Waste, Build Sustainability Habits That Last, and Become a Minimalist without Sacrificing the Planet (Green Housecleaning, Zero Waste Living)  (2x)
+  What the Dead Know  (2x)
+  The Emotional Life of the Toddler  (2x)
+  Spin State  (2x)
+  Valuable Humans in Transit and Other Stories  (2x)
+  Mapping the Great Game: Explorers, Spies and Maps in 19th-century Asia  (2x)
+  Piranesi  (2x)
+  The Future of War: A History  (2x)
+  The Vanished Birds  (2x)
+  Spetsnaz: The story behind the Soviet SAS  (2x)
+  Crossing the Bar: The Adventures of a San Francisco Bay Bar Pilot  (2x)
+  The Last Hero  (2x)
+  Escape from Yokai Land (Laundry Files, #6.5)  (2x)
+  The Untouchables - Mission Accomplished - Twentieth Anniversary Commemorative Signed Edition  (2x)
+  Elder Race  (2x)
+  Devices and Desires  (2x)
+  Gangsters vs. Nazis: How Jewish Mobsters Battled Nazis in Wartime America  (2x)
+  The Spear Cuts Through Water  (2x)
+  Grocery: The Buying and Selling of Food in America  (2x)
+  The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia (Yale Agrarian Studies Series)  (2x)
+  For the Love of Men: A New Vision for Mindful Masculinity  (2x)
+  Terraform: Watch/Worlds/Burn  (2x)
+  The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger  (2x)
+  Gone Tomorrow: The Hidden Life of Garbage  (2x)
+  Void Star  (2x)
+  Arriving Today: From Factory to Front Door-Why Everything Has Changed About How and What We Buy  (2x)
+  Distant Star  (2x)
+  Intersections: The Sycamore Hill Anthology  (2x)
+  Chasm City  (2x)
+  Domain-Driven Design Quickly  (2x)
+  A Deadly Education  (2x)
+  The Invention of News: How the World Came to Know About Itself  (2x)
+  The First Fifteen Lives of Harry August  (2x)
+  Turing's Vision: The Birth of Computer Science  (2x)
+  Restricted Data: The History of Nuclear Secrecy in the United States  (2x)
+  The Second Rebel  (2x)
+  The Shining Path: Love, Madness, and Revolution in the Andes  (2x)
+  Severance  (2x)
+  Designing Data-Intensive Applications  (2x)
+  Time for the Stars  (2x)
+  The Last Graduate  (2x)
+  The Quiet Americans: Four CIA Spies at the Dawn of the Cold War—A Tragedy in Three Acts  (2x)
+  The Tonkin Gulf Yacht Club: Naval Aviation in the Vietnam War  (2x)
+  The Invention of the Jewish People  (2x)
+  Guardian  (2x)
+  Dreadnaught  (2x)
+  Victorious  (2x)
+  Relentless  (2x)
+  Valiant  (2x)
+  Courageous  (2x)
+  Fearless  (2x)
+  Dauntless  (2x)
+  How to Blow Up a Pipeline  (2x)
+  Fire in the Hole (Raylan Givens, #2.5)  (2x)
+  Singularity Sky  (2x)
+  Court of Blades  (2x)
+  BART: The Dramatic History of the Bay Area Rapid Transit System  (2x)
+  Jingo  (2x)
+  System Design Interview: Zero to Hero. Learn How to Pass Your System Design Interview Following Modern Case Studies.  (2x)
+  Rational Action: The Sciences of Policy in Britain and America, 1940-1960 (Transformations: Studies in the History of Science and Technology)  (2x)
+  The American Way of Irregular War: An Analytical Memoir  (2x)
+  The Algorithm Design Manual  (2x)
+  The Verge: Reformation, Renaissance, and Forty Years that Shook the World  (2x)
+  Season of the Witch: How the Occult Saved Rock and Roll  (2x)
+  How to Talk So Little Kids Will Listen: A Survival Guide to Life with Children Ages 2-7  (2x)
+  Cracking the Coding Interview: 189 Programming Questions and Solutions  (2x)
+  The Red Knight  (2x)
+  Born to Kvetch: Yiddish Language and Culture in All of Its Moods – The Essential Guide to Jewish Heritage, Survival, and European Folklore (P.S.)  (2x)
+  The Will to Battle  (2x)
+  Gangsters of Capitalism: Smedley Butler, the Marines, and the Making and Breaking of America's Empire  (2x)
+  Neon Black  (2x)
+  Cultish: The Language of Fanaticism  (2x)
+  The Chip : How Two Americans Invented the Microchip and Launched a Revolution  (2x)
+  Gubat Banwa  (2x)
+  Spying on Whales: The Past, Present, and Future of Earth's Most Awesome Creatures  (2x)
+  Weapons of the Weak: Everyday Forms of Peasant Resistance  (2x)
+  Seven Surrenders  (2x)
+  Too Like the Lightning  (2x)
+  Piano Burning and Other Fighter Pilot Traditions  (2x)
+  On the Clock: What Low-Wage Work Did to Me and How It Drives America Insane  (2x)
+  Dinosaurs Rediscovered: The Scientific Revolution in Paleontology (The Rediscovered Series)  (2x)
+  Nova  (2x)
+  The Art of Making Memories: How to Create and Remember Happy Moments  (2x)
+  Innovation and Entrepreneurship  (2x)
+  The Children’s Illustrated Clausewitz, Volume 1  (2x)
+  Imagined Communities: Reflections on the Origin and Spread of Nationalism  (2x)
+  Foundryside  (2x)
+  Perilous Fight: America's Intrepid War with Britain on the High Seas, 1812-1815  (2x)
+  A Bitter Peace: Washington, Hanoi, and the Making of the Paris Agreement  (2x)
+  The Calculating Stars  (2x)
+  On the Run: Fugitive Life in an American City (Fieldwork Encounters and Discoveries)  (2x)
+  Wild Seed  (2x)
+  A Journey Through Oligarch Valley  (2x)
+  How to Rule an Empire and Get Away with It  (2x)
+  The First Sister  (2x)
+  5 Novels: Alan Mendelsohn, the Boy from Mars / Slaves of Spiegel / The Snarkout Boys and the Avocado of Death / The Last Guru / Young Adult Novel  (2x)
+  Tower of Mud and Straw  (2x)
+  H.M.S. Surprise  (2x)
+  The Innovation Delusion: How Our Obsession with the New Has Disrupted the Work That Matters Most  (2x)
+  The Dead Girl in the Bathtub  (2x)
+  The Committed  (2x)
+  Sixteen Ways to Defend a Walled City  (2x)
+  Belfast Diary: War as a Way of Life  (2x)
+  How To Destroy A Tech Startup In Three Easy Steps  (2x)
+  Future Scouting: How to design future inventions to change today by combining speculative design, design fiction, design thinking, life-centred design, and science fiction  (2x)
+  The Boys of '67: Charlie Company's War in Vietnam (General Military)  (2x)
+  New Suns: Original Speculative Fiction by People of Color  (2x)
+  All Systems Red  (2x)
+  Wicked Ones  (2x)
+  The Difference Engine  (2x)
+  Involution Ocean  (2x)
+  Michael Collins and the Troubles  (2x)
+  The People in the Trees  (2x)
+  The Science of Discworld  (2x)
+  Sextant: The Elegant Instrument That Guided the Great Explorers, and a Young Man's First Journey Across the Atlantic  (2x)
+  The Cold War's Killing Fields: Rethinking the Long Peace  (2x)
+  Red Blood, Yellow Skin: A Young Girl's Survival in War-Torn Vietnam  (2x)
+  The Praxis  (2x)
+  A Vietcong Memoir: An Inside Account of the Vietnam War and Its Aftermath  (2x)
+  Thief of Time  (2x)
+  The Restaurant at the End of the Universe  (2x)
+  The Quantum Magician  (2x)
+  Writing Down the Bones: Freeing the Writer Within  (2x)
+  Mona Lisa Overdrive  (2x)
+  In the Vanishers’ Palace  (2x)
+  The Traitor Baru Cormorant  (2x)
+  Manufacturing Morals: The Values of Silence in Business School Education  (2x)
+  Acceptance  (2x)
+  The Kingdom of Copper  (2x)
+  Ethics and Data Science  (2x)
+  First Cosmic Velocity  (2x)
+  Six Frigates: The Epic History of the Founding of the U. S. Navy  (2x)
+  Dune  (2x)
+  Dune Messiah  (2x)
+  Eternity  (2x)
+  Raven Stratagem  (2x)
+  Ninefox Gambit  (2x)
+  Distraction  (3x)
+  Best SF Stories from New Worlds, Vol. 2  (2x)
+  Red Rising  (2x)
+  Golden Son  (2x)
+  The Princess Bride  (2x)
+  The Causal Angel  (2x)
+  The Fractal Prince  (2x)
+  The Quantum Thief  (2x)
+  Kanban: Successful Evolutionary Change for Your Technology Business  (3x)
+  A Fire in the Sun  (2x)
+  The Things They Carried  (2x)
+  Writing In General And The Short Story In Particular  (2x)
+
+--- No Date Read (year estimated from shelves/date added) ---
+  Lords of Uncreation
+  Beam Saber
+  Half a King
+  Into Enemy Waters: A World War II Story of the Demolition Divers Who Became the Navy SEALS
+  Bang Bang Bodhisattva
+  Law of Attraction: The Science of Attracting More of What You Want and Less of What You Don't
+  Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist
+  Becoming Attached: First Relationships and How They Shape Our Capacity to Love
+  No More Mr. Nice Guy
+  The Fort Bragg Cartel: Drug Trafficking and Murder in the Special Forces
+  The Works of Vermin
+  Fast Movers: Jet Pilots and the Vietnam Experience
+  Aurora
+  Rejection
+  By the Sword: A History of Gladiators, Musketeers, Samurai, Swashbucklers, and Olympic Champions
+  Between the Strokes of Night
+  The Art of Community: Seven Principles for Belonging
+  Such Great Heights: The Complete Cultural History of the Indie Rock Explosion
+  The Ionian Mission
+  Esalen: America and the Religion of No Religion
+  The Arsonists' City
+  The Junior Officers' Reading Club: Killing Time And Fighting Wars
+  Crossings: How Road Ecology Is Shaping the Future of Our Planet
+  Planet of Exile
+  Rocannon’s World
+  Fighter: The True Story of the Battle of Britain
+  Stalking the Atomic City: Life Among the Decadent and the Depraved of Chornobyl
+  Validation: The New Psychology of Influence
+  The Escher Man
+  Streams of Wisdom
+  Airport
+  How Rome Fell: Death of a Superpower
+  Breath: The New Science of a Lost Art
+  Black May: The Epic Story of the Allies' Defeat of the German U-Boats in May 1943
+  Solenoid
+  Sinless: Chrome & Sorcery Table Top Role Playing Game
+  Wolf Hall
+  Bad Company: Private Equity and the Death of the American Dream
+  The Three Pillars of Zen: Teaching, Practice, and Enlightenment
+  PAVN: People's Army of Vietnam
+  Between Two Fires
+  Making History: The Storytellers Who Shaped the Past
+  The Untethered Soul: The Journey Beyond Yourself
+  The Hidden Hand: A Brief History of the CIA
+  All Quiet on the Western Front
+  Why the Allies Won
+  The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
+  Children of Time
+  The Mauritius Command
+  LBJ and McNamara: The Vietnam Partnership Destined to Fail
+  Desolation Island
+  Tank: The Progress of Monstrous War Machine
+  Raising a Secure Child: How Circle of Security Parenting Can Help You Nurture Your Child's Attachment, Emotional Resilience, and Freedom to Explore
+  The Tongue Trade
+  Black Snow: Curtis LeMay, the Firebombing of Tokyo, and the Road to the Atomic Bomb
+  Under One Banner
+  Connect: Building Exceptional Relationships with Family, Friends, and Colleagues
+  Game Wizards: The Epic Battle for Dungeons & Dragons (Game Histories)
+  Tower Dog: Life Inside the Deadliest Job in America
+  The Mountain in the Sea
+  Permanence
+  Platoon Leader: A Memoir of Command in Combat
+  Safely You Deliver
+  Unplug and Play: The Ultimate Illustrated Guide to Roughhousing with Your Kids
+  Ready, Set, Go!: A Gentle Parenting Guide to Calmer, Quicker Potty Training
+  Eyes of the Void
+  Titanium Noir
+  The March North
+  The Daughters' War
+  Orbital
+  Signature Wounds: The Untold Story of the Military's Mental Health Crisis
+  An Everlasting Meal: Cooking with Economy and Grace
+  About Writing: Seven Essays, Four Letters, & Five Interviews
+  Understanding Applied Behavior Analysis: An Introduction to ABA for Parents, Teachers, and Other Professionals
+  The Cat from Hue: A Vietnam War Story
+  Mammoths at the Gates
+  Into the Riverlands
+  War on Peace: The End of Diplomacy and the Decline of American Influence
+  War Plan Red: The United States' Secret Plans to Invade Canada and Canada's Secret Plans to Invade the United States
+  No One Will Come Back For Us and Other Stories
+  No Banners, No Bugles
+  The Far Shore
+  Tales from Earthsea
+  The Borders of Infinity
+  The Paper Men
+  Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications
+  Voice Lessons for Parents: What to Say, How to Say it, and When to Listen
+  Tuf Voyaging
+  Under the Red Sea sun
+  The Heaven & Earth Grocery Store
+  The Secret Life of Groceries: The Dark Miracle of the American Supermarket
+  The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind
+  The Fire Next Time (Vintage International)
+  Walker, R.N.: The Greatest U-Boat Hunter of the Battle of the Atlantic (Submarine Warfare in World War Two)
+  Provenance (Imperial Radch)
+  Sleeping Worlds Have No Memory
+  The Blacktongue Thief
+  D-Day: The Battle for Normandy
+  Attachment Theory: A Guide to Strengthening the Relationships in Your Life
+  Divorce Without Court: A Guide to Mediation and Collaborative Divorce
+  The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery
+  Tehanu
+  Condition Red: Destroyer Action in the South Pacific
+  Nona the Ninth
+  Blood and Sand: Suez, Hungary, and Eisenhower's Campaign for Peace
+  NurtureShock: New Thinking About Children
+  Strengths Finder 2.0
+  How to Not Die Alone: The Surprising Science That Will Help You Find Love
+  The Chosen and the Beautiful
+  The Cybernetic Samurai
+  The Poliquin Principles: Successful Methods for Strength and Mass Development
+  Guerillas
+  The Farthest Shore
+  Silent Knights: Blowing the Whistle on Military Accidents and Their Cover-Ups
+  Inside the Cuban Revolution: Fidel Castro and the Urban Underground
+  I and Thou
+  Going Infinite: The Rise and Fall of a New Tycoon
+  Pox Romana: The Plague That Shook the Roman World (Turning Points in Ancient History)
+  In the Long Run: The Future as a Political Idea
+  Those Who Hold Bastogne: The True Story of the Soldiers and Civilians Who Fought in the Biggest Battle of the Bulge
+  Cockfidence: The Definitive Guide to Being The Man You Want To Be And Driving Women Wild
+  The Gunslinger
+  Exordia
+  How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships
+  It Takes Two to Talk: A Practical Guide For Parents of Children With Language Delays
+  Translation State
+  Fitting In Is Overrated: The Survival Guide for Anyone Who Has Ever Felt Like an Outsider
+  Velocity Weapon
+  Running on Empty No More: Transform Your Relationships with Your Partner, Your Parents & Your Children
+  Guillotine
+  Vietnam If Kennedy Had Lived: Virtual JFK
+  Thinking In Systems: A Primer
+  Inspired : Understanding Creativity: A Journey Through Art, Science, and the Soul
+  A Masterpiece in Disarray: David Lynch’s Dune—An Oral History
+  The Devil's Broker: Seeking Gold, God, and Glory in Fourteenth- Century Italy
+  Sailing True North: Ten Admirals and the Voyage of Character
+  A Circus of Hells (Flandry)
+  Weapons of Mass Destruction: Specters of the Nuclear Age
+  The Way of the Superior Man: A Spiritual Guide to Mastering the Challenges of Women, Work, and Sexual Desire
+  Games: Agency As Art (Thinking Art)
+  Ensign Flandry
+  A Job to Love (The School of Life Library)
+  The Friends of Eddie Coyle
+  The Prefect
+  Ice Station Zebra
+  Data, A Love Story: How I Gamed Online Dating to Meet My Match
+  Take the High Road: Divorce with Compassion for Yourself and Your Family
+  Witches of Lychford
+  Mind Map Mastery: The Complete Guide to Learning and Using the Most Powerful Thinking Tool in the Universe
+  The Fires: How a Computer Formula, Big Ideas, and the Best of Intentions Burned Down New York City-and Determined the Future of Cities
+  Trouble and Her Friends
+  Justice Warriors
+  Undercover
+  With Wings Like Eagles: A History of the Battle of Britain
+  The Ultra Secret
+  Serenade to the Big Bird
+  Flags of Our Fathers (Movie Tie-in Edition)
+  Lonely Vigil: Coastwatchers of the Solomons
+  Midnight in the Pacific: Guadalcanal--The World War II Battle That Turned the Tide of War
+  Dam Busters: The True Story of the Legendary Raid on the Ruhr
+  Operation Pedestal: The Fleet That Battled to Malta, 1942 – A Definitive WWII History of the Royal Navy Convoy and Mediterranean Siege
+  Battle of Surigao Strait (Twentieth-Century Battles)
+  Big Week: The Biggest Air Battle of World War II
+  Forgotten Ally: China's World War II, 1937-1945
+  Learning War: The Evolution of Fighting Doctrine in the U.S. Navy, 1898-1945 (Studies in Naval History and Sea Power)
+  Never Split the Difference: Negotiating As If Your Life Depended On It
+  Sustainable Minimalism: Embrace Zero Waste, Build Sustainability Habits That Last, and Become a Minimalist without Sacrificing the Planet (Green Housecleaning, Zero Waste Living)
+  What the Dead Know
+  The Emotional Life of the Toddler
+  Spin State
+  Valuable Humans in Transit and Other Stories
+  Mapping the Great Game: Explorers, Spies and Maps in 19th-century Asia
+  Piranesi
+  The Future of War: A History
+  The Vanished Birds
+  Spetsnaz: The story behind the Soviet SAS
+  Crossing the Bar: The Adventures of a San Francisco Bay Bar Pilot
+  The Last Hero
+  Escape from Yokai Land (Laundry Files, #6.5)
+  The Untouchables - Mission Accomplished - Twentieth Anniversary Commemorative Signed Edition
+  Elder Race
+  Devices and Desires
+  The Spear Cuts Through Water
+  Grocery: The Buying and Selling of Food in America
+  The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia (Yale Agrarian Studies Series)
+  For the Love of Men: A New Vision for Mindful Masculinity
+  Terraform: Watch/Worlds/Burn
+  The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger
+  Gone Tomorrow: The Hidden Life of Garbage
+  Void Star
+  Arriving Today: From Factory to Front Door-Why Everything Has Changed About How and What We Buy
+  Distant Star
+  Intersections: The Sycamore Hill Anthology
+  Chasm City
+  Domain-Driven Design Quickly
+  A Deadly Education
+  The Invention of News: How the World Came to Know About Itself
+  The First Fifteen Lives of Harry August
+  Turing's Vision: The Birth of Computer Science
+  Restricted Data: The History of Nuclear Secrecy in the United States
+  The Second Rebel
+  The Shining Path: Love, Madness, and Revolution in the Andes
+  Severance
+  Designing Data-Intensive Applications
+  Time for the Stars
+  The Last Graduate
+  The Quiet Americans: Four CIA Spies at the Dawn of the Cold War—A Tragedy in Three Acts
+  The Tonkin Gulf Yacht Club: Naval Aviation in the Vietnam War
+  The Invention of the Jewish People
+  Guardian
+  Dreadnaught
+  How to Blow Up a Pipeline
+  Fire in the Hole (Raylan Givens, #2.5)
+  Court of Blades
+  BART: The Dramatic History of the Bay Area Rapid Transit System
+  Jingo
+  System Design Interview: Zero to Hero. Learn How to Pass Your System Design Interview Following Modern Case Studies.
+  Rational Action: The Sciences of Policy in Britain and America, 1940-1960 (Transformations: Studies in the History of Science and Technology)
+  The American Way of Irregular War: An Analytical Memoir
+  The Algorithm Design Manual
+  The Verge: Reformation, Renaissance, and Forty Years that Shook the World
+  Season of the Witch: How the Occult Saved Rock and Roll
+  How to Talk So Little Kids Will Listen: A Survival Guide to Life with Children Ages 2-7
+  Cracking the Coding Interview: 189 Programming Questions and Solutions
+  The Red Knight
+  Born to Kvetch: Yiddish Language and Culture in All of Its Moods – The Essential Guide to Jewish Heritage, Survival, and European Folklore (P.S.)
+  Gangsters of Capitalism: Smedley Butler, the Marines, and the Making and Breaking of America's Empire
+  Neon Black
+  Cultish: The Language of Fanaticism
+  The Chip : How Two Americans Invented the Microchip and Launched a Revolution
+  Gubat Banwa
+  Spying on Whales: The Past, Present, and Future of Earth's Most Awesome Creatures
+  Weapons of the Weak: Everyday Forms of Peasant Resistance
+  Piano Burning and Other Fighter Pilot Traditions
+  On the Clock: What Low-Wage Work Did to Me and How It Drives America Insane
+  Dinosaurs Rediscovered: The Scientific Revolution in Paleontology (The Rediscovered Series)
+  Nova
+  The Art of Making Memories: How to Create and Remember Happy Moments
+  Innovation and Entrepreneurship
+  The Children’s Illustrated Clausewitz, Volume 1
+  Imagined Communities: Reflections on the Origin and Spread of Nationalism
+  Foundryside
+  Perilous Fight: America's Intrepid War with Britain on the High Seas, 1812-1815
+  A Bitter Peace: Washington, Hanoi, and the Making of the Paris Agreement
+  The Calculating Stars
+  On the Run: Fugitive Life in an American City (Fieldwork Encounters and Discoveries)
+  Wild Seed
+  A Journey Through Oligarch Valley
+  How to Rule an Empire and Get Away with It
+  The First Sister
+  5 Novels: Alan Mendelsohn, the Boy from Mars / Slaves of Spiegel / The Snarkout Boys and the Avocado of Death / The Last Guru / Young Adult Novel
+  Tower of Mud and Straw
+  H.M.S. Surprise
+  The Innovation Delusion: How Our Obsession with the New Has Disrupted the Work That Matters Most
+  The Dead Girl in the Bathtub
+  The Committed
+  Sixteen Ways to Defend a Walled City
+  Belfast Diary: War as a Way of Life
+  How To Destroy A Tech Startup In Three Easy Steps
+  Future Scouting: How to design future inventions to change today by combining speculative design, design fiction, design thinking, life-centred design, and science fiction
+  The Boys of '67: Charlie Company's War in Vietnam (General Military)
+  New Suns: Original Speculative Fiction by People of Color
+  Wicked Ones
+  The Difference Engine
+  Michael Collins and the Troubles
+  The People in the Trees
+  Sextant: The Elegant Instrument That Guided the Great Explorers, and a Young Man's First Journey Across the Atlantic
+  The Cold War's Killing Fields: Rethinking the Long Peace
+  Red Blood, Yellow Skin: A Young Girl's Survival in War-Torn Vietnam
+  The Praxis
+  The Quantum Magician
+  Writing Down the Bones: Freeing the Writer Within
+  Mona Lisa Overdrive
+  In the Vanishers’ Palace
+  Manufacturing Morals: The Values of Silence in Business School Education
+  Acceptance
+  The Kingdom of Copper
+  Ethics and Data Science
+  First Cosmic Velocity
+  Six Frigates: The Epic History of the Founding of the U. S. Navy
+  Eternity
+  The Princess Bride
+  The Visual Display of Quantitative Information
+  Artillery
+
+--- No cover found (Open Library + Google Books both failed) ---
+  Lords of Uncreation
+  Beam Saber
+  By Blood, by Salt
+  A Haunt for Jackals
+  The Surgeon's Mate
+  Elatsoe
+  The Rent Collectors: Exploitation, Murder, and Redemption in Immigrant LA
+  Blades in the Dark - Deep Cuts
+  Angle of Attack: Harrison Storms and the Race to the Moon
+  Half a King
+  The Ear, the Eye, and the Arm
+  Into Enemy Waters: A World War II Story of the Demolition Divers Who Became the Navy SEALS
+  Bang Bang Bodhisattva
+  Law of Attraction: The Science of Attracting More of What You Want and Less of What You Don't
+  Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist
+  A Drop of Corruption
+  Becoming Attached: First Relationships and How They Shape Our Capacity to Love
+  No More Mr. Nice Guy
+  Lost Crusader: The Secret Wars of CIA Director William Colby
+  The Fort Bragg Cartel: Drug Trafficking and Murder in the Special Forces
+  The Works of Vermin
+  Fast Movers: Jet Pilots and the Vietnam Experience
+  Aurora
+  Rejection
+  Tablets Shattered: The End of an American Jewish Century and the Future of Jewish Life
+  Traitor to His Class: The Privileged Life and Radical Presidency of Franklin Delano Roosevelt
+  The Storm Beneath a Midnight Sun
+  Lenin's Tomb: The Last Days of the Soviet Empire
+  The Sentence
+  By the Sword: A History of Gladiators, Musketeers, Samurai, Swashbucklers, and Olympic Champions
+  The 13th Valley
+  The Cultural Cold War: The CIA and the World of Arts and Letters
+  City of Illusions
+  The Dawnhounds
+  Pilgrim Machines
+  Between the Strokes of Night
+  The Art of Community: Seven Principles for Belonging
+  Such Great Heights: The Complete Cultural History of the Indie Rock Explosion
+  The Ionian Mission
+  Esalen: America and the Religion of No Religion
+  The Arsonists' City
+  The Junior Officers' Reading Club: Killing Time And Fighting Wars
+  Crossings: How Road Ecology Is Shaping the Future of Our Planet
+  Planet of Exile
+  Rocannon’s World
+  Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead
+  The Integral Vision: A Very Short Introduction to the Revolutionary Integral Approach to Life, God, the Universe, and Everything
+  Neuromancer
+  Fighter: The True Story of the Battle of Britain
+  Edge City: Life on the New Frontier (Anchor Books)
+  The Tainted Cup
+  The Lancaster at War
+  Stalking the Atomic City: Life Among the Decadent and the Depraved of Chornobyl
+  Licensed to Kill: Hired Guns in the War on Terror
+  Validation: The New Psychology of Influence
+  The Escher Man
+  The Golden Road: How Ancient India Transformed the World
+  Streams of Wisdom
+  Airport
+  Killing Rage
+  How Rome Fell: Death of a Superpower
+  Breath: The New Science of a Lost Art
+  Pet
+  The Red Earth: A Vietnamese Memoir of Life on a Colonial Rubber Plantation (Volume 66) (Ohio RIS Southeast Asia Series)
+  Black May: The Epic Story of the Allies' Defeat of the German U-Boats in May 1943
+  The Left Hand of Darkness
+  Solenoid
+  Sinless: Chrome & Sorcery Table Top Role Playing Game
+  Wolf Hall
+  The Raven Scholar
+  Bad Company: Private Equity and the Death of the American Dream
+  Everything Must Go: The Stories We Tell About the End of the World
+  A Canticle for Leibowitz
+  The Three Pillars of Zen: Teaching, Practice, and Enlightenment
+  Children of Memory
+  Sinister Extremity: A Love Story
+  The Chosen Ones: Test Pilots in Action
+  PAVN: People's Army of Vietnam
+  Between Two Fires
+  Making History: The Storytellers Who Shaped the Past
+  The Untethered Soul: The Journey Beyond Yourself
+  The Hidden Hand: A Brief History of the CIA
+  Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better
+  Infinitesimal: How a Dangerous Mathematical Theory Shaped the Modern World
+  Black Water Sister
+  Children of Ruin
+  All Quiet on the Western Front
+  A Stitch in Time
+  Why the Allies Won
+  The Fortune of War
+  The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz
+  Children of Time
+  Schismatrix Plus
+  A Mist of Grit and Splinters
+  L.A. Confidential
+  The Mauritius Command
+  LBJ and McNamara: The Vietnam Partnership Destined to Fail
+  Desolation Island
+  Tank: The Progress of Monstrous War Machine
+  Monsignor Quixote
+  Raising a Secure Child: How Circle of Security Parenting Can Help You Nurture Your Child's Attachment, Emotional Resilience, and Freedom to Explore
+  The Tongue Trade
+  House of Open Wounds
+  Hot Singles in Your Area
+  Black Snow: Curtis LeMay, the Firebombing of Tokyo, and the Road to the Atomic Bomb
+  Under One Banner
+  Connect: Building Exceptional Relationships with Family, Friends, and Colleagues
+  Game Wizards: The Epic Battle for Dungeons & Dragons (Game Histories)
+  Tower Dog: Life Inside the Deadliest Job in America
+  Days of Shattered Faith
+  The Knowledge: How to Rebuild Our World from Scratch
+  The Mountain in the Sea
+  The Phoenix Program: America's Use of Terror in Vietnam
+  Permanence
+  The Palace File
+  The Borders of Infinity (Vorkosigan Saga, #5.3)
+  Platoon Leader: A Memoir of Command in Combat
+  Safely You Deliver
+  Unplug and Play: The Ultimate Illustrated Guide to Roughhousing with Your Kids
+  Ready, Set, Go!: A Gentle Parenting Guide to Calmer, Quicker Potty Training
+  Eyes of the Void
+  Not a Gentleman's War: An Inside View of Junior Officers in the Vietnam War
+  The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma
+  Shards of Earth
+  Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism
+  Titanium Noir
+  A Succession of Bad Days
+  The March North
+  The Daughters' War
+  Indigenous Voices in Digital Spaces
+  Orbital
+  Signature Wounds: The Untold Story of the Military's Mental Health Crisis
+  House of the Rain King
+  An Everlasting Meal: Cooking with Economy and Grace
+  Fire on the Mountain: The True Story of the South Canyon Fire
+  Lieutenant Fusilier in the Farthest Reaches
+  About Writing: Seven Essays, Four Letters, & Five Interviews
+  When the Tiger Came Down the Mountain
+  Understanding Applied Behavior Analysis: An Introduction to ABA for Parents, Teachers, and Other Professionals
+  Lavinia
+  The Cult of Creativity: A Surprisingly Recent History
+  The Management of Savagery: How America's National Security State Fueled the Rise of Al Qaeda, ISIS, and Donald Trump
+  The Cat from Hue: A Vietnam War Story
+  Digital Apollo: Human and Machine in Spaceflight
+  ORA:CLE
+  Mammoths at the Gates
+  Into the Riverlands
+  The Empress of Salt and Fortune
+  The Story of the Jews Volume Two: Belonging: 1492-1900
+  The Doomsday Machine: Confessions of a Nuclear War Planner
+  Disaster Nationalism: The Downfall of Liberal Civilization
+  War on Peace: The End of Diplomacy and the Decline of American Influence
+  War Plan Red: The United States' Secret Plans to Invade Canada and Canada's Secret Plans to Invade the United States
+  The Other Wind
+  No One Will Come Back For Us and Other Stories
+  No Banners, No Bugles
+  The Far Shore
+  Tales from Earthsea
+  Tao Te Ching: A New English Version (Perennial Classics)
+  The Borders of Infinity
+  The Paper Men
+  On the Bottom: The Raising of the U.S. Navy Submarine S-51
+  Roman Aristocrats in Barbarian Gaul: Strategies for Survival in an Age of Transition
+  The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter
+  Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications
+  Voice Lessons for Parents: What to Say, How to Say it, and When to Listen
+  Tuf Voyaging
+  Under the Red Sea sun
+  Last Stand at Khe Sanh: The U.S. Marines' Finest Hour in Vietnam
+  The Heaven & Earth Grocery Store
+  Superforecasting: The Art and Science of Prediction
+  The Secret Life of Groceries: The Dark Miracle of the American Supermarket
+  Predator: The Remote-Control Air War Over Iraq and Afghanistan: A Pilot's Story
+  The Burglar Who Traded Ted Williams
+  The Unaccountability Machine: Why Big Systems Make Terrible Decisions - and How The World Lost its Mind
+  Forget a Mentor, Find a Sponsor: The New Way to Fast-Track Your Career
+  The Fire Next Time (Vintage International)
+  Walker, R.N.: The Greatest U-Boat Hunter of the Battle of the Atlantic (Submarine Warfare in World War Two)
+  Provenance (Imperial Radch)
+  Sleeping Worlds Have No Memory
+  The Hunger Habit: Why We Eat When We're Not Hungry and How to Stop
+  The Blacktongue Thief
+  Flying Camelot: The F-15, the F-16, and the Weaponization of Fighter Pilot Nostalgia (Battlegrounds: Cornell Studies in Military History)
+  Flying Blind: The 737 MAX Tragedy and the Fall of Boeing
+  1177 B.C.: The Year Civilization Collapsed
+  Blindsight
+  Gladius: The World of the Roman Soldier
+  Concentration: Staying Focused in Times of Distraction
+  Neon Leviathan
+  D-Day: The Battle for Normandy
+  Attachment Theory: A Guide to Strengthening the Relationships in Your Life
+  Divorce Without Court: A Guide to Mediation and Collaborative Divorce
+  Warlords, Inc.: Black Markets, Broken States, and the Rise of the Warlord Entrepreneur
+  Neptune's Brood
+  Binding Passions: Tales of Magic, Marriage, and Power at the End of the Renaissance
+  The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery
+  Tehanu
+  Condition Red: Destroyer Action in the South Pacific
+  Nona the Ninth
+  No True Glory: A Frontline Account of the Battle for Fallujah
+  Red Smoking Mirror
+  Blood and Sand: Suez, Hungary, and Eisenhower's Campaign for Peace
+  Harrow the Ninth
+  Gideon the Ninth
+  NurtureShock: New Thinking About Children
+  Artillery
+  Strengths Finder 2.0
+  How to Not Die Alone: The Surprising Science That Will Help You Find Love
+  Napoleon: A Life
+  The Chosen and the Beautiful
+  A Good Old-Fashioned Future
+  The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups
+  The Cybernetic Samurai
+  The Poliquin Principles: Successful Methods for Strength and Mass Development
+  Guerillas
+  Languishing: How to Feel Alive Again in a World That Wears Us Down
+  The Farthest Shore
+  Silent Knights: Blowing the Whistle on Military Accidents and Their Cover-Ups
+  The Tombs of Atuan
+  7 Seconds to Die: A Military Analysis of the Second Nagorno-Karabakh War and the Future of Warfighting
+  A Wizard of Earthsea
+  Inside the Cuban Revolution: Fidel Castro and the Urban Underground
+  I and Thou
+  Going Infinite: The Rise and Fall of a New Tycoon
+  36 Streets
+  Pox Romana: The Plague That Shook the Roman World (Turning Points in Ancient History)
+  Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History
+  In the Long Run: The Future as a Political Idea
+  Coming Together: Embracing your Core Desires for Sexual Fulfillment and Long-Term Compatibility
+  Mastery: The Keys to Success and Long-Term Fulfillment
+  Heavy Weather
+  Those Who Hold Bastogne: The True Story of the Soldiers and Civilians Who Fought in the Biggest Battle of the Bulge
+  Cockfidence: The Definitive Guide to Being The Man You Want To Be And Driving Women Wild
+  The Gunslinger
+  A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?
+  Man's Search for Meaning
+  Exordia
+  How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships
+  It Takes Two to Talk: A Practical Guide For Parents of Children With Language Delays
+  Translation State
+  Night Fighter over Germany: Flying Beaufighters and Mosquitoes in World War 2
+  Fitting In Is Overrated: The Survival Guide for Anyone Who Has Ever Felt Like an Outsider
+  Velocity Weapon
+  Running on Empty No More: Transform Your Relationships with Your Partner, Your Parents & Your Children
+  Guillotine
+  Vietnam If Kennedy Had Lived: Virtual JFK
+  Thinking In Systems: A Primer
+  Fathering Your Toddler: A Dad's Guide To The Second And Third Years (New Father Series)
+  The Rebel Worlds
+  Inspired : Understanding Creativity: A Journey Through Art, Science, and the Soul
+  A Masterpiece in Disarray: David Lynch’s Dune—An Oral History
+  The Devil's Broker: Seeking Gold, God, and Glory in Fourteenth- Century Italy
+  Sailing True North: Ten Admirals and the Voyage of Character
+  A Circus of Hells (Flandry)
+  Weapons of Mass Destruction: Specters of the Nuclear Age
+  The Way of the Superior Man: A Spiritual Guide to Mastering the Challenges of Women, Work, and Sexual Desire
+  Rust: The Longest War
+  Games: Agency As Art (Thinking Art)
+  Wetware: A Computer in Every Living Cell
+  Operation Underworld: How the Mafia and U.S. Government Teamed Up to Win World War II
+  Stalin: Paradoxes of Power, 1878-1928
+  Unmasking Autism: Discovering the New Faces of Neurodiversity
+  Designing Your Life: Build a Life that Works for You
+  Ensign Flandry
+  The Machine That Changed the World : The Story of Lean Production
+  Ghost Spin
+  A Job to Love (The School of Life Library)
+  The Friends of Eddie Coyle
+  Absolute Zero And The Conquest Of Cold: And the Conquest of Cold – An Acclaimed History of Temperature Science that Revolutionized Civilization
+  The Prefect
+  Ice Station Zebra
+  A Deepness in the Sky
+  Medieval Sieges & Siegecraft
+  Ho
+  Autopilot: The Art & Science of Doing Nothing
+  Models: Attract Women Through Honesty
+  Holy Fire
+  Of Orcas and Men: Blend of science and activism arguing orcas reveal the cost of human exploitation.
+  The Vanishing Neighbor: The Transformation of American Community
+  Final Incal
+  Ad Astra
+  Tongue Tied: Untangling Communication in Sex, Kink, and Relationships
+  Pax Romana
+  The Savage Wars Of Peace: Small Wars And The Rise Of American Power
+  Data, A Love Story: How I Gamed Online Dating to Meet My Match
+  The Lost Child of Lychford
+  Take the High Road: Divorce with Compassion for Yourself and Your Family
+  Witches of Lychford
+  System Design Interview – An insider's guide
+  The Best Way to Rob a Bank Is to Own One: How Corporate Executives and Politicians Looted the S&L Industry
+  Mind Map Mastery: The Complete Guide to Learning and Using the Most Powerful Thinking Tool in the Universe
+  Spin Control
+  Better Small Talk: Talk to Anyone, Avoid Awkwardness, Generate Deep Conversations, and Make Real Friends
+  The Fires: How a Computer Formula, Big Ideas, and the Best of Intentions Burned Down New York City-and Determined the Future of Cities
+  Mom's House, Dad's House: Making Two Homes for Your Child
+  Trouble and Her Friends
+  Man Is Not Alone: A Philosophy of Religion
+  Computing Taste: Algorithms and the Makers of Music Recommendation
+  Justice Warriors
+  Undercover
+  Lightning Joe: An Autobiography
+  Defeat Into Victory: Battling Japan in Burma and India, 1942-1945
+  Shattered Sword: The Untold Story of the Battle of Midway
+  Neptune's Inferno: The U.S. Navy at Guadalcanal
+  Pegasus Bridge
+  Engineers of Victory: The Problem Solvers Who Turned The Tide in the Second World War
+  American Caesar: Douglas MacArthur 1880-1964
+  Stalingrad: The Fateful Siege, 1942–1943
+  Tank Warfare on the Eastern Front, 1941–1942: Schwerpunkt
+  Deadly Sky: The American Combat Airman in World War II
+  Orde Wingate: A Man of Genius, 1903–1944
+  MacArthur's Jungle War: The 1944 New Guinea Campaign
+  The Saga of Pappy Gunn
+  Churchill's Ministry of Ungentlemanly Warfare: The Mavericks Who Plotted Hitler's Defeat
+  At Close Quarters: PT Boats in the United States Navy
+  The Liberator: One World War II Soldier's 500-Day Odyssey from the Beaches of Sicily to the Gates of Dachau
+  Ship of Ghosts: The Story of the USS Houston, FDR's Legendary Lost Cruiser, and the Epic Saga of Her Survivors
+  A War of Their Own: Bombers Over the Southwest Pacific
+  Masters of the Air: America's Bomber Boys Who Fought the Air War Against Nazi Germany
+  The Making of the Atomic Bomb: 25th Anniversary Edition
+  Road of Bones: The Siege of Kohima 1944 - The Epic Story of the Last Great Stand of Empire
+  The Wages of Destruction: The Making and Breaking of the Nazi Economy
+  Behind Japanese Lines: With the OSS in Burma
+  Thirty Seconds Over Tokyo (Aviation Classics)
+  With Wings Like Eagles: A History of the Battle of Britain
+  American Warlords: How Roosevelt's High Command Led America to Victory in World War II
+  The Rising Sun: The Decline & Fall of the Japanese Empire, 1936-45
+  Inferno: The World at War, 1939-1945
+  The Good Shepherd
+  The Supreme Commander: The War Years of Dwight D. Eisenhower
+  The Fleet at Flood Tide: America at Total War in the Pacific, 1944-1945
+  Embracing Defeat: Japan in the Wake of World War II
+  The Emperor's Codes: The Breaking of Japan's Secret Ciphers
+  The Last Stand of the Tin Can Sailors: The Extraordinary World War II Story of the U.S. Navy's Finest Hour
+  Pacific Crucible: War at Sea in the Pacific, 1941–1942
+  Winning a Future War: War Gaming and Victory in the Pacific War
+  The Conquering Tide: War in the Pacific Islands, 1942–1944 (The Pacific War Trilogy, 2)
+  Quartered Safe Out Here: A Harrowing Tale of World War II
+  Churchill's Shadow Raiders: The Race to Develop Radar, World War II's Invisible Secret Weapon
+  Most Secret War
+  Savage Continent: Europe in the Aftermath of World War II
+  The Ghost Army of World War II: How One Top-Secret Unit Deceived the Enemy with Inflatable Tanks, Sound Effects, and Other Audacious Fakery
+  The Ultra Secret
+  Tin Can Titans: The Heroic Men and Ships of World War II's Most Decorated Navy Destroyer Squadron
+  Serenade to the Big Bird
+  Flags of Our Fathers (Movie Tie-in Edition)
+  Twilight of the Gods: War in the Western Pacific, 1944-1945
+  Atlantic Nightmare: The longest military campaign in World War II
+  Lonely Vigil: Coastwatchers of the Solomons
+  The Stuff of Soldiers: A History of the Red Army in World War II Through Objects
+  The Arsenal of Democracy: FDR, Ford Motor Company, and Their Epic Quest to Arm an America at War
+  Midnight in the Pacific: Guadalcanal--The World War II Battle That Turned the Tide of War
+  Dam Busters: The True Story of the Legendary Raid on the Ruhr
+  War Beneath The Sea
+  The Unwomanly Face of War: An Oral History of Women in World War II
+  The Tango War: The Struggle for the Hearts, Minds and Riches of Latin America During World War II
+  Samurai: The Unforgettable Saga of Japan's Greatest Fighter Pilot
+  The End: The Defiance and Destruction of Hitler's Germany 1944-45
+  A Frozen Hell: The Russo-Finnish Winter War of 1939-1940
+  Duel of Eagles: The Classic Pilot's Account of the Battle of Britain (Peter Townsend's Air War Collection Book 1)
+  A Game of Birds and Wolves: The Ingenious Young Women Whose Secret Board Game Helped Win World War II
+  Operation Pedestal: The Fleet That Battled to Malta, 1942 – A Definitive WWII History of the Royal Navy Convoy and Mediterranean Siege
+  Brothers, Rivals, Victors: Eisenhower, Patton, Bradley and the Partnership that Drove the Allied Conquest in Europe
+  Battle of Surigao Strait (Twentieth-Century Battles)
+  Big Week: The Biggest Air Battle of World War II
+  Forgotten Ally: China's World War II, 1937-1945
+  Learning War: The Evolution of Fighting Doctrine in the U.S. Navy, 1898-1945 (Studies in Naval History and Sea Power)
+  Certain to Win: The Strategy of John Boyd, Applied to Business
+  The Book of Floating: Exploring the Private Sea
+  How to Win Friends & Influence People
+  A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas
+  Consulting Start-Up and Management: A Guide for Evaluators and Applied Researchers
+  The Gifts of Imperfection
+  The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever
+  Getting Things Done: The Art of Stress-Free Productivity
+  The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+  The War of Art
+  Mating in Captivity: Reconciling the Erotic and the Domestic
+  The Five Love Languages: How to Express Heartfelt Commitment to Your Mate
+  The Art of Gathering: How We Meet and Why It Matters
+  How to Disappear: Erase your Digital Footprint, Leave False Trails, and Vanish without A Trace
+  Never Split the Difference: Negotiating As If Your Life Depended On It
+  Leaving a Trace: On Keeping a Journal
+  I Just Want This Done: How Smart, Successful People Get Divorced Without Losing Their Kids, Money, and Minds
+  Sustainable Minimalism: Embrace Zero Waste, Build Sustainability Habits That Last, and Become a Minimalist without Sacrificing the Planet (Green Housecleaning, Zero Waste Living)
+  A Guide to Divorce Mediation: How to Reach a Fair, Legal Settlement at a Fraction of the Cost : Part One : An Introduction to Mediation
+  What the Dead Know
+  The Emotional Life of the Toddler
+  Spin State
+  Of Boys and Men: Why the Modern Male Is Struggling, Why It Matters, and What to Do About It
+  The Heap
+  We Are Not One: A History of America’s Fight Over Israel
+  Kalpa Imperial: The Greatest Empire That Never Was
+  We Stand Divided: Competing Visions of Jewishness and the Rift Between American Jews and Israel
+  Eichmann in Jerusalem: A Report on the Banality of Evil
+  Two-Gun Cohen: A Biography
+  The War of Atonement: The Inside Story of the Yom Kippur War (Greenhill Military)
+  Rise and Kill First: The Secret History of Israel's Targeted Assassinations
+  World of Our Fathers: The Journey of the East European Jews to America and the Life They Found and Made
+  The Story of the Jews: Finding the Words, 1000 BCE – 1492 CE
+  Every Spy a Prince: The Complete History of Israel's Intelligence Community
+  High-Rise
+  Valuable Humans in Transit and Other Stories
+  Mapping the Great Game: Explorers, Spies and Maps in 19th-century Asia
+  Piranesi
+  The Future of War: A History
+  The Vanished Birds
+  Spetsnaz: The story behind the Soviet SAS
+  Crossing the Bar: The Adventures of a San Francisco Bay Bar Pilot
+  The Last Hero
+  Mission Critical
+  Escape from Yokai Land (Laundry Files, #6.5)
+  A Spy Among Friends: Kim Philby and the Great Betrayal
+  The Untouchables - Mission Accomplished - Twentieth Anniversary Commemorative Signed Edition
+  Defiant Role Playing Game
+  Heat 2
+  Elder Race
+  Devices and Desires
+  Soldiers Of Reason: The RAND Corporation And The Rise Of The American Empire
+  Gangsters vs. Nazis: How Jewish Mobsters Battled Nazis in Wartime America
+  The Spear Cuts Through Water
+  Because Our Fathers Lied: A Memoir of Truth and Family, from Vietnam to Today
+  Stealing for the Sky
+  Grocery: The Buying and Selling of Food in America
+  Low Level Hell: A Scout Pilot In The Big Red One
+  The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia (Yale Agrarian Studies Series)
+  For the Love of Men: A New Vision for Mindful Masculinity
+  Terraform: Watch/Worlds/Burn
+  The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger
+  Gone Tomorrow: The Hidden Life of Garbage
+  How Buildings Learn: What Happens After They're Built
+  Void Star
+  Arriving Today: From Factory to Front Door-Why Everything Has Changed About How and What We Buy
+  Distant Star
+  Intersections: The Sycamore Hill Anthology
+  Chasm City
+  Domain-Driven Design Quickly
+  The Golden Enclaves
+  A Deadly Education
+  The Invention of News: How the World Came to Know About Itself
+  The First Fifteen Lives of Harry August
+  Turing's Vision: The Birth of Computer Science
+  Fire: Dispatches from the Edge―Eyewitness Journalism on War, Nature, and Human Survival
+  Restricted Data: The History of Nuclear Secrecy in the United States
+  The Second Rebel
+  Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices
+  The Shining Path: Love, Madness, and Revolution in the Andes
+  Severance
+  Blood, Sweat, and Pixels
+  Designing Data-Intensive Applications
+  Her Smoke Rose Up Forever
+  The Complete Stories of J.G. Ballard
+  From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism
+  Rising Sun And Tumbling Bear (CASSELL MILITARY PAPERBACKS)
+  The Tsar's Last Armada: The Epic Journey to the Battle of Tsushima
+  Who Gets In and Why: A Year Inside College Admissions
+  Winged Victory
+  Grab Their Belts To Fight Them: The Viet Cong's Big Unit War Against the U.S., 1965-1966
+  Time for the Stars
+  The Last Graduate
+  The Quiet Americans: Four CIA Spies at the Dawn of the Cold War—A Tragedy in Three Acts
+  The Tonkin Gulf Yacht Club: Naval Aviation in the Vietnam War
+  Battle of the Linguist Mages
+  Aspects
+  A Nuclear Family Vacation: Travels in the World of Atomic Weaponry
+  The Devil Never Sleeps: Learning to Live in an Age of Disasters
+  The Invention of the Jewish People
+  Leviathan
+  Steadfast
+  Guardian
+  Invincible
+  Dreadnaught
+  Victorious
+  Relentless
+  Valiant
+  Courageous
+  Fearless
+  Dauntless
+  The Raven Tower
+  How to Blow Up a Pipeline
+  Novel Without a Name
+  Our Shared Storm: A Novel of Five Climate Futures
+  Capitalist Realism: Is There No Alternative?
+  Fire in the Hole (Raylan Givens, #2.5)
+  Singularity Sky
+  Court of Blades
+  BART: The Dramatic History of the Bay Area Rapid Transit System
+  The Art Of The Long View:  Planning For The Future In An Uncertain World
+  Jingo
+  Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones)
+  System Design Interview: Zero to Hero. Learn How to Pass Your System Design Interview Following Modern Case Studies.
+  Rational Action: The Sciences of Policy in Britain and America, 1940-1960 (Transformations: Studies in the History of Science and Technology)
+  The Dream of Enlightenment: The Rise of Modern Philosophy
+  Father, Soldier, Son: Memoir of a Platoon Leader In Vietnam
+  Dream of Reason: A History of Western Philosophy from the Greeks to the Renaissance
+  The American Way of Irregular War: An Analytical Memoir
+  The Algorithm Design Manual
+  Hominids
+  The Verge: Reformation, Renaissance, and Forty Years that Shook the World
+  Death's End
+  Season of the Witch: How the Occult Saved Rock and Roll
+  Finding the Dragon Lady: The Mystery of Vietnam's Madame Nhu
+  Facebook: The Inside Story
+  How to Talk So Little Kids Will Listen: A Survival Guide to Life with Children Ages 2-7
+  Cracking the Coding Interview: 189 Programming Questions and Solutions
+  The Artist, the Philosopher, and the Warrior: The Intersecting Lives of Da Vinci, Machiavelli, and Borgia and the World They Shaped
+  The Red Knight
+  Perhaps the Stars
+  Hiring Data Scientists and Machine Learning Engineers
+  A Libertarian Walks into a Bear: The Utopian Plot to Liberate an American Town (And Some Bears)
+  The Icarus Syndrome: The Role of Air Power Theory in the Evolution and Fate of the U.S. Air Force
+  Born to Kvetch: Yiddish Language and Culture in All of Its Moods – The Essential Guide to Jewish Heritage, Survival, and European Folklore (P.S.)
+  The Will to Battle
+  Gangsters of Capitalism: Smedley Butler, the Marines, and the Making and Breaking of America's Empire
+  Among Others
+  Embassytown
+  Robot Artists and Black Swans : The Italian Fantascienza Stories
+  Neon Black
+  Cultish: The Language of Fanaticism
+  The Psychology of Computer Programming
+  About Face: Odyssey Of An American Warrior
+  The Art and Soul of Dune
+  The Chip : How Two Americans Invented the Microchip and Launched a Revolution
+  The Princess Diarist
+  Neon City Overdrive
+  Gubat Banwa
+  I Want to Believe: Posadism, UFOs and Apocalypse Communism
+  Descendant of War
+  2021 on Goodreads
+  The Dawn of Everything: A New History of Humanity
+  Spying on Whales: The Past, Present, and Future of Earth's Most Awesome Creatures
+  Weapons of the Weak: Everyday Forms of Peasant Resistance
+  Seven Surrenders
+  Too Like the Lightning
+  The Witch: A History of Fear, from Ancient Times to the Present
+  The Charisma Machine: The Life, Death, and Legacy of One Laptop per Child (Infrastructures)
+  Iraq +100: stories from a century after the invasion
+  Fire Ant
+  Piano Burning and Other Fighter Pilot Traditions
+  Grant
+  Vietnam's Forgotten Army: Heroism and Betrayal in the ARVN
+  The Inheritance of Rome: Illuminating the Dark Ages, 400-1000
+  On the Clock: What Low-Wage Work Did to Me and How It Drives America Insane
+  Dreamland: The True Tale of America's Opiate Epidemic
+  James Tiptree, Jr.: The Double Life of Alice B. Sheldon
+  The Broken Sword
+  Manliness & Civilization: A Cultural History of Gender and Race in the United States, 1880-1917 (Women in Culture and Society)
+  Dinosaurs Rediscovered: The Scientific Revolution in Paleontology (The Rediscovered Series)
+  Lancer: Field Guide to Suldan
+  Nova
+  The Art of Making Memories: How to Create and Remember Happy Moments
+  The Gun, the Ship, and the Pen: Warfare, Constitutions, and the Making of the Modern World
+  The Art & Craft of College Teaching: A Guide for New Professors and Graduate Students
+  New York 2140
+  Hard Wired Island
+  Revelation Space
+  Innovation and Entrepreneurship
+  The Children’s Illustrated Clausewitz, Volume 1
+  Shadow of the Demon Lord (SDL1000)
+  Redemption Ark
+  Agon
+  Imagined Communities: Reflections on the Origin and Spread of Nationalism
+  The New Atlantis and Other Novellas of Science Fiction
+  Think: A Biography of the Watsons and IBM
+  Foundryside
+  Perilous Fight: America's Intrepid War with Britain on the High Seas, 1812-1815
+  Gunpowder Moon
+  A Bitter Peace: Washington, Hanoi, and the Making of the Paris Agreement
+  Computing: A Concise History (The MIT Press Essential Knowledge series)
+  Spies in the Family: An American Spymaster, His Russian Crown Jewel, and the Friendship That Helped End the Cold War
+  The Calculating Stars
+  On the Run: Fugitive Life in an American City (Fieldwork Encounters and Discoveries)
+  Wild Seed
+  A Fatal Thing Happened on the Way to the Forum: Murder in Ancient Rome
+  Paladin of Souls
+  Return of a King: The Battle for Afghanistan
+  Exit Strategy
+  Huế  1968: A Turning Point of the American War in Vietnam
+  Appendix N: The Eldritch Roots of Dungeons and Dragons
+  The Opium War
+  A Journey Through Oligarch Valley
+  Dune: Adventures in the Imperium
+  The Power of Us: Harnessing Our Shared Identities to Improve Performance, Increase Cooperation, and Promote Social Harmony
+  The Deadly Life of Logistics: Mapping Violence in Global Trade
+  How to Rule an Empire and Get Away with It
+  The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974
+  Prevail: The Inspiring Story of Ethiopia's Victory over Mussolini's Invasion, 1935-1941
+  The Fiction Writer's Guide to Dialogue: A Fresh Look at an Essential Ingredient of the Craft
+  Your Move: What Board Games Teach Us about Life
+  Moon Shot: The Inside Story of America's Race to the Moon
+  The Missing README: A Guide for the New Software Engineer
+  If Then: How the Simulmatics Corporation Invented the Future
+  The First Sister
+  Krakatoa: The Day the World Exploded: August 27, 1883
+  5 Novels: Alan Mendelsohn, the Boy from Mars / Slaves of Spiegel / The Snarkout Boys and the Avocado of Death / The Last Guru / Young Adult Novel
+  Tower of Mud and Straw
+  Healthy Sleep Habits, Happy Child
+  Dancing in the Glory of Monsters: The Collapse of the Congo and the Great War of Africa
+  Thunderhead
+  A Desolation Called Peace
+  H.M.S. Surprise
+  Freedom's Forge: How American Business Produced Victory in World War II
+  The Innovation Delusion: How Our Obsession with the New Has Disrupted the Work That Matters Most
+  The Dead Girl in the Bathtub
+  The Weather Machine: A Journey Inside the Forecast
+  Uncanny Valley
+  The Committed
+  Sixteen Ways to Defend a Walled City
+  Belfast Diary: War as a Way of Life
+  Exhalation
+  How To Destroy A Tech Startup In Three Easy Steps
+  Future Scouting: How to design future inventions to change today by combining speculative design, design fiction, design thinking, life-centred design, and science fiction
+  Ready Player One
+  Unconquerable Sun
+  The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program that Shaped Our World
+  Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland
+  The Shadow Factory: The Ultra-Secret NSA from 9/11 to the Eavesdropping on America
+  Post Captain
+  Master & Commander
+  The Boys of '67: Charlie Company's War in Vietnam (General Military)
+  The Invention of Nature: Alexander von Humboldt's New World
+  New Suns: Original Speculative Fiction by People of Color
+  Behemoth: A History of the Factory and the Making of the Modern World
+  Red Noise
+  Rogue Protocol
+  Douglas A-4 Skyhawk: Attack and Close-Support Fighter Bomber (Pen and Sword Large Format Aviation Books)
+  Artificial Condition
+  Spire: The City Must Fall
+  All Systems Red
+  The Martian Chronicles
+  Wicked Ones
+  Absolution Gap
+  Bearing the Cross: Martin Luther King, Jr., And The Southern Christian Leadership Conference
+  The Difference Engine
+  Involution Ocean
+  Michael Collins and the Troubles
+  Cortex Prime Game Handbook
+  The People in the Trees
+  The Science of Discworld
+  The Moscow Rules: The Secret CIA Tactics That Helped America Win the Cold War
+  Sextant: The Elegant Instrument That Guided the Great Explorers, and a Young Man's First Journey Across the Atlantic
+  Scientists and Scoundrels: A Book of Hoaxes (Extraordinary World)
+  The Space Between Worlds
+  The Dead Hand: The Untold Story of the Cold War Arms Race and its Dangerous Legacy
+  Concrete Island
+  The Cold War's Killing Fields: Rethinking the Long Peace
+  Rendezvous With Rama
+  Band of Blades
+  The Billion Dollar Spy: A True Story of Cold War Espionage and Betrayal
+  Six Wakes
+  Westside Saints
+  The Empire of Gold
+  Our Babies, Ourselves: How Biology and Culture Shape the Way We Parent
+  The Tyrant Baru Cormorant
+  How to Lead: Wisdom from the World's Greatest CEOs, Founders, and Game Changers
+  SPQR: A History of Ancient Rome
+  Red Blood, Yellow Skin: A Young Girl's Survival in War-Torn Vietnam
+  Bureaucracy Does Its Thing: Institutional Constraints on U.S.-GVN Performance in Vietnam (RAND Report R-967)
+  The Cybernetics Moment: Or Why We Call Our Age the Information Age
+  Future Daddy The Ultimate Guide For First Time Dads
+  The Praxis
+  Infinite Detail
+  The Sh!t No One Tells You: A Guide to Surviving Your Baby's First Year
+  Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool
+  Wolf Moon
+  New Moon
+  Salt: A World History
+  Moon Rising
+  The War in 2020
+  Sketches of a Black Cat - Full Color Collector's Edition: Story of a night flying WWII pilot and artist
+  Data Science in Production: Building Scalable Model Pipelines with Python
+  The Workshop and the World: What Ten Thinkers Can Teach Us About Science and Authority
+  Agency
+  The Peripheral
+  Season of the Witch: Enchantment, Terror and Deliverance in the City of Love
+  Blowout
+  Too Much and Never Enough: How My Family Created the World's Most Dangerous Man
+  A Vietcong Memoir: An Inside Account of the Vietnam War and Its Aftermath
+  A Blink of the Screen: Collected Shorter Fiction
+  The Mountains Sing
+  Ignition!: An informal history of liquid rocket propellants
+  Screenplay: The Foundations of Screenwriting Paperback – November 29, 2005
+  Red Brotherhood at War: Vietnam, Cambodia and Laos since 1975
+  The Word for World Is Forest
+  The Other Side of the Mountain: Mujahideen Tactics in the Soviet Afghan War
+  Scythe
+  Vietnam: Journeys of Body, Mind, and Spirit
+  The Light Brigade
+  Small Gods
+  Thief of Time
+  Spain in Our Hearts: Americans in the Spanish Civil War, 1936–1939
+  This Is How You Lose the Time War
+  Skunk Works: A Personal Memoir of My Years at Lockheed
+  The Burglar Who Thought He Was Bogart
+  Printer's Error: Irreverent Stories from Book History
+  The Sins of the Fathers
+  Expecting Better: Why the Conventional Pregnancy Wisdom is Wrong - and What You Really Need to Know
+  The Electric Church
+  Trail of Lightning
+  Like a Mother: A Feminist Journey Through the Science and Culture of Pregnancy
+  Night's Black Agents
+  The Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire
+  Reality is Broken: Why Games Make Us Better and How They Can Change the World
+  The Art of Game Design: A Book of Lenses
+  The Restaurant at the End of the Universe
+  The Mirage Factory: Illusion, Imagination, and the Invention of Los Angeles
+  City of Thieves
+  The Arnheiter Affair
+  Cadillac Desert: The American West and Its Disappearing Water
+  Flying Circus: The High-Flying Adventure Game
+  The Last Hero
+  Write It When I'm Gone: Remarkable Off-the-Record Conversations With Gerald R. Ford
+  SOG Medic: Stories from Vietnam and Over the Fence
+  Empress of Forever
+  The Green Berets: The Amazing Story of the U. S. Army's Elite Special Forces Unit
+  Payments Systems in the U.S.
+  The Card Catalog: Books, Cards, and Literary Treasures
+  Gates of Fire
+  365 Days
+  Working Futures: 14 Speculative Stories About The Future Of Work
+  Rivers in the Desert: William Mulholland and the Inventing of Los Angeles
+  Finna
+  Guerrilla
+  Starliner
+  Four Favorite Tools: Fantastic tools selected by 150 notable creators
+  Circe
+  The Barbary Coast: An Informal History of the San Francisco Underworld
+  The Hold Life Has: Coca and Cultural Identity in an Andean Community
+  The New Economics for Industry, Government, Education
+  Trouble on Triton: An Ambiguous Heterotopia
+  The Ravens: The Men Who Flew In America's Secret War In Laos
+  The Assimilated Cuban's Guide to Quantum Santeria
+  One Man
+  The Future Is History: How Totalitarianism Reclaimed Russia
+  Scrum: The Art of Doing Twice the Work in Half the Time
+  Westside
+  A Memory Called Empire
+  The Invention of Science: A New History of the Scientific Revolution
+  Atlantic: Great Sea Battles, Heroic Discoveries, Titanic Storms & a Vast Ocean of a Million Stories
+  The Scar
+  Pathfinder: First In, Last Out: A Memoir of Vietnam
+  Steel Frame
+  Lancer: The Mech RPG Core Rulebook
+  Equoid (Laundry Files, #2.9)
+  Smokejumper: A Memoir by One of America's Most Select Airborne Firefighters
+  Heretics of Dune
+  Chapterhouse: Dune
+  The Monster Baru Cormorant
+  Butterick's Practical Typography
+  The Hitchhiker’s Guide to the Galaxy
+  In Pharaoh's Army: Memories of the Lost War
+  No Bone Unturned: The Adventures of a Top Smithsonian Forensic Scientist and the Legal Battle for America's Oldest Skeletons
+  Bridge of Spies: A True Story of the Cold War
+  Summerland
+  A Fiery Peace in a Cold War: Bernard Schriever and the Ultimate Weapon
+  Aquarium: The Career and Defection of a Soviet Military Spy
+  Fighter Pilot: The Memoirs of Legendary Ace Robin Olds
+  A Bright Shining Lie: John Paul Vann and America in Vietnam
+  The Quantum Magician
+  The Road to Jonestown: Jim Jones and Peoples Temple
+  Fear: Trump in the White House
+  Writing Down the Bones: Freeing the Writer Within
+  The Annihilation Score
+  Stories of Your Life and Others
+  Workers in a labyrinth: Jobs and survival in a bank bureaucracy (Landmark studies)
+  Whipping Star
+  Once A Warrior King: Memories of an Officer in Vietnam
+  Dance Between Flames: Berlin Between the Wars
+  A Nation Of Realtors: A Cultural History Of The Twentieth-century American Middle Class
+  Ancillary Mercy
+  The Library at Mount Char
+  The Alchemy of Air: A Jewish Genius, a Doomed Tycoon, and the Scientific Discovery That Fed the World but Fueled the Rise of Hitler
+  McNamara's Folly: The Use of Low-IQ Troops in the Vietnam War
+  Mona Lisa Overdrive
+  Consider the Fork: A History of How We Cook and Eat
+  A Distant Mirror: The Calamitous 14th Century
+  Lyndon Johnson and the American Dream
+  Armor
+  Foxtrot in Kandahar: A Memoir of a CIA Officer in Afghanistan at the Inception of America’s Longest War
+  All the Birds in the Sky
+  The Secret Life of the Forest
+  The Story of Ain't: America, Its Language, and the Most Controversial Dictionary Ever Published
+  In the Vanishers’ Palace
+  Don't Panic: Douglas Adams & The Hitchhiker's Guide to the Galaxy
+  1491: New Revelations of the Americas Before Columbus
+  Wilderness of Mirrors: Intrigue, Deception, and the Secrets that Destroyed Two of the Cold War's Most Important Agents
+  In the Stacks
+  The Corner: A Year in the Life of an Inner-City Neighborhood
+  Norse Mythology
+  Mandarins of the Future: Modernization Theory in Cold War America (New Studies in American Intellectual and Cultural History)
+  The Traitor Baru Cormorant
+  Red November: Inside the Secret U.S.-Soviet Submarine War
+  Hexarchate Stories
+  The Art of Renaissance Warfare: From the Fall of Constantinople to the Thirty Years War
+  Hitler in Los Angeles: How Jews Foiled Nazi Plots Against Hollywood and America
+  Lovecraft Country
+  The Twelve Apostles: Michael Collins, the Squad and Ireland's Fight for Freedom
+  The Caves of Steel
+  The Big Short: Inside the Doomsday Machine
+  Manufacturing Morals: The Values of Silence in Business School Education
+  Fluency
+  Three Hearts and Three Lions
+  The Great Ship: How Battleships Changed the History of War
+  The Mongoliad: Book One
+  Radiant
+  Off Armageddon Reef
+  The Black Company
+  Without You, There Is No Us: My Time with the Sons of North Korea's Elite
+  Acceptance
+  The Tank Lords (BAEN)
+  Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time
+  The Kingdom of Copper
+  Empires of Light: Edison, Tesla, Westinghouse, and the Race to Electrify the World
+  All the Pieces Matter: The Inside Story of The Wire
+  What It is Like to Go to War
+  Making the Corps
+  Science Fiction Prototyping: Designing the Future with Science Fiction
+  Hell in a Very Small Place: The Siege of Dien Bien Phu
+  Ethics and Data Science
+  The Culture Code: The Secrets of Highly Successful Groups
+  Marque and Reprisal
+  The Right Stuff
+  The Gift of the Magi and Other Short Stories
+  Snake Pilot: Flying the Cobra Attack Helicopter in Vietnam
+  First Cosmic Velocity
+  Crisis in Command: Mismanagement in the Army
+  Trading in Danger
+  The Wind's Twelve Quarters
+  In the Jaws of History: (Vietnam War Era Classics Series)
+  How Difficult It Is to Be God: Shining Path’s Politics of War in Peru, 1980–1999 (Critical Human Rights)
+  The Bear Went Over the Mountain: Soviet Combat Tactics in Afghanistan
+  The City of Brass
+  The Moon: A History for the Future (Economist Books)
+  Into the Dark
+  Hardwired
+  The Big Ratchet: How Humanity Thrives in the Face of Natural Crisis: A Biography of an Ingenious Species
+  Visions, Ventures, Escape Velocities: A Collection of Space Futures
+  Hell's Angels
+  Other Minds
+  My Detachment: A Memoir
+  Changer
+  The Hinge Factor: How Chance and Stupidity Have Changed History
+  The Poppy War
+  Dear Committee Members
+  The Great Transformation: The Political and Economic Origins of Our Time
+  Scum and Villainy
+  Design, Analysis and Optimization of Supply Chains: A System Dynamics Approach (Supply and Operations Management Collection)
+  Comrades: A Revolutionary RPG
+  God Emperor of Dune
+  A Mind at Play: How Claude Shannon Invented the Information Age
+  SS-GB
+  Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World
+  White Water, Red Hot Lead: On Board U.S. Navy Swift Boats in Vietnam (New Edition)
+  The Goblin Emperor
+  Buda's Wagon: A Brief History of the Car Bomb
+  On War
+  Children of Dune
+  Six Frigates: The Epic History of the Founding of the U. S. Navy
+  Body of Secrets: Anatomy of the Ultra-Secret National Security Agency from the Cold War Through the Dawn of a New Century
+  Westmoreland: The General Who Lost Vietnam
+  The Last Full Measure: How Soldiers Die in Battle
+  Meeples Together: How and Why Cooperative Board Games Work
+  The Moon is a Harsh Mistress
+  Envisioning Real Utopias
+  Lessons In Disaster: McGeorge Bundy And The Path To War In Vietnam
+  Dune
+  Dune Messiah
+  Morning Star
+  The Perfectionists: How Precision Engineers Created the Modern World
+  The People’s Republic of Everything
+  The Dark Forest
+  The Master of Confessions: The Making of a Khmer Rouge Torturer
+  Eternity
+  Authority
+  Escaping the Rabbit Hole: How to Debunk Conspiracy Theories Using Facts, Logic, and Respect
+  Sams Teach Yourself SQL™ in 10 Minutes
+  Annihilation
+  The Canterbury Tales
+  Eon
+  Legacy
+  The Path Between the Seas: The Creation of the Panama Canal, 1870-1914
+  Enhancing the Effectiveness of Team Science
+  The Space Opera Renaissance
+  The Brothers: John Foster Dulles, Allen Dulles & Their Secret World War
+  Dark Sun: The Making of the Hydrogen Bomb
+  Hell Divers
+  Bad Blood: Secrets and Lies in a Silicon Valley Startup
+  Revenant Gun
+  Across The Fence: The Secret War in Vietnam (Expanded Edition)
+  How to Live Safely in a Science Fictional Universe
+  Trail of Feathers: In Search of the Birdmen of Peru
+  The Wright Brothers
+  Films from the Future: The Technology and Morality of Sci-Fi Movies (Analyzing the Future)
+  Raven Stratagem
+  Ninefox Gambit
+  Winterhorn
+  Tomorrow, the Killing
+  The Rightful Place of Science: Politics
+  The Labyrinth Index
+  Distraction
+  Astounding: John W. Campbell, Isaac Asimov, Robert A. Heinlein, L. Ron Hubbard, and the Golden Age of Science Fiction
+  NEVER THE LAST JOURNEY
+  The Collapsing Empire
+  LikeWar: The Weaponization of Social Media
+  Coercion, Capital, and European States, A.D. 990-1992
+  Magic Bites
+  City of Stairs
+  Flame and Fortune in the American West: Urban Development, Environmental Change, and the Great Oakland Hills Fire
+  Ninety Percent of Everything: Inside Shipping, the Invisible Industry That Puts Clothes on Your Back, Gas in Your Car, and Food on Your Plate
+  Low Town
+  The Black Dahlia
+  Best SF Stories from New Worlds, Vol. 2
+  Luck in the Shadows
+  Red Rising
+  Golden Son
+  Song of Time
+  Reckless: Henry Kissinger and The Tragedy of Vietnam
+  The Russian Way of War
+  The Dosadi Experiment
+  Hope Never Dies
+  Engineering the Revolution: Arms and Enlightenment in France, 1763-1815
+  Python Machine Learning
+  The Queen of the Tearling
+  The Promise and the Dream: The Untold Story of Martin Luther King, Jr. And Robert F. Kennedy
+  Yours To Reason Why: Decision In Battle
+  The Princess Bride
+  The Calligrapher's Bible: 100 Complete Alphabets with Step-by-Step Hand Lettering Guides
+  The Elephants' Graveyard
+  The Visual Display of Quantitative Information
+  Flatlander
+  The Female Man
+  Russian Roulette: The Inside Story of Putin's War on America and the Election of Donald Trump
+  I Sing the Body Electric! and Other Stories
+  Gaslands: Post-Apocalyptic Vehicular Combat
+  Embers Of War: The Fall of an Empire and the Making of America's Vietnam
+  The Causal Angel
+  The Fractal Prince
+  The Borgias: The Hidden History
+  I Have No Mouth & I Must Scream
+  The Quantum Thief
+  Storyteller: Writing Lessons & More from 27 Years of the Clarion Writers' Workshop
+  William Tecumseh Sherman: In the Service of My Country: A Life
+  His Majesty's Dragon
+  Dead Mountain: The Untold True Story of the Dyatlov Pass Incident
+  On Stranger Tides
+  A History of Warfare
+  The Zen of Fish: The Story of Sushi, from Samurai to Supermarket
+  Sapiens: A Brief History of Humankind
+  Enemies: A History of the FBI
+  Mothers & Other Monsters: Stories
+  City of Miracles
+  Washington: The Indispensible Man
+  The Hunter Killers: The Extraordinary Story of the First Wild Weasels, the Band of Maverick Aviators Who Flew the Most Dangerous Missions of the Vietnam War
+  City of Blades
+  The Lathe of Heaven
+  Call to Arms
+  A Higher Loyalty: Truth, Lies, and Leadership
+  Priceless: How I Went Undercover to Rescue the World's Stolen Treasures
+  Pagans: The End of Traditional Religion and the Rise of Christianity
+  This Is Why We Can't Have Nice Things: Mapping the Relationship Between Online Trolling and Mainstream Culture (Information Society Series)
+  Patrol: Military Roleplay in the 20th Century
+  Kanban: Successful Evolutionary Change for Your Technology Business
+  On Bullshit
+  Summer of Love: The Inside Story of LSD, Rock & Roll, Free Love and High Times in the Wild
+  The Book of Skulls
+  Ill Met in Lankhmar and Ship of Shadows: Two Novellas
+  Primary Colors
+  The General
+  A Closed and Common Orbit
+  Altered Carbon
+  Lords of the Sky: Fighter Pilots and Air Combat, from the Red Baron to the F-16
+  Debt: The First 5,000 Years
+  Thirteen
+  Welcome to Vietnam, Macho Man: Refelections of a Khe Sanh Vet
+  Kim
+  Downbelow Station
+  Deathbird Stories
+  Shootdown: The Verdict on KAL007
+  The Big Con: The Story of the Confidence Man
+  Tunnel in the Sky
+  Born in Blood and Fire: A Concise History of Latin America
+  Every Heart a Doorway
+  Science Fiction: 101: Exploring the Craft of Science Fiction
+  Interdisciplinarity: History, Theory, & Practice
+  Crosswinds: The Air Force's Setup in Vietnam
+  Saigon for a Song : The True Story of a Vietnam Gig to Remember
+  Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety
+  Damnation Alley
+  The Black Count: Glory, Revolution, Betrayal, and the Real Count of Monte Cristo
+  Among the Thugs (Vintage Departures)
+  Inside the CIA: Revealing the Secrets of the World's Most Powerful Spy Agency
+  Killing Gravity
+  Duel in the Dark
+  Life in a Medieval City (Medieval Life)
+  Fate Accelerated
+  13 True Ways
+  Space Team
+  Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis
+  A Wrinkle in Time
+  The Making of a Quagmire
+  The Element of Surprise: Navy Seals in Vietnam
+  Viet Nam: A History from Earliest Times to the Present
+  The Adventures of the Stainless Steel Rat (Stainless Steel Rat, #4-6)
+  Blowing My Cover: My Life as a CIA Spy
+  The Healer's War
+  Play: How It Shapes the Brain, Opens the Imagination, and Invigorates the Soul
+  The Prisoner of Zenda
+  Tithe
+  Mornings on Horseback
+  Fire and Fury: Inside the Trump White House
+  The Exile Kiss
+  A Peace to End All Peace: The Fall of the Ottoman Empire and The Creation of the Modern Middle East
+  Starship Troopers
+  A Fire in the Sun
+  When Gravity Fails
+  Space 1889: Science Fiction Role Playing in a More Civilized Time
+  Ship Breaker
+  Defenders of the Faith: Charles V, Suleyman the Magnificent, and the Battle for Europe, 1520-1536
+  A Fall of Moondust
+  Flashman
+  Carrying Coca: 1,500 Years of Andean Chuspas (Bard Graduate Center)
+  Growing Up in a Culture of Respect: Child Rearing in Highland Peru
+  The Planet Remade: How Geoengineering Could Change the World
+  Welcome to the Monkey House
+  A Storm of Spears
+  I'm No Hero: A Pow Story As Told to Glen DeWerff
+  Uprooted
+  Citadel
+  Catspaw
+  To Afghanistan and Back: A Graphic Travelogue
+  The Nature of Technology: What It Is and How It Evolves
+  Voice of the Whirlwind
+  King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa
+  From a Dark Sky: The Story of U.S. Air Force Special Operations
+  A Brief History of Vice: How Bad Behavior Built Civilization
+  The Doors of His Face, the Lamps of His Mouth
+  The NASAGA Training Activity Book
+  Yesterday's Kin
+  Modern Perspectives on Game Design (Studies in Game Design Book 2)
+  In Search of the Warrior Spirit
+  Aces
+  Lee's Lieutenants: A Study in Command
+  Solip:System
+  The Perfect Storm: A True Story of Men Against the Sea
+  Tales of Horror
+  The Storm Before the Storm: The Beginning of the End of the Roman Republic
+  Railsea
+  Star Warriors
+  Finity
+  Very Crazy, G.I.!: Strange but True Stories of the Vietnam War
+  The New Education: How to Revolutionize the University to Prepare Students for a World In Flux
+  Double Star
+  The Diamond Age: Or, a Young Lady's Illustrated Primer
+  Redshirts
+  The Gripping Hand
+  Palace Cobra: A Fighter Pilot in the Vietnam Air War
+  Viriconium (Viriconium, #1-4)
+  When Thunder Rolled: An F-105 Pilot over North Vietnam
+  The Sorrow of War
+  Sin in the Second City: Madams, Ministers, Playboys, and the Battle for America's Soul
+  Babel-17
+  The Icarus Hunt
+  Resilience Thinking: Sustaining Ecosystems and People in a Changing World
+  America's Rasputin: Walt Rostow and the Vietnam War
+  The Things They Carried
+  On Strategy: A Critical Analysis of the Vietnam War
+  1776
+  Tank Warfare on the Eastern Front 1943-1945: Red Steamroller
+  Team of Teams: New Rules of Engagement for a Complex World
+  How Not to Network a Nation: The Uneasy History of the Soviet Internet (Information Policy)
+  Strange California
+  The Ruin of Angels
+  The Forever War
+  River of Teeth
+  Power Lines: Electricity in American Life and Letters, 1882–1952
+  The Logic of Failure: Recognizing and Avoiding Error in Complex Situations
+  Defector (Phantom Air Combat Book 1)
+  First Person Peculiar
+  The Delirium Brief
+  Understanding Social Networks: Theories, Concepts, and Findings
+  The Stone Sky
+  Industry and Empire: The Birth of the Industrial Revolution
+  Gone Native: An NCO's Story
+  Rogues
+  Those Who Trespass: A Novel of Television and Murder
+  The Pentagon's Brain: An Uncensored History of DARPA, America's Top-Secret Military Research Agency
+  The Hangman's Daughter
+  Star Maker
+  Exuberance: The Passion for Life
+  The Best of Eric Frank Russell
+  In Defense of Disciplines: Interdisciplinarity and Specialization in the Research University
+  Norstrilia
+  Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming
+  ADHD Nation: Children, Doctors, Big Pharma, and the Making of an American Epidemic
+  The Ostrich Paradox: Why We Underprepare for Disasters
+  The Orphan Master's Son
+  L. Ron Hubbard Presents Writers of the Future, 25
+  Writing In General And The Short Story In Particular
+  Hearing the Other Side: Deliberative versus Participatory Democracy
+  A Lonely Kind of War: Forward Air Controller, Vietnam
+  1632
+  Robot Dreams (Robot, #0.4)
+  Burn
+  Mastering the Art of Soviet Cooking: A Memoir of Food and Longing
+  Conservation of Shadows
+  The Salt Roads
+  Dog Eat Dog RPG
+  Koba the Dread: Laughter and the Twenty Million
+  Introduction to Sociology
+  Science Studies: An Advanced Introduction
+  Four Roads Cross
+  Going Downtown: The War Against Hanoi and Washington
+  Fortress : A History of Military Defense
+  Artillery
+  Renaissance Florence
+  Range of Ghosts
+  Brigador
+  Participation: The New Tyranny?
+  Stratofortress: The Story of the B-52
+  Last First Snow
+  The Face of Britain: The Nation Through its Portraits
+  Before the Incal
+  Dak To: America's Sky Soldiers in South Vietnam's Central Highlands
+  The Claw of the Conciliator
+  The Shadow of the Torturer
+  The Best of Cordwainer Smith
+  ISIS: A History
+  Team of Rivals: The Political Genius of Abraham Lincoln
+  Blades in the Dark
+  The Culture of War
+  The Work of the Imagination
+  The White Rose
+  Shadows Linger
+  How We Lost the Vietnam War
+  After The War Was Over: Hanoi and Saigon
+  Murder by the Book
+  Trapped
+  Caine Mutiny, The
+  Teller's War: The Top-Secret Story Behind the Star Wars Deception
+  Phil Gordon's Little Green Book: Lessons and Teachings in No Limit Texas Hold'em
+  Fer-de-Lance
+  Pork Chop Hill
+  The Art of Wargaming: A Guide for Professionals and Hobbyists
+  The Mind of War: John Boyd and American Security
+  Mirror Dance
+  Phantom over Vietnam: Fighter Pilot, USMC
+  The Encyclopedia of Sea Warfare: From the First Ironclads to the Present Day
+  Target Tokyo: The Story of the Sorge Spy Ring
+  Barbarians to Angels: The Dark Ages Reconsidered
+  Gothic High-Tech
+  Babylon Babies
+  3:16 Carnage Amongst the Stars
+  The Three-Body Problem
+  Finding God: Selected Responses
+  War Comes to Long An: Revolutionary Conflict in a Vietnamese Province
+  The Iliad / The Odyssey
+  Ancillary Justice
+  The Long Dark Tea-Time of the Soul
+  The Great Betrayal: The Great Siege of Constantinople
+  Red Star: The First Bolshevik Utopia
+  Ascending
+  The Paper Menagerie and Other Stories
+  A Little War That Shook the World: Georgia, Russia and the Future of the West
+  Hunted
+  Up the Walls of the World
+  Going Dark
+  War Games
+  Discovering Scarfolk: For Tourists & Other Trespassers
+  The Arts of LARP: Design, Literacy, Learning and Community in Live-Action Role Play
+  All Clear (Oxford Time Travel, 4)
+  Angles of Attack
+  Lost At Sea: The Jon Ronson Mysteries
+  Lines of Departure
+  Terms of Enlistment
+  Ukraine:  Zbig's Grand Chessboard & How the West Was Checkmated
+  All Meat Looks Like South America: The World of Bruce McCall
+  The First Days of School: How to Be An Effective Teacher [with CD]
+  Vigilant
+  Blackout
+  The Windup Girl
+  The Chosen
+  Hunter-Killer Squadron: Aero-Weapons, Aero-Scouts, Aero-Rifles (Vietnam 1965-1972)
+  The Incal
+  Counterfeit Dreams : One Man's Journey into and Out of the World of Scientology
+  Rat Queens, Vol. 1: Sass & Sorcery
+  When Churchill Slaughtered Sheep and Stalin Robbed a Bank: History's Unknown Chapters
+  Commitment Hour
+  Expendable
+  The City & the City
+  Spare Parts: Four Undocumented Teenagers, One Ugly Robot, and the Battle for the American Dream
+  The Design of Everyday Things
+  The Graveyard Book
+  Everything Change: An Anthology of Climate Fiction
+  Perfect Spy: The Incredible Double Life of Pham Xuan An - Time Magazine Reporter and Vietnamese Communist Agent
+  The TFX Decision: McNamara and the Military
+  Barrayar
+  The Yiddish Policemen's Union
+  Astrobiology: A Brief Introduction
+  Ender’s Game
+  The Making Of Dune
+  To Say Nothing of the Dog
+  Mercenaries and their Masters: Warfare in Renaissance Italy
+  Dracula
+  First Light
+  Rainbows End
+  Complex Emergencies
+  Fear and Loathing: On the Campaign Trail '72
+  Pirate Utopia
+  The Snow Queen
+  Tin Men
+  The Fifth Season
+  Matterhorn
+  Spin
+  Noli Me Tangere (Touch Me Not)
+  Minds on Fire: How Role-Immersion Games Transform College
+  Jonathan Strange & Mr Norrell
+  Negotiating the Impossible: How to Break Deadlocks and Resolve Ugly Conflicts (without Money or Muscle)
+  Corsairville: The Lost Domain of the Flying Boat
+  The Prince
+  The Obelisk Gate
+  The Metabarons: Ultimate Collection
+  Future Visions: Original Science Fiction Inspired by Microsoft
+  Lenin's Embalmers
+  American Gods
+  Beyond the Stones of Machu Picchu: Folk Tales and Stories of Inca Life
+  Harry Potter and the Sorcerer's Stone
+  Harry Potter and the Goblet of Fire
+  The Best of Lucius Shepard
+  Paintwork
+  The Sympathizer
+  The Incas
+  The Hidden Threat: Mines and Minesweeping Reserve in WWI
+  Full Fathom Five
+  Hybrid Rule and State Formation: Public-Private Power in the 21st Century (RIPE Series in Global Political Economy)
+  The 48 Laws of Power
+  Seveneves
+  Forever Peace
+  The Complete Idiot's Guide to Publishing Science Fiction
+  The Trials (The Red Trilogy Book 2)
+  Blue Mars
+  The Amazing Maurice and His Educated Rodents
+  The Nightmare Stacks
+  The Playboy Book of Science Fiction
+  The Martian
+  The Plane Below: Secrets of the Elemental Chaos: A 4th Edition D&D Supplement
+  Two Serpents Rise
+  Bodyguard of Lies
+  Three Parts Dead
+  Ghost Fleet: A Novel of the Next World War
+  Green Mars
+  The Role of the Bomber
+  Doomsday Book
+  The Plane Above: Secrets of the Astral Sea: A 4th Edition D&D Supplement
+  Trace
+  Bury Us Upside Down: The Misty Pilots and the Secret Battle for the Ho Chi Minh Trail
+  A Fire Upon the Deep
+  Hanoi's War: An International History of the War for Peace in Vietnam (New Cold War History)
+  The Affinities
+  Unfriendly Skies: Revelations of a Deregulated Airline Pilot
+  Street Without Joy: The French Debacle in Indochina (Stackpole Military History Series)
+  The Vor Game
+  Supercarriers
+  The Warrior's Apprentice
+  Hyperion
+  Better than Human: The Promise and Perils of Enhancing Ourselves
+  Falling Free
+  Not By The Book: A Combat Intelligence Officer In Vietnam
+  Cyteen (Cyteen, #1-3)
+  Fields of Blood: Book of War *OP
+  The Celts
+  The Uplift War
+  Innovation Thinking Methods for the Modern Entrepreneur: Disciplines of thought that can help you rethink industries and unlock 10x better solutions
+  Lightspeed Magazine, Issue 61, June 2015: Queers Destroy Science Fiction!
+  The SEA Is Ours: Tales of Steampunk Southeast Asia
+  Speaker for the Dead
+  Mekong First Light: An Infantry Platoon Leader in Vietnam
+  Science, Strategy and War (Strategy and History)
+  The Game Inventor's Guidebook
+  Designing the New American University
+  Startide Rising (Uplift Trilogy Book 2)
+  Foundation's Edge
+  The Tough Guide to Fantasyland
+  Post-Soviet Social: Neoliberalism, Social Modernity, Biopolitics
+  A Knight of the Seven Kingdoms (The Tales of Dunk and Egg, #1-3)
+  The Fountains of Paradise
+  After The Fall (Eclipse Phase)
+  On the Psychology of Military Incompetence
+  The Companion Species Manifesto: Dogs, People, and Significant Otherness (Paradigm)
+  The Generals: American Military Command from World War II to Today
+  Guns Up!
+  2312
+  Dreamsnake
+  Warriors 1
+  Gateway
+  Every Man Dies Alone
+  Shadrach in the Furnace
+  City of Gold
+  Twelve Tomorrows 2016
+  The Man Who Would Be King: The First American in Afghanistan
+  The Grace of Kings
+  Where Late the Sweet Birds Sang
+  The Interview: From Formal to Postmodern
+  The Perfect War: Technowar in Vietnam (Military History Series)
+  Understanding by Design
+  Deschooling Society
+  The Dispossessed: An Ambiguous Utopia
+  Antarctica
+  Eat More Comics: The Best of the Nib
+  Bridge of Birds
+  Killing Is Harmless: A Critical Reading of Spec Ops: The Line
+  Knife Fights: A Memoir of Modern War in Theory and Practice
+  The Co-Vans: U.S. Marine Advisors in Vietnam
+  Burndive
+  What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry
+  The Gods Themselves
+  To Your Scattered Bodies Go
+  Undoing the Demos: Neoliberalism’s Stealth Revolution (Near Futures, 4)
+  The Disaster Artist: My Life Inside The Room, the Greatest Bad Movie Ever Made
+  1914: These Are Our Masters (The First World War Day-by-Day Book 1)
+  Ringworld
+  Stand on Zanzibar
+  Lord of Light
+  On a Red Station, Drifting
+  The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy
+  Diplomatic Immunity
+  The Tooth Fairy
+  Personnel of Fairyland: A Short Account of the Fairy People of Great Britain for Those Who Tell Stories to Children
+  Lords and Ladies
+  Strange and Secret Peoples: Fairies and Victorian Consciousness
+  The Coming of the Fairies
+  The Water Knife
+  Where the Orange Blooms: One Man's War and Escape in Vietnam
+  Writing Public Policy: A Practical Guide to Communicating in the Policy-Making Process
+  This Immortal
+  The Wanderer
+  Notes from a Small Island
+  Way Station
+  The Man in the High Castle
+  Firefly Role-Playing Game: Gaming in the 'Verse
+  Stranger in a Strange Land
+  Fighter: A history of fighter aircraft
+  Know Thine Enemy: A Spy's Journey into Revolutionary Iran
+  War
+  The Truth: Stage Adaptation
+  A Civil Campaign
+  Complexity: A Guided Tour
+  A Case of Conscience
+  Game Design Workshop: A Playcentric Approach to Creating Innovative Games
+  13th Age Core Book
+  Path of the Fury
+  The Big Time
+  ...and a Hard Rain Fell: A GI's True Story of the War in Vietnam
+  The Therapeutic State: Justifying Government at Century's End
+  Komarr
+  Ancillary Sword
+  The Door Into Summer
+  The Puppet Masters
+  They'd Rather Be Right
+  The Demolished Man
+  The Collapse of Western Civilization: A View from the Future
+  Retief! (Retief #1-3+novella)
+  Biopolitics: A Reader (a John Hope Franklin Center Book)
+  Wings of the Eagle
+  MaddAddam
+  Boy: Tales of Childhood
+  Vietnamerica: A Family's Journey
+  Night Witches
+  Foundations of Disability Studies
+  Battle Cry of Freedom: The Civil War Era
+  The Memory of Fire
+  The Social Construction of What?
+  Command in War
+  Memory
+  The Palace Job
+  Timeless Stories for Today and Tomorrow
+  A Nation Divided
+  The Crimean War: A History
+  I Am Legend / The Omega Man (Medallion S2041)
+  Twelve Tomorrows 2014
+  Demystifying Dissertation Writing: A Streamlined Process from Choice of Topic to Final Text
+  World's Worst Warships: More Than 140 Years of Naval Disasters
+  The Republic of Thieves
+  The Sparrow
+  Green Zone: Imperial Life in the Emerald City
+  War of Numbers: An Intelligence Memoir of the Vietnam War's Uncounted Enemy
+  Framing A.D.H.D. Children: A Critical Examination of the History, Discourse, and Everyday Experience of Attention Deficit/Hyperactivity Disorder
+  The profession of arms
+  Claudius the God and His Wife Messalina
+  Vacuum Flowers
+  Dungeon World
+  Clashes: Air Combat over North Vietnam, 1965-1972
+  Where the Money Is: True Tales from the Bank Robbery Capital of the World
+  The Order of Things: An Archaeology of the Human Sciences
+  War Stories: New Military Science Fiction
+  War, Chaos, and History (Praeger Security International)
+  Gentleman of Leisure: A Year in the Life of a Pimp
+  Flag in Exile
+  The Case of the Toxic Spell Dump
+  Leverage RPG: Grifters and Masterminds
+  War Without guns
+  Brothers in Arms
+  The Hot Rock
+  Disability in Science Fiction: Representations of Technology as Cure
+  Sun of Suns
+  Normal Accidents: Living with High-Risk Technologies
+  Drone Warfare (War and Conflict in the Modern World)
+  Ethan of Athos
+  Cetaganda
+  A Sword Into Darkness (The Patron Cycle Book 1)
+  Footfall
+  Dog Company Six
+  Night of the Silver Stars: The Battle of Lang Vei
+  Hieroglyph: Stories and Visions for a Better Future
+  The Best of Kim Stanley Robinson
+  The Cardinal of the Kremlin
+  Shards of Honor
+  Unframed: The Art of Improvisation For Game Masters
+  Them: Adventures with Extremists
+  Robota
+  Leviathan and the Air-Pump: Hobbes, Boyle, and the Experimental Life
+  Fate Is the Hunter
+  Freezing People Is (Not) Easy: My Adventures In Cryonics
+  One Very Hot Day
+  Modern Social Imaginaries (Public Planet Books)
+  The Fuller Memorandum
+  The Mismeasure of Man
+  Have Space Suit—Will Travel
+  The Plague Forge
+  The Rhesus Chart
+  Apocalypse World
+  Seven Pillars of Wisdom
+  The Making of DSM-III: A Diagnostic Manual's Conquest of American Psychiatry
+  The Exodus Towers
+  Diagnosis and the DSM: A Critical Review (Palgrave Pivot)
+  Century Rain
+  Killing Without Heart: Limits on Robotic Warfare in an Age of Persistent Conflict
+  Kill Anything That Moves: The Real American War in Vietnam (American Empire Project)
+  Biomedicalization: Technoscience, Health, and Illness in the U.S.
+  Rewired: The Post-Cyberpunk Anthology
+  Field of Dishonor
+  The Short Victorious War
+  The Honor of the Queen
+  Bringing Down the House: The Inside Story of Six M.I.T. Students Who Took Vegas for Millions
+  Ernie's War: The Best of Ernie Pyle's World War II Dispatches
+  We Were Soldiers Once... and Young: Ia Drang - The Battle that Changed the War in Vietnam
+  Taking Rights Seriously
+  Power/Knowledge: Selected Interviews and Other Writings, 1972-1977
+  The Men Who Stare at Goats
+  Education in the Age of Biocapitalism: Optimizing Educational Life for a Flat World
+  Omon Ra
+  Terminal World
+  A Collision of Cultures
+  BEYOND HUMANITY?:ETHICS OF BIOMEDICAL ENHANCEMENT: The Ethics Of Biomedical Enhancement (Uehiro Series In Practical Ethics)
+  Biocapital: The Constitution of Postgenomic Life
+  Under the Banner of Heaven: A Story of Violent Faith
+  KGB/CIA: Intelligence and Counter-Intelligence Operations
+  Future War
+  Shooting At The Moon: The Story of America's Clandestine War in Laos
+  Chickenhawk
+  Autonomous Technology: Technics-out-of-Control as a Theme in Political Thought
+  Frankenstein
+  Soul on Ice
+  The Face of Battle: A Study of Agincourt, Waterloo and the Somme
+  Imaginative Writing: The Elements of Craft (Penguin Academics Series)
+  Ranger: Behind Enemy Lines in Vietnam (Military Illustrated)
+  Children of God
+  The Bridge at Dong Ha
+  The Adventures of Huckleberry Finn
+  Way Out There in the Blue: Reagan, Star Wars and the End of the Cold War
+  The Righteous Mind: Why Good People Are Divided by Politics and Religion
+  We
+  Love and Sex with Robots
+  Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed
+  Pushing Ice
+  Dispatches
+  The Jennifer Morgue
+  The Selling of DSM: The Rhetoric of Science in Psychiatry (Social Problems and Social Issues)
+  Hogfather
+  Look to Windward
+  Cowboy Angels
+  Bitter Seeds
+  Live Free or Die
+  Focus Group Practice
+  The Name of the Rose
+  Great Cons & Con Artists: The Incredible Stories of the Masters of Deceit
+  Six Days of War: June 1967 and the Making of the Modern Middle East
+  David and Goliath: Underdogs, Misfits, and the Art of Battling Giants
+  Speed, Ecstasy, Ritalin: The Science of Amphetamines
+  We Learn Nothing
+  Abaddon’s Gate
+  Developing Focus Group Research: Politics, Theory and Practice
+  The Village
+  Rewriting the Soul: Multiple Personality and the Sciences of Memory
+  The Burglar in the Library
+  Caliban’s War
+  The War Managers
+  Showstopper! the Breakneck Race to Create Windows NT and the Next Generation at Microsoft
+  Leviathan Wakes
+  Mao Tse-Tung on Guerrilla Warfare
+  Governing the Soul: The Shaping of the Private Self
+  Slow Burn: The Rise and Bitter Fall of American Intelligence in Vietnam
+  The Nanotech Chronicles
+  Stories and Their Limits (Reflective Bioethics)
+  How to Write a Lot: A Practical Guide to Productive Academic Writing
+  Governmentality, Biopower, and Everyday Life (Routledge Studies in Social and Political Thought)
+  A Small Colonial War
+  The Coldest Winter: America and the Korean War
+  Preparing for the Possibility of a North Korean Collapse
+  Twilight of the Assholes
+  Dust
+  Shift
+  Why Do They Kill Me?
+  L. Ron Hubbard Presents Writers of the Future 22
+  Going Clear: Scientology, Hollywood, and the Prison of Belief
+  The Devil in the White City
+  Up Front
+  The Darwin Elevator
+  I, Claudius
+  Boyd: The Fighter Pilot Who Changed the Art of War
+  The Amphetamine Debate: The Use of Adderall, Ritalin and Related Drugs for Behavior Modification, Neuroenhancement and Anti-Aging Purposes (McFarland Health Topics)
+  Che: A Graphic Biography
+  Creating Babylon 5
+  Prescribed: Writing, Filling, Using, and Abusing the Prescription in Modern America
+  City of Glass
+  Mother Night
+  Thomas Sebeok and the Signs of Life
+  The Wise Man's Fear
+  Distinguishing Disability: Parents, Privilege, and Special Education
+  The Artificial Kid
+  Spam: A Shadow History of the Internet (Infrastructures)
+  Steel My Soldiers' Hearts: The Hopeless to Hardcore Transformation of U.S. Army, 4th Battalion, 39th Infantry, Vietnam
+  When Experiments Travel: Clinical Trials and the Global Search for Human Subjects
+  Special Men: A LRP's Recollections
+  King Rat
+  The Innovator's Solut!on: Creating and Sustaining Successful Growth
+  Tinker, Tailor, Soldier, Spy
+  Bossypants
+  Disability Rights and the American Social Safety Net
+  Wool Omnibus
+  Making Parents: The Ontological Choreography of Reproductive Technologies (Inside Technology)
+  Rebooting the Academy
+  The Way of the Knife: The CIA, a Secret Army, and a War at the Ends of the Earth
+  Carpe Jugulum
+  Unrestricted Warfare: China's Master Plan to Destroy America
+  Second Variety
+  The Gun
+  The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business
+  An Introduction to Discourse Analysis: Theory and Method
+  Rethinking ADHD: From Brain to Culture
+  Methods in Medical Ethics
+  Prescribing by Numbers: Drugs and the Definition of Disease
+  Drawing Blood: Technology and Disease Identity in Twentieth-Century America
+  You Are Not a Gadget
+  Hawking Incorporated: Stephen Hawking and the Anthropology of the Knowing Subject
+  Shared Fantasy: Role Playing Games as Social Worlds
+  Eclipse Phase: The Roleplaying Game of Transhuman Conspiracy and Horror (Eclipse Phase 1st Edition)
+  Generation Kill: Devil Dogs, Iceman, Captain America, and the New Face of American War
+  Alien Phenomenology, or What It’s Like to Be a Thing (Posthumanities)
+  The Science Fiction Hall of Fame, Volume One, 1929-1964
+  Red Eagles: America's Secret MiGs
+  Pharmacopolitics: Drug Regulation in the United States and Germany
+  Zero History
+  Small Pieces Loosely Joined: A Unified Theory Of The Web
+  The Net Delusion: The Dark Side of Internet Freedom
+  John Carter and the Gods of Hollywood
+  Drugs for Life: How Pharmaceutical Companies Define Our Health (Experimental Futures)
+  Edge of Infinity
+  vN
+  War as I Knew It
+  The Therapeutic Revolution: Essays in the Social History of American Medicine (Anniversary Collection)
+  The Writer's Journey: Mythic Structure for Writers
+  Protecting Soldiers and Mothers: The Political Origins of Social Policy in the United States
+  The Social Transformation of American Medicine: The Rise of a Sovereign Profession and the Making of a Vast Industry
+  The Brief and Frightening Reign of Phil
+  Building Better Humans?: Refocusing the Debate on Transhumanism (Beyond Humanism: Trans- And Posthumanism / Jenseits Des Huma)
+  Love is Strange
+  The Great Big Book of Horrible Things: The Definitive Chronicle of History's 100 Worst Atrocities
+  How to Archer: The Ultimate Guide to Espionage and Style and Women and Also Cocktails Ever Written
+  Microscope: A Fractal Roleplaying Game of Epic Histories
+  Strange Angel: The Otherworldly Life of Rocket Scientist John Whiteside Parsons – A Portrait of the JPL Founder: Genius, Rocketry, and the Occult
+  Red Mars
+  From Good Will to Civil Rights: Transforming Federal Disability Policy
+  Disability as a Social Construct: Legislative Roots
+  Mostly Harmless
+  Research Methods in Anthropology: Qualitative and Quantitative Approaches
+  We Have Never Been Modern
+  Passing the Torch
+  Catastrophe: Risk and Response
+  Space Cadet
+  So Long, and Thanks for All the Fish
+  Life, the Universe and Everything
+  No Pity: People with Disabilities Forging a New Civil Rights Movement
+  Faust, First Part
+  The New Disability History: American Perspectives (The History of Disability, 6)
+  The Hobbit, or There and Back Again
+  Design Meets Disability
+  Rocket Boys: A Memoir
+  Reconstructing Earth: Technology and Environment in the Age of Humans
+  Eight Skilled Gentlemen
+  Disabled Rights: American Disability Policy and the Fight for Equality
+  Old Man's War
+  Magic for Beginners
+  The Story of the Stone
+  The Dreams Our Stuff is Made Of: How Science Fiction Conquered the World
+  Blind Man's Bluff: The Untold Story of American Submarine Espionage
+  The Art of Procrastination: A Guide to Effective Dawdling, Lollygagging and Postponing
+  Genesis and Development of a Scientific Fact
+  The Fiasco Companion
+  On Speed: From Benzedrine to Adderall
+  The Submerged State: How Invisible Government Policies Undermine American Democracy (Chicago Studies in American Politics)
+  Snow Crash
+  Quest for the Dutchman's Gold: The 100-Year Mystery : The Facts, Myths and Legends of the Lost Dutchman Mine and the Superstition Mountains
+  Modern Warfare: A French View of Counterinsurgency (PSI Classics of the Counterinsurgency Era)
+  The Rise of Nuclear Fear
+  Future Wars
+  Dr. Seuss Goes to War: The World War II Editorial Cartoons of Theodor Seuss Geisel
+  Sorting Things Out: Classification and Its Consequences
+  The Year of Our War
+  Reaper Man
+  Fighting for Time
+  Fiasco
+  Acid Dreams: The CIA, LSD and the Sixties Rebellion
+  Going Postal
+  Hamlet's Hit Points
+  Radical Chic & Mau-Mauing the Flak Catchers
+  Tomorrow Now: Envisioning the Next Fifty Years
+  The Apocalypse Codex
+  The Golem: What You Should Know about Science (Canto)
+  Soviet Science Fiction
+  Sewer, Gas and Electric: The Public Works Trilogy
+  Supply-Side Follies: Why Conservative Economics Fails, Liberal Economics Falters, and Innovation Economics is the Answer
+  The Scientific Life: A Moral History of a Late Modern Vocation
+  Sun's Strong Immortality: Book One of The Elven Lands
+  Science in Action: How to Follow Scientists and Engineers Through Society
+  Sensemaking in Organizations (Foundations for Organizational Science)
+  The March Up Country
+  Pump Six and Other Stories
+  Friday
+  Understanding Institutional Diversity (Princeton Paperbacks)
+  Genesis
+  SOG: Secret Wars of America's Commandos in Vietnam
+  A Vision So Noble: John Boyd, the OODA Loop, and America's War on Terror
+  The Cardinal's Blades
+  Where the Rivers Ran Backward
+  How the University Works: Higher Education and the Low-Wage Nation (Cultural Front)
+  Academically Adrift: Limited Learning on College Campuses
+  The Big Sleep
+  City of Quartz: Excavating the Future in Los Angeles
+  Always A Warrior:  The Memoir Of A Six-War Soldier
+  Mockingjay
+  The John Boyd Roundtable: Debating Science, Strategy, and War
+  Catching Fire
+  The Hunger Games
+  Distrust That Particular Flavor
+  Laboratory Life: The Construction of Scientific Facts
+  The Tomorrow Project Anthology: Conversations about the Future
+  The Cuddle Sutra: An Unabashed Celebration of the Ultimate Intimacy
+  Rain of Fire
+  Reamde
+  The Command: Deep Inside The President's Secret Army
+  Framing Disease: Studies in Cultural History (Health and Medicine in American Society)
+  Liars and Outliers: Enabling the Trust that Society Needs to Thrive
+  Passion of Michel Foucault
+  Love Your Monsters: Postenvironmentalism and the Anthropocene
+  Nineteen Sixty-Eight
+  Understanding Autism: Parents, Doctors, and the History of a Disorder
+  The Creation of Psychopharmacology
+  Dungeon Master's Guide 2 (Dungeons & Dragons, 4th Edition)
+  US MACV-SOG Reconnaissance Team in Vietnam (Warrior, 159)
+  The Tunnels of Cu Chi
+  A Dance with Dragons
+  American Genesis: A Century of Invention and Technological Enthusiasm, 1870-1970
+  America Takes Over
+  Submarine Warriors
+  Mindstar Rising
+  The Mote in God's Eye
+  The Information: A History, a Theory, a Flood
+  Raising the Stakes
+  Light
+  Bat-21
+  The Medicalization of Society: On the Transformation of Human Conditions into Treatable Disorders
+  The Myth of Mental Illness: Foundations of a Theory of Personal Conduct
+  The Salt Eaters
+  Madness and Civilization: A History of Insanity in the Age of Reason
+  Agent to the Stars
+  Zoe's Tale
+  The Techno-Human Condition
+  Are Prisons Obsolete?
+  Watchmen
+  After the Deluge
+  Setting the Stage
+  Feet of Clay
+  Breeding Contempt: The History of Coerced Sterilization in the United States
+  Archaeologies of the Future: The Desire Called Utopia and Other Science Fictions
+  Zoo City
+  Cruising Utopia: The Then and There of Queer Futurity
+  The Body Multiple: Ontology in Medical Practice (Science and Cultural Theory)
+  Manual of the Planes (Dungeons & Dragons, 4th Edition)
+  Parable of the Sower
+  Race Against The Machine
+  Higher Ground: From Utopianism to Realism in American Feminist Thought and Theory (Women in Culture and Society)
+  Woman on the Edge of Time
+  Better Than Well: American Medicine Meets the American Dream
+  Fractal Paisleys
+  Breach the Hull
+  Heir to the Empire
+  Now You See It: How the Brain Science of Attention Will Transform the Way We Live, Work, and Learn
+  Remembering Heaven's Face: A Story of Rescue in Wartime Vietnam
+  Dereliction of Duty: Lyndon Johnson, Robert McNamara, the Joint Chiefs of Staff, and the Lies That Led to Vietnam
+  Idoru
+  Stalking the Vietcong: Inside Operation Phoenix: A Personal Account
+  The Party: The Secret World of China's Communist Rulers
+  Homicide: A Year on the Killing Streets
+  Structuring an Energy Technology Revolution
+  The Quiet War
+  Democratizing Innovation (Mit Press)
+  Black Empire (New England Library Of Black Literature)
+  Glory Road
+  Futureland
+  Wraith Recon
+  The Great Gatsby
+  An Anthropologist on Mars: Seven Paradoxical Tales
+  Creating the Computer: Government, Industry, and High Technology
+  The Name of the Wind
+  Into the Wild
+  The Gamble: General David Petraeus and the American Military Adventure in Iraq, 2006-2008
+  Rule 34
+  Sematech: Saving the U.S. Semiconductor Industry (Volume 10) (Kenneth E. Montague Series in Oil and Business History)
+  One Bullet Away: The Making of a Marine Officer
+  Smart Power: Climate Change, the Smart Grid, and the Future of Electric Utilities
+  Favela: Four Decades of Living on the Edge in Rio de Janeiro
+  The Steep Approach to Garbadale
+  Cantor's Dilemma
+  One Good Turn: A Natural History of the Screwdriver and the Screw
+  The Coldest War: A Memoir of Korea
+  The Jasons: The Secret History of Science's Postwar Elite
+  White Coat, Black Hat: Adventures on the Dark Side of Medicine
+  Fiasco: The American Military Adventure in Iraq
+  Gun, With Occasional Music
+  Five Star Science Fiction/Fantasy - In This World, or Another
+  The Professor and Other Writings
+  Women and Gaming: The Sims and 21st Century Learning
+  Achilles in Vietnam: Combat Trauma and the Undoing of Character
+  The Last Legion
+  Heirs of Empire
+  The Prince
+  An Introduction to Islam for Jews
+  Diffusion of Innovations
+  Science, Policy, and the Value-Free Ideal
+  The True Believer: Thoughts on the Nature of Mass Movements
+  Science in Democracy: Expertise, Institutions, and Representation (Mit Press)
+  The Technology Pork Barrel
+  Paths of Innovation: Technological Change in 20th-Century America
+  The Chronoliths
+  Is War Necessary for Economic Growth?: Military Procurement and Technology Development
+  Volta: Science and Culture in the Age of Enlightenment
+  As Time Goes by: From the Industrial Revolutions to the Information Revolution (Paperback)
+  The Theory and Practice of Innovation Policy: An International Research Handbook (PRIME Series on Research and Innovation Policy in Europe)
+  Young World Rising: How Youth Technology and Entrepreneurship are Changing the World from the Bottom Up
+  The Best War Ever: America and World War II (The American Moment)
+  The Russian Debutante's Handbook
+  The Pursuit of Power

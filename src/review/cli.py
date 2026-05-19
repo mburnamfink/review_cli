@@ -183,7 +183,7 @@ def _build_frontmatter(
 # ---------------------------------------------------------------------------
 
 
-@click.group()
+@click.group(context_settings={"max_content_width": 120, "terminal_width": 120})
 def cli():
     """Book review manager."""
 
@@ -542,6 +542,42 @@ def fetch_cover(query: str, isbn: str | None):
     post.metadata["cover"] = cover
     post.metadata["og_cover"] = og_cover
     path.write_text(frontmatter.dumps(post), encoding="utf-8")
+    console.print(f"[green]Updated:[/] {path}")
+
+
+# ---------------------------------------------------------------------------
+# review process-cover
+# ---------------------------------------------------------------------------
+
+
+@cli.command("process-cover")
+@click.argument("query")
+@click.argument("image", type=click.Path(exists=True, dir_okay=False, path_type=Path))
+def process_cover_cmd(query: str, image: Path):
+    """Process a local image file as the cover for an existing review.
+
+    Resizes it to cover.jpg and generates og-cover.jpg, then updates the frontmatter.
+    """
+    config = Config.load()
+    matches = _fuzzy_find(query, config.content_dir)
+    result = _pick_match(matches)
+    if not result:
+        return
+
+    path, meta = result
+    console.print(f"\n[bold]Processing cover for:[/] {meta.get('title', '')}")
+    console.print(f"[dim]Source: {image}[/]")
+
+    raw = image.read_bytes()
+    review_dir = path.parent
+    cover, og_cover = process_cover(raw, review_dir)
+
+    post = frontmatter.load(str(path))
+    post.metadata["cover"] = cover
+    post.metadata["og_cover"] = og_cover
+    path.write_text(frontmatter.dumps(post), encoding="utf-8")
+
+    console.print("[green]cover.jpg and og-cover.jpg saved.[/]")
     console.print(f"[green]Updated:[/] {path}")
 
 

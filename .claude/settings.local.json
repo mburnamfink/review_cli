@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -)",
+      "Bash(py -)",
+      "Read(//c/Users/michael/dev/**)",
+      "Bash(npm --version)",
+      "Bash(where node *)",
+      "Bash(where npm *)",
+      "Bash(where npx *)",
+      "PowerShell(node --version)",
+      "PowerShell(npm --version)",
+      "Bash(python3 -c ' *)",
+      "Bash(py -c ' *)",
+      "Bash(uv run py -c ' *)",
+      "Bash(where uv *)",
+      "Bash(where review *)",
+      "Bash(ls ~/.local/bin/uv* ~/.cargo/bin/uv*)",
+      "Bash(ls ~/AppData/Local/uv/bin/uv.exe)",
+      "Bash(ls ~/AppData/Roaming/uv/bin/uv.exe)",
+      "Bash('~/.local/bin/uv' run python -c ' *)",
+      "Bash(grep -n '.\\\\{80,\\\\}' src/review/goodreads_import.py)",
+      "Bash(UV_LINK_MODE=copy ~/.local/bin/uv run review import-goodreads \"import/goodreads_library_export \\(1\\).csv\" --skip \"Careless People\")",
+      "Bash(UV_LINK_MODE=copy ~/.local/bin/uv run review backfill-covers --help)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\michael\\dev\\book-review-site\\site"
+    ]
+  }
+}
