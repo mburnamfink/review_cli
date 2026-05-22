@@ -13,8 +13,13 @@ def slugify(text: str) -> str:
     return text.strip("-")
 
 
+TITLE_SLUG_MAX = 60
+
+
 def make_slug(title: str, authors: list[dict], review_type: str) -> str:
-    title_slug = slugify(title)
+    # Drop subtitle (everything after the first colon) before slugifying
+    short_title = title.split(":")[0].strip()
+    title_slug = slugify(short_title)[:TITLE_SLUG_MAX].rstrip("-")
 
     if review_type == "audiobook":
         author = next((a for a in authors if a.get("role") == "author"), None)

@@ -32,6 +32,7 @@ class ReviewBase(BaseModel):
     tags: list[str] = Field(default_factory=list)
     cover: Optional[str] = None
     og_cover: Optional[str] = None
+    bsky_post: Optional[str] = None
 
     @field_validator("rating")
     @classmethod

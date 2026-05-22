@@ -33,7 +33,7 @@ console = Console()
 def open_editor(path: Path) -> None:
     editor = os.environ.get("EDITOR") or os.environ.get("VISUAL")
     if editor:
-        subprocess.run([editor, str(path)])
+        subprocess.run([*editor.split(), str(path)])
     elif sys.platform == "win32":
         os.startfile(str(path))
     else:
@@ -43,7 +43,10 @@ def open_editor(path: Path) -> None:
 def _iter_reviews(content_dir: Path):
     """Yield (path, frontmatter_metadata) for all review index.md files."""
     for md in sorted(content_dir.rglob("*/index.md")):
-        post = frontmatter.load(str(md))
+        try:
+            post = frontmatter.load(str(md))
+        except Exception as e:
+            raise RuntimeError(f"Failed to parse {md}") from e
         yield md, post.metadata
 
 
@@ -150,6 +153,7 @@ def _build_frontmatter(
     review_type: str,
     isbn: str | None,
     publication_year: int | None,
+    publisher: str | None,
     rating: float | None,
     tags: list[str],
     read_record: dict,
@@ -166,6 +170,8 @@ def _build_frontmatter(
         fm["isbn"] = isbn
     if publication_year:
         fm["publication_year"] = publication_year
+    if publisher:
+        fm["publisher"] = publisher
     fm["rating"] = rating
     fm["date_reviewed"] = date.today().isoformat()
     fm["reads"] = [read_record]
@@ -252,6 +258,8 @@ def new(query: tuple[str, ...], manual: bool, review_type: str | None):
         year_str = Prompt.ask("Publication year (optional)", default="").strip()
         publication_year = int(year_str) if year_str else None
 
+    publisher = Prompt.ask("Publisher (optional)", default="").strip() or None
+
     if not review_type:
         review_type = Prompt.ask(
             "Type", choices=["book", "audiobook", "rpg", "other"], default="book"
@@ -268,12 +276,17 @@ def new(query: tuple[str, ...], manual: bool, review_type: str | None):
         narrator_first = Prompt.ask("  First name")
         narrator_last = Prompt.ask("  Last name")
         extra["narrator"] = {"first": narrator_first, "last": narrator_last, "role": "narrator"}
-        runtime = Prompt.ask("  Runtime hours (optional)", default="").strip()
+        runtime = Prompt.ask("  Runtime (HH:MM or decimal hours, optional)", default="").strip()
         if runtime:
-            extra["runtime_hours"] = float(runtime)
+            if ':' in runtime:
+                h, m = runtime.split(':', 1)
+                extra["runtime_hours"] = int(h) + int(m) / 60
+            else:
+                extra["runtime_hours"] = float(runtime)
         extra["abridged"] = Confirm.ask("  Abridged?", default=False)
-        # narrator goes into authors list for slug generation
-        authors = authors + [extra["narrator"]]
+        # narrator goes into authors list for slug generation; copy to avoid
+        # yaml anchor/alias generation from shared object references
+        authors = authors + [dict(extra["narrator"])]
     elif review_type == "rpg":
         extra["system"] = Prompt.ask("System (optional)", default="").strip() or None
         extra["format"] = Prompt.ask("Format (optional)", default="").strip() or None
@@ -308,6 +321,7 @@ def new(query: tuple[str, ...], manual: bool, review_type: str | None):
         review_type=review_type,
         isbn=isbn,
         publication_year=publication_year,
+        publisher=publisher,
         rating=rating,
         tags=tags,
         read_record=read_record,
@@ -424,11 +438,15 @@ def list_reviews(review_type: str | None, tag: str | None, page: int, per_page: 
     table.add_column("Tags")
 
     for meta in page_rows:
-        authors = ", ".join(
+        author_names = [
             f"{a.get('last','')}".strip()
             for a in meta.get("authors", [])
             if a.get("role") == "author"
-        )
+        ]
+        if len(author_names) > 3:
+            authors = ", ".join(author_names[:3]) + " et al."
+        else:
+            authors = ", ".join(author_names)
         reads = meta.get("reads") or []
         years = sorted({str(r.get("year", "")) for r in reads if r.get("year")}, reverse=True)
         rating = meta.get("rating")
@@ -470,6 +488,28 @@ def edit(query: str):
     if result:
         path, _ = result
         open_editor(path)
+
+
+# ---------------------------------------------------------------------------
+# review link
+# ---------------------------------------------------------------------------
+
+
+@cli.command()
+@click.argument("query")
+def link(query: str):
+    """Fuzzy-find a review and print a markdown link for it."""
+    config = Config.load()
+    matches = _fuzzy_find(query, config.content_dir)
+    result = _pick_match(matches)
+    if result:
+        path, meta = result
+        # path is .../content_dir/<type>/<slug>/index.md
+        slug = path.parent.name
+        review_type = path.parent.parent.name
+        title = meta.get("title", slug)
+        url = f"/{review_type}/{slug}"
+        console.print(f"[*{title}*]({url})")
 
 
 # ---------------------------------------------------------------------------

@@ -128,3 +128,7 @@ falling back to Google Books. Two sizes are generated via Pillow:
 - `og-cover.jpg` — 400×600px centre-crop for Open Graph
 
 Use `review fetch-cover QUERY` to add cover art to an existing review.
+
+## License
+
+MIT — see [LICENSE](LICENSE). The review content this tool manages is copyright Michael Burnam-Fink, all rights reserved.
