@@ -66,7 +66,6 @@ class AudiobookReview(ReviewBase):
 class RpgReview(ReviewBase):
     type: Literal["rpg"] = "rpg"
     system: Optional[str] = None
-    format: Optional[str] = None
 
 
 class OtherReview(ReviewBase):

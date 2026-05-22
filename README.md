@@ -129,6 +129,39 @@ falling back to Google Books. Two sizes are generated via Pillow:
 
 Use `review fetch-cover QUERY` to add cover art to an existing review.
 
+## Utilities
+
+### `diff_year.py`
+
+Compares your Goodreads shelf tags against review files to find books that are in one source but not the other.
+
+```bash
+# Show diff for a given year
+python diff_year.py 2022
+
+# Step through Goodreads-only books and add the year to their review file
+python diff_year.py 2022 --add
+```
+
+Output shows:
+
+- **Only in Goodreads** — tagged that year on Goodreads but no matching `reads` entry in a review file
+- **Only in reviews** — have a `reads` entry for that year but aren't tagged on Goodreads
+
+Matching is done by normalised title (lowercase, series suffix like `(The Expanse, #3)` stripped), so minor title differences are handled automatically.
+
+With `--add`, the script steps through each Goodreads-only book, looks it up by title in your review files, and prompts:
+
+```text
+  Piranesi
+  ../site/content/reviews/book/piranesi-clarke/index.md
+  [y]es add year / [s]kip / [q]uit:
+```
+
+Choosing `y` appends `- year: 2022` to the `reads` list in that file. Books with no matching review file are skipped automatically.
+
+Requires `python-frontmatter` to be installed (`uv pip install python-frontmatter`).
+
 ## License
 
 MIT — see [LICENSE](LICENSE). The review content this tool manages is copyright Michael Burnam-Fink, all rights reserved.

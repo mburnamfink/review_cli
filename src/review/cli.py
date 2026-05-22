@@ -289,7 +289,6 @@ def new(query: tuple[str, ...], manual: bool, review_type: str | None):
         authors = authors + [dict(extra["narrator"])]
     elif review_type == "rpg":
         extra["system"] = Prompt.ask("System (optional)", default="").strip() or None
-        extra["format"] = Prompt.ask("Format (optional)", default="").strip() or None
     elif review_type == "other":
         extra["medium"] = Prompt.ask("Medium (optional)", default="").strip() or None
 
