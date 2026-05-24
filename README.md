@@ -29,8 +29,7 @@ review init
 ```
 
 This asks where you want to store review files and writes `~/.review/config.toml`.
-The default is `~/content/reviews/` — change it to wherever makes sense for your setup
-(e.g. inside a git repo you control).
+The default is `{repo}/site/content/reviews/` (relative to the review-cli checkout) — change it if your layout differs.
 
 ## Commands
 
@@ -39,7 +38,7 @@ review new [QUERY]       Search Open Library and create a new review
 review new --manual      Skip search, enter everything by hand
 review new --type TYPE   Pre-select type: book | audiobook | rpg | other
 
-review edit QUERY        Fuzzy-find a review and open it in $EDITOR
+review edit QUERY        Fuzzy-find a review and open it in your configured editor
 review add-read QUERY    Append a new read record (for re-reads)
 review fetch-cover QUERY Download cover art for an existing review
 
@@ -98,13 +97,16 @@ Your review text goes here.
 `~/.review/config.toml`:
 
 ```toml
-content_dir = "/Users/you/dev/book-review-site/content/reviews"
+content_dir = "/home/you/dev/book-review-site/site/content/reviews"
+editor = "code --wait"
 
 [tags]
-canonical = ["fantasy", "science-fiction", "horror"]
+canonical = ["fantasy", "sci-fi", "horror"]
 ```
 
 Run `review init` to set `content_dir` interactively, or edit the file directly.
+
+`editor` overrides `$EDITOR`/`$VISUAL`. Use `code --wait` for VS Code so the CLI waits while you write.
 
 ## Tag management
 
@@ -129,38 +131,45 @@ falling back to Google Books. Two sizes are generated via Pillow:
 
 Use `review fetch-cover QUERY` to add cover art to an existing review.
 
+Cover art download fails frequently. Use `review process-cover {SLUG} image_file.jpg` to fix covers from local files.
+
 ## Utilities
 
 ### `diff_year.py`
 
-Compares your Goodreads shelf tags against review files to find books that are in one source but not the other.
+Compares Goodreads and StoryGraph CSV exports against review files to surface gaps for a given year.
+
+Place your exports in the `import/` directory. The script auto-discovers any file with `goodreads` or `storygraph` in the name and prints which files it found on startup.
 
 ```bash
 # Show diff for a given year
-python diff_year.py 2022
+uv run python diff_year.py 2025
 
-# Step through Goodreads-only books and add the year to their review file
-python diff_year.py 2022 --add
+# Step through books with missing years and patch their reads list
+uv run python diff_year.py 2025 --add
 ```
 
-Output shows:
+Year detection uses shelf/tag labels first (e.g. a `2025` shelf on Goodreads), falling back to Date Read, then Date Added.
 
-- **Only in Goodreads** — tagged that year on Goodreads but no matching `reads` entry in a review file
-- **Only in reviews** — have a `reads` entry for that year but aren't tagged on Goodreads
+Output has three sections:
 
-Matching is done by normalised title (lowercase, series suffix like `(The Expanse, #3)` stripped), so minor title differences are handled automatically.
+- **Missing year in reads** — review file exists but the year isn't in its `reads` list
+- **Not reviewed** — no review file found at all
+- **Only in reviews** — review has the year but the book isn't in any CSV
 
-With `--add`, the script steps through each Goodreads-only book, looks it up by title in your review files, and prompts:
+Each line is tagged with its source: `[GR]`, `[SG]`, or `[GR+SG]` if it appears in both.
+
+Matching normalises titles (lowercase, series suffix like `(The Expanse, #3)` stripped, `: ` and ` - ` treated as equivalent subtitle separators).
+
+With `--add`, the script steps through each **Missing year** book and prompts:
 
 ```text
-  Piranesi
+  [GR+SG] Piranesi
   ../site/content/reviews/book/piranesi-clarke/index.md
   [y]es add year / [s]kip / [q]uit:
 ```
 
-Choosing `y` appends `- year: 2022` to the `reads` list in that file. Books with no matching review file are skipped automatically.
-
-Requires `python-frontmatter` to be installed (`uv pip install python-frontmatter`).
+Choosing `y` appends `- year: 2025` to the `reads` list. **Not reviewed** books are skipped — use `review new` for those.
 
 ## License
 

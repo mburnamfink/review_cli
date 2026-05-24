@@ -30,14 +30,14 @@ console = Console()
 # ---------------------------------------------------------------------------
 
 
-def open_editor(path: Path) -> None:
-    editor = os.environ.get("EDITOR") or os.environ.get("VISUAL")
+def open_editor(path: Path, cfg: Config | None = None) -> None:
+    editor = (cfg.editor if cfg else None) or os.environ.get("EDITOR") or os.environ.get("VISUAL")
     if editor:
         subprocess.run([*editor.split(), str(path)])
     elif sys.platform == "win32":
         os.startfile(str(path))
     else:
-        subprocess.run(["nano", str(path)])
+        subprocess.run(["code", "--wait", str(path)])
 
 
 def _iter_reviews(content_dir: Path):
@@ -335,7 +335,7 @@ def new(query: tuple[str, ...], manual: bool, review_type: str | None):
 
     console.print(f"\n[green]Created:[/] {md_path}")
     console.print("[dim]Opening editor…[/]")
-    open_editor(md_path)
+    open_editor(md_path, config)
 
 
 def _display_ol_results(results: list[dict]) -> None:
@@ -486,7 +486,7 @@ def edit(query: str):
     result = _pick_match(matches)
     if result:
         path, _ = result
-        open_editor(path)
+        open_editor(path, config)
 
 
 # ---------------------------------------------------------------------------
