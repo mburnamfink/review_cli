@@ -512,6 +512,30 @@ def link(query: str):
 
 
 # ---------------------------------------------------------------------------
+# review bsky
+# ---------------------------------------------------------------------------
+
+
+@cli.command()
+@click.argument("query")
+@click.argument("url")
+def bsky(query: str, url: str):
+    """Set the Bluesky post URL on a review (enables discussion thread on the site)."""
+    config = Config.load()
+    matches = _fuzzy_find(query, config.content_dir)
+    result = _pick_match(matches)
+    if not result:
+        return
+
+    path, meta = result
+    post = frontmatter.load(str(path))
+    post.metadata["bsky_post"] = url
+    path.write_text(frontmatter.dumps(post), encoding="utf-8")
+    console.print(f"[green]Updated:[/] {meta.get('title', path.parent.name)}")
+    console.print(f"[dim]{url}[/]")
+
+
+# ---------------------------------------------------------------------------
 # review add-read
 # ---------------------------------------------------------------------------
 
