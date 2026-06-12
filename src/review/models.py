@@ -9,7 +9,7 @@ from pydantic import BaseModel, Field, field_validator
 class Contributor(BaseModel):
     first: str
     last: str
-    role: Literal["author", "editor", "contributor", "narrator"] = "author"
+    role: Literal["author", "editor", "contributor", "narrator", "illustrator"] = "author"
 
 
 class ReadRecord(BaseModel):
@@ -26,6 +26,8 @@ class ReviewBase(BaseModel):
     isbn: Optional[str] = None
     publication_year: Optional[int] = None
     publisher: Optional[str] = None
+    series: Optional[str] = None
+    series_number: Optional[float] = None
     rating: Optional[float] = Field(None, ge=1.0, le=5.0)
     date_reviewed: date
     reads: list[ReadRecord]

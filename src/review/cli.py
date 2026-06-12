@@ -128,6 +128,17 @@ def _prompt_tags(config: Config) -> list[str]:
     return validate_tags(raw_tags, config)
 
 
+def _prompt_series() -> tuple[str | None, float | None]:
+    series = Prompt.ask("Series (optional)", default="").strip() or None
+    if not series:
+        return None, None
+    raw = Prompt.ask("  Series number (optional)", default="").strip()
+    if not raw:
+        return series, None
+    num = float(raw)
+    return series, int(num) if num.is_integer() else num
+
+
 def _prompt_read_record() -> dict:
     today = date.today()
     year_str = Prompt.ask("Year read", default=str(today.year))
@@ -154,6 +165,8 @@ def _build_frontmatter(
     isbn: str | None,
     publication_year: int | None,
     publisher: str | None,
+    series: str | None,
+    series_number: float | None,
     rating: float | None,
     tags: list[str],
     read_record: dict,
@@ -172,6 +185,10 @@ def _build_frontmatter(
         fm["publication_year"] = publication_year
     if publisher:
         fm["publisher"] = publisher
+    if series:
+        fm["series"] = series
+        if series_number is not None:
+            fm["series_number"] = series_number
     fm["rating"] = rating
     fm["date_reviewed"] = date.today().isoformat()
     fm["reads"] = [read_record]
@@ -259,6 +276,7 @@ def new(query: tuple[str, ...], manual: bool, review_type: str | None):
         publication_year = int(year_str) if year_str else None
 
     publisher = Prompt.ask("Publisher (optional)", default="").strip() or None
+    series, series_number = _prompt_series()
 
     if not review_type:
         review_type = Prompt.ask(
@@ -321,6 +339,8 @@ def new(query: tuple[str, ...], manual: bool, review_type: str | None):
         isbn=isbn,
         publication_year=publication_year,
         publisher=publisher,
+        series=series,
+        series_number=series_number,
         rating=rating,
         tags=tags,
         read_record=read_record,
@@ -432,6 +452,7 @@ def list_reviews(review_type: str | None, tag: str | None, page: int, per_page: 
     table.add_column("Title")
     table.add_column("Author(s)")
     table.add_column("Type", width=10)
+    table.add_column("Series")
     table.add_column("Rating", width=7)
     table.add_column("Year read", width=10)
     table.add_column("Tags")
@@ -454,6 +475,7 @@ def list_reviews(review_type: str | None, tag: str | None, page: int, per_page: 
             meta.get("title", ""),
             authors,
             meta.get("type", ""),
+            _fmt_series(meta),
             rating_str,
             ", ".join(years),
             ", ".join(meta.get("tags", [])[:3]),
@@ -464,6 +486,18 @@ def list_reviews(review_type: str | None, tag: str | None, page: int, per_page: 
         f"[dim]Showing {start+1}–{min(start+per_page, total)} of {total}. "
         f"Use --page to paginate.[/]"
     )
+
+
+def _fmt_series(meta: dict) -> str:
+    series = meta.get("series")
+    if not series:
+        return ""
+    num = meta.get("series_number")
+    if num is None:
+        return series
+    if isinstance(num, float) and num.is_integer():
+        num = int(num)
+    return f"{series} #{num}"
 
 
 def _stars(rating: float) -> str:
