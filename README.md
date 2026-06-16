@@ -50,6 +50,41 @@ review validate          Check all reviews against the schema
 review init              First-time setup / change content directory
 ```
 
+## Cover sources
+
+`review new` and `review fetch-cover` get a cover through a cascade. The source is
+set by `cover_source` in `~/.review/config.toml` (or per-run with `--source`):
+
+| `cover_source` | Behaviour |
+|----------------|-----------|
+| `openlibrary` (default) | httpx-only: OpenLibrary → WorldCat. Works everywhere, no extra setup, but ~500px re-compressed images. |
+| `amazon` | Full-resolution Amazon master first, then falls back to OpenLibrary/WorldCat. Needs the browser extra. |
+| `auto` | Like `amazon` when a browser is installed, otherwise `openlibrary`. Recommended once the browser extra is set up. |
+
+The Amazon path produces much higher-resolution covers (the same source the bulk
+`stage-covers` repair pipeline uses), so preferring it at creation time avoids
+generating low-res covers that later need fixing. It requires Playwright + Chrome:
+
+```bash
+uv pip install 'review[browser]'   # then optionally: playwright install chromium
+```
+
+`amazon`/`auto` always degrade gracefully — a missing or broken browser falls back
+to the httpx path, so creating a review is never blocked.
+
+```toml
+# ~/.review/config.toml
+cover_source = "auto"
+```
+
+## Bulk cover repair
+
+The bulk pipeline (`stage-covers` → `pick-covers` / `pick-covers-web`, plus
+`find-low-res` and `find-covers`) repairs existing low-resolution covers in batch.
+It is tuned to a specific library and leans on a headless browser; see those
+commands' `--help`. One-off maintenance scripts live in `scripts/` (unsupported;
+read before running).
+
 ## Review file format
 
 Each review lives at `{content_dir}/{type}/{slug}/index.md`.

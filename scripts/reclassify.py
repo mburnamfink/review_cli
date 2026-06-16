@@ -10,8 +10,8 @@ Phase B: emit reclassify_audiobooks.csv listing the newly-reclassified audiobook
 Dry-run by default. Pass --apply to actually move files and write the CSV.
 
 Run from review-cli/:
-    uv run python tools/reclassify.py            # preview
-    uv run python tools/reclassify.py --apply    # execute
+    uv run python scripts/reclassify.py            # preview
+    uv run python scripts/reclassify.py --apply    # execute
 """
 from __future__ import annotations
 

@@ -10,12 +10,19 @@ import/*
 *.ipynb
 *.ipynb_checkpoints/
 
-# tools/ holds scripts (tracked) plus generated/working data (not tracked)
-tools/*.csv
-tools/*.yaml
-tools/*.yml
-tools/*.json
-tools/*.txt
+# scripts/ holds one-off scripts (tracked) plus generated/working data (not tracked)
+scripts/*.csv
+scripts/*.yaml
+scripts/*.yml
+scripts/*.json
+scripts/*.txt
+
+# archived cruft pending deletion
+archive/
+
+# generated cover-workflow artifacts
+low_res_covers.csv
+cover_staging_log.csv
 
 # editor lock files (LibreOffice, etc.)
 .~lock.*#

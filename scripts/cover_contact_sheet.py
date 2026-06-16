@@ -7,7 +7,7 @@ placeholder. Open the output file in a browser; flagged covers can then be
 replaced with: uv run review process-cover <slug> <image.jpg>
 
 Run from review-cli/:
-    uv run python tools/cover_contact_sheet.py
+    uv run python scripts/cover_contact_sheet.py
 """
 from __future__ import annotations
 

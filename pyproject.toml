@@ -18,8 +18,23 @@ dependencies = [
     "PyYAML>=6.0",
 ]
 
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+]
+# Headless-browser cover sourcing (Amazon). Heavy; install only when needed:
+#   uv pip install 'review[browser]'  &&  playwright install chrome
+# (or rely on a system Google Chrome, which review.browser uses by default).
+browser = [
+    "playwright>=1.40",
+]
+
 [project.scripts]
 review = "review.cli:cli"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/review"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

@@ -9,8 +9,8 @@ Only reviews whose value actually changes are touched.
 Dry-run by default. Pass --apply to write.
 
 Run from review-cli/:
-    uv run python tools/apply_series.py            # preview the diff
-    uv run python tools/apply_series.py --apply    # write
+    uv run python scripts/apply_series.py            # preview the diff
+    uv run python scripts/apply_series.py --apply    # write
 """
 from __future__ import annotations
 

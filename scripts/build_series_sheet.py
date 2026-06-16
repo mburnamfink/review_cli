@@ -8,7 +8,7 @@ idempotent). Sorting by author clusters series together for fast manual entry.
 Feed the finished sheet back in with apply_series.py.
 
 Run from review-cli/:
-    uv run python tools/build_series_sheet.py
+    uv run python scripts/build_series_sheet.py
 """
 from __future__ import annotations
 

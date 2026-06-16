@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """List every review missing a cover image, across all types.
 
-Writes tools/missing_covers.txt with one block per review (type/slug, title,
+Writes scripts/missing_covers.txt with one block per review (type/slug, title,
 author, isbn, path). This produces a LIST only — it does not fetch anything;
 the automated cover fetch has already been run and exhausted.
 
 Run from review-cli/:
-    uv run python tools/find_missing_covers.py
+    uv run python scripts/find_missing_covers.py
 """
 from __future__ import annotations
 

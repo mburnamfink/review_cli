@@ -18,6 +18,17 @@ class Config:
     canonical_tags: list[str] = field(default_factory=list)
     librarything_api_key: str | None = None
     editor: str | None = None
+    # Default cover source for `new` / `fetch-cover`:
+    #   "openlibrary" — httpx-only, no browser (bulletproof default)
+    #   "amazon"      — full-res Amazon master first, then OpenLibrary/WorldCat
+    #   "auto"        — like "amazon" when a browser is installed, else "openlibrary"
+    cover_source: str = "openlibrary"
+
+    @property
+    def covers_dir(self) -> Path:
+        """Staging directory for candidate covers (<project>/covers)."""
+        # content_dir is <project>/site/content/reviews; covers sits at <project>/covers
+        return self.content_dir.parent.parent.parent / "covers"
 
     @classmethod
     def load(cls) -> "Config":
@@ -29,7 +40,14 @@ class Config:
         canonical_tags = data.get("tags", {}).get("canonical", [])
         librarything_api_key = data.get("librarything_api_key") or None
         editor = data.get("editor") or None
-        return cls(content_dir=content_dir, canonical_tags=canonical_tags, librarything_api_key=librarything_api_key, editor=editor)
+        cover_source = data.get("cover_source") or "openlibrary"
+        return cls(
+            content_dir=content_dir,
+            canonical_tags=canonical_tags,
+            librarything_api_key=librarything_api_key,
+            editor=editor,
+            cover_source=cover_source,
+        )
 
     def save(self) -> None:
         CONFIG_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -41,5 +59,7 @@ class Config:
             data["librarything_api_key"] = self.librarything_api_key
         if self.editor:
             data["editor"] = self.editor
+        if self.cover_source and self.cover_source != "openlibrary":
+            data["cover_source"] = self.cover_source
         with open(CONFIG_PATH, "wb") as f:
             tomli_w.dump(data, f)

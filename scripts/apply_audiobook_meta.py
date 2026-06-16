@@ -13,8 +13,8 @@ audiobook/{slug}/index.md front matter.
 Dry-run by default. Pass --apply to write.
 
 Run from review-cli/:
-    uv run python tools/apply_audiobook_meta.py            # preview
-    uv run python tools/apply_audiobook_meta.py --apply    # write
+    uv run python scripts/apply_audiobook_meta.py            # preview
+    uv run python scripts/apply_audiobook_meta.py --apply    # write
 """
 from __future__ import annotations
 
