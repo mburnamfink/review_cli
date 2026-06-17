@@ -138,32 +138,69 @@ read before running).
 
 ## Typo & grammar linting
 
-`scripts/lint_typos.py` builds an **assistive** queue of spelling and grammar
-suggestions for review bodies. Nothing is auto-applied — it writes
-`scripts/typo_report.txt` as a `{type}/{slug}/index.md:line: suggestion` queue
-that you accept or reject by hand. Front matter is excluded from both passes, so
-author names, titles, and tags never show up as false positives.
+`scripts/lint_typos.py` finds and (with `--apply`) fixes spelling and grammar
+errors in review bodies. Front matter is excluded from both passes, so author
+names, titles, and tags never show up as false positives.
 
-It runs in two passes:
+It runs two passes:
 
 1. **codespell** — a cheap misspelling / homonym sweep over each body. Always
    runs via `uvx codespell` (no install needed). An ignore-list suppresses words
    that are correct in book reviews but codespell over-eagerly "fixes".
-2. **LLM pass** *(opt-in, `--llm`)* — a per-file grammar / dropped-word /
-   missing-preposition check that codespell can't catch. Needs the `llm` extra
-   (`anthropic` SDK) and an `ANTHROPIC_API_KEY` in the environment. Uses
-   `claude-opus-4-8`.
+2. **LLM pass** — an Opus (`claude-opus-4-8`) grammar / dropped-word /
+   missing-preposition check that codespell can't catch. Synchronous on a
+   `--limit` sample; the full corpus goes through the **Batch API** (~50% cheaper,
+   async). Needs the `llm` extra (`anthropic` SDK) and `ANTHROPIC_API_KEY`.
 
-Run from `review-cli/`:
+### Apply policy
+
+The script edits files in the working tree but **never touches git** — you own
+branch / commit / merge. `--apply` is opt-in; the default is report-only
+(`scripts/typo_report.txt`, no files touched). The policy biases toward applying,
+with `git diff` as your review surface and undo:
+
+| Finding | Action |
+|---|---|
+| codespell, lowercase single suggestion | apply |
+| codespell, multiple suggestions | apply the first suggestion |
+| codespell, **Capitalized / ALL-CAPS** | → residual report (lone guardrail: reliably proper nouns / acronyms) |
+| LLM, quote located in body | apply (exact, else whitespace-normalized) |
+| LLM, quote not locatable | → residual report |
+
+Findings that can't be applied cleanly go to `scripts/residual_report.txt` for a
+short hand-pass. Both reports and the batch state file are gitignored.
+
+### Workflow
+
+Run from `review-cli/`, on a dedicated branch:
 
 ```bash
-uv run python scripts/lint_typos.py                    # codespell only
-uv run python scripts/lint_typos.py --limit 50         # first 50 reviews
-uv run --extra llm python scripts/lint_typos.py --llm  # + LLM grammar pass
+git switch -c typo-fixes
+
+# Validate on a sample first (synchronous, fast, ~pennies):
+uv run --extra llm python scripts/lint_typos.py --llm --limit 50 --apply
+git diff --word-diff          # eyeball; git restore . to discard
+
+# Full corpus via the Batch API (two phase):
+uv run --extra llm python scripts/lint_typos.py --submit   # phase 1: submit, returns at once
+#   ...wait ~20–60 min (runs on Anthropic's side; safe to close the terminal).
+#   Don't edit review bodies in between, or quoted spans may stop matching.
+uv run --extra llm python scripts/lint_typos.py --apply    # phase 2: polls, then writes fixes
+
+git diff --word-diff                       # review; git restore -p <file> to revert a hunk
+cat scripts/residual_report.txt            # small hand-queue
+git commit -am "Proofreading pass" && git switch main && git merge typo-fixes
 ```
 
-`typo_report.txt` is a gitignored working queue; review it and apply accepted
-fixes by hand.
+Other invocations:
+
+```bash
+uv run python scripts/lint_typos.py                 # codespell-only dry-run report
+uv run --extra llm python scripts/lint_typos.py --llm --limit 50   # sample report, no edits
+```
+
+`--apply` re-runs idempotently against the working tree: to redo a run, `git
+restore .` (or reset the branch to `main`) and run again.
 
 ## Review file format
 

@@ -21,7 +21,11 @@
       "Bash('~/.local/bin/uv' run python -c ' *)",
       "Bash(grep -n '.\\\\{80,\\\\}' src/review/goodreads_import.py)",
       "Bash(UV_LINK_MODE=copy ~/.local/bin/uv run review import-goodreads \"import/goodreads_library_export \\(1\\).csv\" --skip \"Careless People\")",
-      "Bash(UV_LINK_MODE=copy ~/.local/bin/uv run review backfill-covers --help)"
+      "Bash(UV_LINK_MODE=copy ~/.local/bin/uv run review backfill-covers --help)",
+      "Bash(time uv run python scripts/lint_typos.py)",
+      "Skill(claude-api)",
+      "Bash(uv run *)",
+      "Bash(git check-ignore *)"
     ],
     "additionalDirectories": [
       "c:\\Users\\michael\\dev\\book-review-site\\site"
