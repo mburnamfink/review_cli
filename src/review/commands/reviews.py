@@ -43,7 +43,7 @@ def _prompt_authors() -> list[dict]:
     while True:
         first = Prompt.ask("  Author first name")
         last = Prompt.ask("  Author last name")
-        role = Prompt.ask("  Role", choices=["author", "editor", "contributor"], default="author")
+        role = Prompt.ask("  Role", choices=["author", "editor", "contributor", "translator"], default="author")
         authors.append({"first": first, "last": last, "role": role})
         if not Confirm.ask("  Add another author?", default=False):
             break

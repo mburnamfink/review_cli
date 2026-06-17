@@ -5,6 +5,7 @@ __pycache__/
 dist/
 build/
 .ruff_cache/
+.pytest_cache/
 *import_log*
 import/*
 *.ipynb
@@ -20,9 +21,13 @@ scripts/*.txt
 # archived cruft pending deletion
 archive/
 
-# generated cover-workflow artifacts
+# generated cover-workflow artifacts + on-disk staging state
 low_res_covers.csv
 cover_staging_log.csv
+covers/
+.pick_state.json
+.pick_web_state.json
+manifest.json
 
 # editor lock files (LibreOffice, etc.)
 .~lock.*#

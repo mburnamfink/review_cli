@@ -9,7 +9,7 @@ from pydantic import BaseModel, Field, field_validator
 class Contributor(BaseModel):
     first: str
     last: str
-    role: Literal["author", "editor", "contributor", "narrator", "illustrator"] = "author"
+    role: Literal["author", "editor", "contributor", "narrator", "illustrator", "translator"] = "author"
 
 
 class ReadRecord(BaseModel):

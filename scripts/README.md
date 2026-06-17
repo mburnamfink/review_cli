@@ -23,5 +23,6 @@ uv run python scripts/build_series_sheet.py
 | `reclassify.py` | One-time book ⇄ audiobook reclassification (moves dirs, rewrites `type:`). |
 | `find_missing_covers.py` | List reviews with no cover image. |
 | `cover_contact_sheet.py` | Build an HTML contact sheet of every cover for visual audit. |
+| `lint_typos.py` | Assistive typo / grammar queue for review bodies (codespell + optional LLM pass). |
 
 Generated CSV/JSON/YAML working files in this directory are gitignored.

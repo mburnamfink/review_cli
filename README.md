@@ -22,6 +22,21 @@ uv tool install .
 pip install .
 ```
 
+### Developing on the CLI
+
+A plain `uv tool install .` builds a **frozen copy** of the source into an
+isolated environment, so your edits under `src/` don't take effect until you
+rerun the install. To avoid reinstalling after every change, install the tool
+**editable** so the `review` command imports your working tree directly:
+
+```bash
+uv tool install --force --editable .
+```
+
+After that, `src/` edits apply live with no reinstall — only rerun the command
+when `pyproject.toml` changes (entry points or dependencies). If you add the
+browser extra, include it: `uv tool install --force --editable '.[browser]'`.
+
 ## First-time setup
 
 ```bash
@@ -77,6 +92,42 @@ to the httpx path, so creating a review is never blocked.
 cover_source = "auto"
 ```
 
+## Browser cover sourcing (the `browser` extra)
+
+The `amazon` and `auto` sources fetch the genuine full-resolution Amazon cover
+master (~2560px) instead of OpenLibrary's re-compressed ~500px image. That path
+drives a headless browser, which isn't in the default dependencies — install the
+`browser` extra to enable it:
+
+```bash
+# As the installed tool (editable dev install):
+uv tool install --force --editable '.[browser]'
+
+# Or into a working environment:
+uv pip install 'review[browser]'
+```
+
+The browser uses your **system Google Chrome** by default (`channel="chrome"`, no
+150 MB browser download). If Chrome isn't present, install Chromium for
+Playwright instead:
+
+```bash
+playwright install chromium
+```
+
+Once installed, set `cover_source = "auto"` (Amazon when a browser is available,
+else httpx) or `"amazon"` (Amazon first, always). Both **degrade gracefully**: a
+missing browser, captcha, timeout, or no-match silently falls back to the
+OpenLibrary → WorldCat httpx path, so creating a review is never blocked. To try
+it ad hoc without changing the install, run with `uv`:
+
+```bash
+uv run --with playwright review fetch-cover "QUERY" --source amazon
+```
+
+The bulk `find-covers` / `stage-covers` repair pipeline relies on this same
+browser path — see [Bulk cover repair](#bulk-cover-repair).
+
 ## Bulk cover repair
 
 The bulk pipeline (`stage-covers` → `pick-covers` / `pick-covers-web`, plus
@@ -84,6 +135,35 @@ The bulk pipeline (`stage-covers` → `pick-covers` / `pick-covers-web`, plus
 It is tuned to a specific library and leans on a headless browser; see those
 commands' `--help`. One-off maintenance scripts live in `scripts/` (unsupported;
 read before running).
+
+## Typo & grammar linting
+
+`scripts/lint_typos.py` builds an **assistive** queue of spelling and grammar
+suggestions for review bodies. Nothing is auto-applied — it writes
+`scripts/typo_report.txt` as a `{type}/{slug}/index.md:line: suggestion` queue
+that you accept or reject by hand. Front matter is excluded from both passes, so
+author names, titles, and tags never show up as false positives.
+
+It runs in two passes:
+
+1. **codespell** — a cheap misspelling / homonym sweep over each body. Always
+   runs via `uvx codespell` (no install needed). An ignore-list suppresses words
+   that are correct in book reviews but codespell over-eagerly "fixes".
+2. **LLM pass** *(opt-in, `--llm`)* — a per-file grammar / dropped-word /
+   missing-preposition check that codespell can't catch. Needs the `llm` extra
+   (`anthropic` SDK) and an `ANTHROPIC_API_KEY` in the environment. Uses
+   `claude-opus-4-8`.
+
+Run from `review-cli/`:
+
+```bash
+uv run python scripts/lint_typos.py                    # codespell only
+uv run python scripts/lint_typos.py --limit 50         # first 50 reviews
+uv run --extra llm python scripts/lint_typos.py --llm  # + LLM grammar pass
+```
+
+`typo_report.txt` is a gitignored working queue; review it and apply accepted
+fixes by hand.
 
 ## Review file format
 

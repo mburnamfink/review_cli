@@ -19,11 +19,15 @@ console = Console()
 def open_editor(path: Path, cfg: Config | None = None) -> None:
     editor = (cfg.editor if cfg else None) or os.environ.get("EDITOR") or os.environ.get("VISUAL")
     if editor:
+        # Honor an explicitly configured editor as-is: a terminal editor
+        # (vim, nano) needs the foreground tty, so block on it.
         subprocess.run([*editor.split(), str(path)])
     elif sys.platform == "win32":
         os.startfile(str(path))
     else:
-        subprocess.run(["code", "--wait", str(path)])
+        # Default: open the GUI editor and return so the terminal stays free.
+        # (Previously "code --wait", which held the shell until the tab closed.)
+        subprocess.Popen(["code", str(path)])
 
 
 def _iter_reviews(content_dir: Path):

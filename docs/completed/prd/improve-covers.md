@@ -1,6 +1,6 @@
 # PRD: Cover Improvement Workflow
 
-> Status: ready-for-agent
+> Status: completed (2026-06-15)
 > Area: `review_cli`
 > Source: design grilling session, 2026-06-13
 

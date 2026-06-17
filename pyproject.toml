@@ -22,6 +22,12 @@ dependencies = [
 dev = [
     "pytest>=8.0",
 ]
+# Optional LLM grammar pass for scripts/lint_typos.py (Task 3, typos). Needs an
+# ANTHROPIC_API_KEY in the environment. Install + run with:
+#   uv run --extra llm python scripts/lint_typos.py --llm
+llm = [
+    "anthropic>=0.40",
+]
 # Headless-browser cover sourcing (Amazon). Heavy; install only when needed:
 #   uv pip install 'review[browser]'  &&  playwright install chrome
 # (or rely on a system Google Chrome, which review.browser uses by default).
