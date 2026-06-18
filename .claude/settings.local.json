@@ -25,7 +25,19 @@
       "Bash(time uv run python scripts/lint_typos.py)",
       "Skill(claude-api)",
       "Bash(uv run *)",
-      "Bash(git check-ignore *)"
+      "Bash(git check-ignore *)",
+      "Bash(gh auth *)",
+      "Bash(gh run *)",
+      "Bash(gh api *)",
+      "Bash(timeout 180 npx astro build)",
+      "Bash(~/work/bin/python -c \"import sys; print\\(sys.executable\\)\")",
+      "Bash(~/work/bin/python -c \"import playwright, importlib.util; print\\('playwright OK', playwright.__file__\\)\")",
+      "Bash(~/work/bin/python -c \"import review; print\\('review OK', review.__file__\\)\")",
+      "Bash(.venv/bin/python -c \"import sys, review; print\\(sys.executable\\); print\\(review.__file__\\)\")",
+      "Bash(.venv/bin/python -c \"import playwright; print\\('playwright OK', playwright.__file__\\)\")",
+      "Bash(uv pip *)",
+      "Bash(.venv/bin/review config-amazon-cover *)",
+      "Bash(.venv/bin/python -m pytest -q)"
     ],
     "additionalDirectories": [
       "c:\\Users\\michael\\dev\\book-review-site\\site"

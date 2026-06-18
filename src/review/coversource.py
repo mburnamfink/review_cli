@@ -40,6 +40,27 @@ def browser_available() -> bool:
     return importlib.util.find_spec("playwright") is not None
 
 
+def check_browser() -> tuple[bool, str]:
+    """Actually launch the browser to confirm the Amazon path can run.
+
+    Unlike :func:`browser_available` (a cheap, import-only probe), this opens a
+    real session — the only way to know a usable Chrome/Chromium is present, not
+    just the Playwright bindings. Returns ``(ok, detail)`` where ``detail`` is a
+    human-readable reason when ``ok`` is False.
+    """
+    if not browser_available():
+        return False, "Playwright is not installed."
+    from .browser import BrowserUnavailable, browser_session
+
+    try:
+        with browser_session():
+            return True, "Browser launched."
+    except BrowserUnavailable as e:
+        return False, str(e)
+    except Exception as e:
+        return False, f"{type(e).__name__}: {e}"
+
+
 def resolve_order(source: str) -> list[str]:
     """The ordered source cascade for a configured/flagged ``source`` value.
 

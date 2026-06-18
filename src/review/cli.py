@@ -32,6 +32,7 @@ cli.add_command(reviews.fetch_cover)
 cli.add_command(reviews.process_cover_cmd)
 cli.add_command(reviews.crop)
 cli.add_command(reviews.init)
+cli.add_command(reviews.config_amazon_cover)
 
 # Bulk cover-repair pipeline.
 cli.add_command(covers.find_low_res_cmd)

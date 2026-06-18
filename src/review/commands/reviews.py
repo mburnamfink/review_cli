@@ -16,7 +16,7 @@ from rich.prompt import Confirm, Prompt
 from rich.table import Table
 
 from ..config import Config
-from ..coversource import VALID_SOURCES, source_cover
+from ..coversource import AMAZON, VALID_SOURCES, browser_available, check_browser, source_cover
 from ..covers import process_cover, regenerate_og_cover
 from ..models import parse_review
 from ..openlibrary import search
@@ -668,6 +668,74 @@ def crop(query: str):
 # ---------------------------------------------------------------------------
 # review init
 # ---------------------------------------------------------------------------
+
+
+@click.command("config-amazon-cover")
+@click.option(
+    "--source", "source",
+    type=click.Choice(VALID_SOURCES),
+    default="auto",
+    show_default=True,
+    help="Cover source to set as the default.",
+)
+@click.option(
+    "--test/--no-test", "live_test",
+    default=True,
+    help="Do a live cover fetch to confirm the Amazon scrape works.",
+)
+def config_amazon_cover(source: str, live_test: bool):
+    """Check the Amazon cover path and set the default cover source.
+
+    Verifies Playwright + a browser are usable (an import check, then a real
+    launch), optionally does a live Amazon cover fetch, then writes
+    ``cover_source`` to ~/.review/config.toml.
+    """
+    from ..config import CONFIG_PATH
+
+    config = Config.load()
+    console.print("\n[bold]Checking the Amazon cover path…[/]\n")
+
+    if browser_available():
+        console.print("  [green]✓[/] Playwright is installed.")
+    else:
+        console.print("  [red]✗[/] Playwright is not installed.")
+        console.print("    Install it with: [bold]uv pip install 'review[browser]'[/]")
+
+    ok, detail = check_browser()
+    if ok:
+        console.print("  [green]✓[/] Browser launches.")
+    else:
+        console.print(f"  [red]✗[/] Browser will not launch: {detail}")
+        console.print(
+            "    Install Google Chrome, or run [bold]playwright install chromium[/]."
+        )
+
+    if ok and live_test:
+        console.print("\n  [dim]Fetching a test cover (Dune)…[/]")
+        data, used = source_cover(
+            "Dune", "Frank Herbert", "9780441013593", source="amazon"
+        )
+        if data and used == AMAZON:
+            console.print(f"  [green]✓[/] Amazon cover fetched ({len(data):,} bytes).")
+        elif data:
+            console.print(
+                f"  [yellow]![/] Got a cover via {used}, not Amazon — "
+                "the Amazon scrape may be blocked right now."
+            )
+        else:
+            console.print("  [yellow]![/] No cover returned from the test fetch.")
+
+    if source in ("amazon", "auto") and not ok:
+        if not Confirm.ask(
+            f"\nBrowser checks failed. Still set cover_source = '{source}'?",
+            default=False,
+        ):
+            console.print("[dim]Config unchanged.[/]")
+            return
+
+    config.cover_source = source
+    config.save()
+    console.print(f"\n[green]Set[/] cover_source = [bold]{source}[/] in {CONFIG_PATH}")
 
 
 @click.command("init")
