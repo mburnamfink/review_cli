@@ -283,9 +283,13 @@ def new(query: tuple[str, ...], manual: bool, review_type: str | None, source: s
         # yaml anchor/alias generation from shared object references
         authors = authors + [dict(extra["narrator"])]
     elif review_type == "rpg":
-        extra["system"] = Prompt.ask("System (optional)", default="").strip() or None
+        # Omit when blank: a YAML `null` here fails the site's Zod schema
+        # (typeof null === "object", which z.string().optional() rejects).
+        if system := Prompt.ask("System (optional)", default="").strip():
+            extra["system"] = system
     elif review_type == "other":
-        extra["medium"] = Prompt.ask("Medium (optional)", default="").strip() or None
+        if medium := Prompt.ask("Medium (optional)", default="").strip():
+            extra["medium"] = medium
 
     rating = _prompt_rating()
     tags = _prompt_tags(config)

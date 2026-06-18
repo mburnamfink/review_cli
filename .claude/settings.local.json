@@ -37,7 +37,9 @@
       "Bash(.venv/bin/python -c \"import playwright; print\\('playwright OK', playwright.__file__\\)\")",
       "Bash(uv pip *)",
       "Bash(.venv/bin/review config-amazon-cover *)",
-      "Bash(.venv/bin/python -m pytest -q)"
+      "Bash(.venv/bin/python -m pytest -q)",
+      "Bash(npx astro *)",
+      "Bash(grep -iA12 \"realis\\\\|system\\\\|YAMLException\\\\|Could not parse\\\\|expected\\\\|invalid\")"
     ],
     "additionalDirectories": [
       "c:\\Users\\michael\\dev\\book-review-site\\site"
