@@ -63,7 +63,31 @@ review list --tag war    Filter by tag
 
 review validate          Check all reviews against the schema
 review init              First-time setup / change content directory
+
+review publish           Validate, commit, and push pending review changes
+review publish --dry-run Show what would be committed and pushed, then stop
+review publish -y        Skip the confirmation prompt
 ```
+
+## Publishing
+
+`review publish` commits and pushes your pending review changes to the site
+repo. The site is deployed by Cloudflare Pages on every push to `main`, so the
+push **is** the deploy — there is no separate build step.
+
+It works from any terminal (no need to `cd` into the site) and:
+
+1. Validates every review against the schema, aborting before any git action if
+   one fails — you never publish a broken review.
+2. Stages all uncommitted files under the reviews content directory (the
+   `index.md` plus its co-located `cover.jpg` / `og-cover.jpg`).
+3. Shows the file list and the auto-generated commit message, asks to confirm,
+   then commits and pushes to the upstream branch.
+
+The commit message comes from the frontmatter: a single new review becomes
+`Add review: <title> by <author>`; several at once become
+`Publish N review updates`. Use `--dry-run` to preview without changing
+anything, or `-y` to skip the confirmation.
 
 ## Cover sources
 
